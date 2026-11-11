@@ -33,7 +33,11 @@
     "videoId": "HSAVz1AxwWY",
     "videoTitle": "Sheet Pan Chickpea Fajitas (Ready in 30 Minutes!)",
     "videoAuthor": "Live Eat Learn",
-    "videoNote": "Related tutorial by Live Eat Learn. Ingredients and quantities may differ; follow the written recipe above."
+    "videoNote": "Related tutorial by Live Eat Learn. Ingredients and quantities may differ; follow the written recipe above.",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ]
   },
   "mealdb-52960": {
     "videoId": "FJiu2S0Xap0",

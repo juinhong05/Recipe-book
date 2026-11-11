@@ -569,7 +569,8 @@ export const communityRecipes = [
     "category": "Vegetarian",
     "area": "Mexican",
     "equipment": [
-      "Oven"
+      "Oven",
+      "Stovetop"
     ],
     "equipmentInferred": true,
     "ingredients": [

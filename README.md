@@ -24,4 +24,4 @@ Sources: https://www.themealdb.com/api.php and https://www.themealdb.com/terms_o
 
 ## Validation
 
-Ten automated tests cover filtering, missing metadata, pantry aliases, unique records, media references and preserved ingredient measures. Browser checks cover catalogue loading, filtering, additional results, recipe details, embedded playback, favourites, step progress, player teardown, and desktop/mobile layout. Video availability was checked through YouTube oEmbed metadata; representative playback was verified in-browser. This does not guarantee playback for every viewer or region.
+Eleven automated tests cover filtering, missing metadata, pantry aliases, unique records, media references and preserved ingredient measures. Browser checks cover catalogue loading, filtering, additional results, recipe details, embedded playback, favourites, step progress, player teardown, and desktop/mobile layout. Video availability was checked through YouTube oEmbed metadata; representative playback was verified in-browser. This does not guarantee playback for every viewer or region.

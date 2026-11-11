@@ -15,7 +15,7 @@ def canonical(name):
  return aliases.get(name.lower(),name[:1].upper()+name[1:].lower())
 def equipment(method):
  text=method.lower(); result=[]
- for name,pattern in [('Oven',r'\boven\b|\bbak(?:e|ing)\b|\broast\b'),('Stovetop',r'\b(?:saucepan|skillet|wok|hob|stove|frying pan|fry|boil|simmer|saute|saut\w+)\b'),('Blender',r'\bblender\b'),('Food processor',r'\bfood processor\b'),('Slow cooker',r'\bslow cooker\b|\bcrock.?pot\b'),('Grill',r'\bbarbecue\b|\bbbq\b'),('Microwave',r'\bmicrowave\b')]:
+ for name,pattern in [('Oven',r'\boven\b|\bbak(?:e|ing)\b|\broast\b'),('Stovetop',r'\b(?:saucepan|skillet|wok|hob|stove|griddle pan|frying pan|fry|boil|simmer|saute|saut\w+)\b'),('Blender',r'\bblender\b'),('Food processor',r'\bfood processor\b'),('Slow cooker',r'\bslow cooker\b|\bcrock.?pot\b'),('Grill',r'\bbarbecue\b|\bbbq\b'),('Microwave',r'\bmicrowave\b')]:
   if re.search(pattern,text):result.append(name)
  return result or None
 def steps(text):
