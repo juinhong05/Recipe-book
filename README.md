@@ -1,6 +1,48 @@
 # Pantry & Plate
 
-A responsive recipe finder and installable web app. Run `npm start`, then open http://127.0.0.1:4173. Run `npm test` for filter and catalogue checks. No build step or dependency installation is needed; deploy `dist/` as a static site.
+A responsive recipe finder and installable web app that helps you cook with the ingredients and equipment you already have. Built with HTML, CSS and vanilla JavaScript, with 100 recipes, real food photography and embedded video tutorials.
+
+## Run locally
+
+Requires Node.js 22 or newer. No dependencies, API keys or environment variables are needed to run the app.
+
+```sh
+git clone https://github.com/juinhong05/Recipe-book.git
+cd Recipe-book
+npm start
+```
+
+Open [http://127.0.0.1:4173](http://127.0.0.1:4173). Use an HTTP server instead of opening `index.html` directly so JavaScript modules and the service worker work correctly.
+
+```sh
+npm test
+```
+
+## Deploy to Vercel
+
+Import [juinhong05/Recipe-book](https://github.com/juinhong05/Recipe-book) into Vercel and deploy the `main` branch. The included `vercel.json` sets:
+
+| Setting | Value |
+| --- | --- |
+| Root directory | Repository root (`.`) |
+| Framework preset | Other |
+| Build command | Empty (no build required) |
+| Install command | Empty (no dependencies) |
+| Output directory | `dist` |
+| Environment variables | None |
+
+Vercel serves the static files directly. `server.mjs` is only for local development. With the GitHub repository connected, pushes to `main` produce production deployments and pull requests receive preview deployments.
+
+Alternatively, deploy from this folder with the [Vercel CLI](https://vercel.com/docs/cli):
+
+```sh
+npx vercel login
+npx vercel link
+npx vercel git connect https://github.com/juinhong05/Recipe-book.git
+npx vercel --prod
+```
+
+The static output can also be served by any HTTPS static host. HTTPS enables service workers and installation where supported by the browser.
 
 ## Features
 
@@ -20,7 +62,30 @@ TheMealDB does not provide nutrition, serving yield or complete preparation time
 
 Sources: https://www.themealdb.com/api.php and https://www.themealdb.com/terms_of_use.php. The development API permits development projects; review the provider’s subscription requirements before an app-store release. Credits and source links appear in recipe details and the footer.
 
-`dist/catalogue.js` contains the checked snapshot. `scripts/import-recipes.py <official-api-response-json>` rebuilds it from a supplied array of API records and downloads local photos; `scripts/media-overrides.json` preserves checked tutorial replacements and metadata corrections. Run from the project folder. Local media lives in `dist/assets/meals/`. The older `design-concept.png` is a design reference, not a live asset.
+`dist/catalogue.js` contains the checked snapshot. `scripts/import-recipes.py <official-api-response-json>` rebuilds it from a supplied array of API records and downloads local photos; `scripts/media-overrides.json` preserves checked tutorial replacements and metadata corrections. Run from the project folder. Local media lives in `dist/assets/meals/`.
+
+## Project structure
+
+```text
+dist/
+  index.html            Page structure
+  style.css             Responsive styles
+  app.js                Filters, recipe dialogs and saved cookbook
+  recipes.js            Original recipes and filtering helpers
+  catalogue.js          Imported recipe snapshot
+  video.js              Embedded YouTube player lifecycle
+  sw.js                 Offline caching
+  manifest.webmanifest  Installable app metadata
+  assets/               Icon and local food photography
+scripts/                Catalogue import and media corrections
+tests/                  Node.js filter and catalogue tests
+server.mjs              Local development server
+vercel.json             Static hosting configuration
+```
+
+## Storage and privacy
+
+Pantry ingredients, equipment and saved recipes stay in the current browser's local storage. There is no account system or cross-device sync. Moving to a different domain starts a separate local cookbook. Recipe photos are served locally; embedded YouTube videos load from YouTube only when requested. Clearing site data removes saved preferences and offline content.
 
 ## Validation
 

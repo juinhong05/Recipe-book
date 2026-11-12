@@ -1,3 +1,8 @@
 node_modules/
 *.zip
-.openai/*.local.*
+.openai/
+.vercel/
+.env
+.env.*
+!.env.example
+design-concept.png
