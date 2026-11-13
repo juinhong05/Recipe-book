@@ -1,5 +1,7 @@
 # Pantry & Plate
 
+[**Open the live app**](https://recipe-book-orpin-zeta.vercel.app/) · [Vercel project](https://vercel.com/mj1112/recipe-book)
+
 A responsive recipe finder and installable web app that helps you cook with the ingredients and equipment you already have. Built with HTML, CSS and vanilla JavaScript, with 100 recipes, real food photography and embedded video tutorials.
 
 ## Run locally
