@@ -6,6 +6,13 @@ ROOT=pathlib.Path(__file__).resolve().parents[1]
 overrides_path=ROOT/'scripts'/'media-overrides.json'
 overrides=json.loads(overrides_path.read_text(encoding='utf-8')) if overrides_path.exists() else {}
 meals=json.loads(pathlib.Path(sys.argv[1]).read_text(encoding='utf-8'))
+append_mode='--append' in sys.argv[2:]
+existing_records=[]; existing_media={}
+if append_mode:
+ snapshot=(ROOT/'dist'/'catalogue.js').read_text(encoding='utf-8')
+ recipe_json,media_json=snapshot.split(';\nexport const originalMedia = ',1)
+ existing_records=json.loads(recipe_json.removeprefix('export const communityRecipes = '))
+ existing_media=json.loads(media_json.rstrip().removesuffix(';'))
 def video_id(url):
  m=re.search(r'(?:[?&]v=|youtu\.be/|/shorts/)([A-Za-z0-9_-]{11})(?:[?&/]|$)',url or '')
  return m[1] if m else None
@@ -38,7 +45,11 @@ preferred=['52771','52963','52814','52956','52952','52870','52960','52949','5286
 by_id={m['idMeal']:m for m in eligible}; chosen=[by_id[i] for i in preferred if i in by_id]
 for m in sorted(eligible,key=lambda m:(m['strCategory']=='Dessert',m['strMeal'])):
  if m not in chosen and len(chosen)<88:chosen.append(m)
-assert len(chosen)==88
+if append_mode:
+ chosen=eligible
+ if len(chosen)!=len(meals):raise ValueError('Every appended recipe needs a photo, instructions and a video reference')
+else:
+ assert len(chosen)==88
 records=[];photos=[]
 for m in chosen:
  ing=[]
@@ -63,13 +74,17 @@ videos={
  'overnight-oats':('ZoBxQ4FuETs','Filling Meals')}
 media={}
 for key,(vid,credit) in videos.items():
+ if append_mode:continue
  url=f'https://i.ytimg.com/vi/{vid}/hqdefault.jpg'
  media[key]={'image':f'./assets/meals/{key}.jpg','photoCredit':credit+' · tutorial thumbnail','photoSource':f'https://www.youtube.com/watch?v={vid}','videoId':vid,'videoNote':'Related cooking tutorial. Ingredients and portions may differ from our written recipe.'}
  media[key].update(overrides.get(key,{}))
  url=f"https://i.ytimg.com/vi/{media[key]['videoId']}/hqdefault.jpg"
  photos.append((url,ROOT/'dist'/'assets'/'meals'/f'{key}.jpg'))
-out=ROOT/'dist'/'catalogue.js'
-out.write_text('export const communityRecipes = '+json.dumps(records,ensure_ascii=False,indent=2)+';\nexport const originalMedia = '+json.dumps(media,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+if append_mode:
+ # Keep saved IDs stable and make repeat imports idempotent.
+ updates={r['id']:r for r in records}
+ records=[updates.pop(r['id'],r) for r in existing_records]+list(updates.values())
+ media=existing_media
 (ROOT/'dist'/'assets'/'meals').mkdir(parents=True,exist_ok=True)
 def download(item):
  url,path=item
@@ -78,3 +93,5 @@ def download(item):
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:status=list(pool.map(download,photos))
 print(json.dumps({'imported':len(records),'photos':len(status),'failed':[s for s in status if not s['ok']]},indent=2))
 if any(not s['ok'] for s in status):sys.exit(1)
+out=ROOT/'dist'/'catalogue.js'
+out.write_text('export const communityRecipes = '+json.dumps(records,ensure_ascii=False,indent=2)+';\nexport const originalMedia = '+json.dumps(media,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')

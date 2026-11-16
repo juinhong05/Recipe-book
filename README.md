@@ -2,7 +2,7 @@
 
 [**Open the live app**](https://recipe-book-orpin-zeta.vercel.app/) · [Vercel project](https://vercel.com/mj1112/recipe-book)
 
-A responsive recipe finder and installable web app that helps you cook with the ingredients and equipment you already have. Built with HTML, CSS and vanilla JavaScript, with 100 recipes, real food photography and embedded video tutorials.
+A responsive recipe finder and installable web app that helps you cook with the ingredients and equipment you already have. Built with HTML, CSS and vanilla JavaScript, with 116 recipes, real food photography and embedded video tutorials.
 
 ## Run locally
 
@@ -48,13 +48,27 @@ The static output can also be served by any HTTPS static host. HTTPS enables ser
 
 ## Features
 
-- 100 recipes: 88 community recipes from TheMealDB plus the original 12 recipes, preserving their IDs and saved favourites.
+- 116 recipes: 104 community recipes from TheMealDB plus the original 12 recipes, preserving their IDs and saved favourites.
 - Real food photos and creator tutorial thumbnails, with attribution. No generated imagery is used by the live app.
 - Ingredient matching, equipment filters, total-time and calorie limits, recipe/cuisine search, and 18-at-a-time browsing.
 - Video tutorials play inside the recipe dialog using YouTube’s official privacy-enhanced embedded player. Videos load only on request, stay mounted while saving or completing steps, and stop when the dialog closes. Network failures and disabled embeds show an inline explanation and retry option.
 - Original recipes retain 1–8 serving adjustment. Imported recipes show source quantities because serving yield is not supplied.
 - Pantry, equipment and favourites remain in browser-local storage.
 - Service worker caches the app and visited local photos for offline use. Videos require internet access.
+
+## Asian recipes
+
+Select **Asian** to browse the collection, or search by dish or cuisine. The latest addition includes 16 dishes across Malaysian, Japanese, Chinese, Thai, Vietnamese and Indian cooking: laksa, chicken katsu curry, yaki udon, egg drop soup, kung pao chicken, kung po prawns, mapo tofu, wontons, massaman beef curry, Vietnamese pork noodles, dal fry, kidney bean curry, lamb biryani, lamb rogan josh, matar paneer and recheado fish.
+
+Real community photographs are served locally and tutorials play inside the recipe dialog. Source omissions and corrections are explained in the affected recipe descriptions. Unknown nutrition and timing remain unlisted.
+
+To reimport this curated addition without replacing existing recipes or saved IDs:
+
+```sh
+python scripts/import-recipes.py scripts/asian-recipes.json --append
+```
+
+The raw API snapshot is kept in `scripts/asian-recipes.json`; tutorial checks and editorial corrections are in `scripts/media-overrides.json`.
 
 ## Data and attribution
 
@@ -91,4 +105,4 @@ Pantry ingredients, equipment and saved recipes stay in the current browser's lo
 
 ## Validation
 
-Eleven automated tests cover filtering, missing metadata, pantry aliases, unique records, media references and preserved ingredient measures. Browser checks cover catalogue loading, filtering, additional results, recipe details, embedded playback, favourites, step progress, player teardown, and desktop/mobile layout. Video availability was checked through YouTube oEmbed metadata; representative playback was verified in-browser. This does not guarantee playback for every viewer or region.
+Automated tests cover filtering, missing metadata, pantry aliases, unique records, media references and preserved ingredient measures. Browser checks cover catalogue loading, filtering, additional results, recipe details, embedded playback, favourites, step progress, player teardown, and desktop/mobile layout. Video availability was checked through YouTube oEmbed metadata; representative playback was verified in-browser. This does not guarantee playback for every viewer or region.

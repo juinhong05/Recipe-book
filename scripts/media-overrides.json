@@ -608,5 +608,865 @@
     "videoTitle": "Banana Overnight Oats",
     "videoAuthor": "Filling Meals",
     "videoNote": "Related tutorial by Filling Meals. Ingredients and portions may differ from our written recipe."
+  },
+  "mealdb-52821": {
+    "videoId": "OcarztU8cYo",
+    "videoTitle": "Spicy King Prawn laksa",
+    "videoAuthor": "Haste's Kitchen",
+    "videoNote": "Related tutorial by Haste's Kitchen. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbsp",
+        "Olive Oil"
+      ],
+      [
+        "Red chilli",
+        null,
+        "1 finely sliced",
+        "Red Chilli"
+      ],
+      [
+        "Thai red curry paste",
+        null,
+        "2 ½ tbsp",
+        "Thai red curry paste"
+      ],
+      [
+        "Vegetable stock cube",
+        null,
+        "1",
+        "vegetable stock cube"
+      ],
+      [
+        "Coconut milk",
+        null,
+        "400ml can",
+        "coconut milk"
+      ],
+      [
+        "Fish sauce",
+        null,
+        "2 tsp",
+        "fish sauce"
+      ],
+      [
+        "Rice noodles",
+        null,
+        "100g",
+        "rice noodles"
+      ],
+      [
+        "Lime",
+        null,
+        "2 juice of 1, the other halved",
+        "lime"
+      ],
+      [
+        "King prawns",
+        null,
+        "150g",
+        "king prawns"
+      ],
+      [
+        "Coriander",
+        null,
+        "½ small pack",
+        "coriander"
+      ]
+    ],
+    "recipeEdited": true,
+    "description": "Malaysian cooking, adapted from TheMealDB. Lime juice and wedges are grouped under lime for pantry matching."
+  },
+  "mealdb-52820": {
+    "videoId": "MWzxDFRtVbc",
+    "videoTitle": "Japanese Chicken Katsu Curry | Gizzi Erskine",
+    "videoAuthor": "Jamie Oliver",
+    "videoNote": "Related tutorial by Jamie Oliver. Ingredients and quantities may differ; follow the written recipe above."
+  },
+  "mealdb-52871": {
+    "videoId": "5Iy0MCowSvA",
+    "videoTitle": "How To Make Yaki Udon (Stir Fried Udon Noodles) (Recipe) 焼きうどんの作り方 （レシピ）",
+    "videoAuthor": "Just One Cookbook",
+    "videoNote": "Related tutorial by Just One Cookbook. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Udon noodles",
+        null,
+        "250g",
+        "Udon Noodles"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "2 tbs",
+        "Sesame Seed Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 sliced",
+        "Onion"
+      ],
+      [
+        "Cabbage",
+        null,
+        "0.25",
+        "Cabbage"
+      ],
+      [
+        "Shiitake mushrooms",
+        null,
+        "10",
+        "Shiitake Mushrooms"
+      ],
+      [
+        "Spring onion",
+        null,
+        "4",
+        "Spring Onions"
+      ],
+      [
+        "Mirin",
+        null,
+        "4 tbsp",
+        "Mirin"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbs",
+        "Soy Sauce"
+      ],
+      [
+        "Caster sugar",
+        null,
+        "1 tblsp",
+        "Caster Sugar"
+      ],
+      [
+        "Vegetarian worcestershire sauce",
+        null,
+        "1 tbsp",
+        "vegetarian Worcestershire sauce"
+      ]
+    ],
+    "recipeEdited": true,
+    "description": "Japanese cooking, adapted from TheMealDB. Use vegetarian Worcestershire sauce for this meat-free version."
+  },
+  "mealdb-52955": {
+    "videoId": "9XpzHm9QpZg",
+    "videoTitle": "How to Make Egg Drop Soup",
+    "videoAuthor": "Sue and Gambo",
+    "videoNote": "Related tutorial by Sue and Gambo. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Chicken stock",
+        null,
+        "3 cups",
+        "Chicken Stock"
+      ],
+      [
+        "Salt",
+        null,
+        "1/4 tsp",
+        "Salt"
+      ],
+      [
+        "Sugar",
+        null,
+        "1/4 tsp",
+        "Sugar"
+      ],
+      [
+        "Pepper",
+        null,
+        "pinch",
+        "Pepper"
+      ],
+      [
+        "Sesame seed oil",
+        null,
+        "1 tsp",
+        "Sesame Seed Oil"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "1/3 cup",
+        "Peas"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "1/3 cup",
+        "Mushrooms"
+      ],
+      [
+        "Cornstarch",
+        null,
+        "1 tbs",
+        "Cornstarch"
+      ],
+      [
+        "Water",
+        null,
+        "2 tbs",
+        "Water"
+      ],
+      [
+        "Spring onion",
+        null,
+        "1/4 cup",
+        "Spring Onions"
+      ],
+      [
+        "Eggs",
+        null,
+        "1, lightly beaten",
+        "egg"
+      ]
+    ],
+    "category": "Starter",
+    "equipment": [
+      "Stovetop"
+    ],
+    "recipeEdited": true,
+    "description": "Chinese cooking, adapted from TheMealDB. The egg mentioned in the method is included in the ingredient checklist. This version uses chicken stock."
+  },
+  "mealdb-52945": {
+    "videoId": "QqdcCHQlOe0",
+    "videoTitle": "SUPER EASY Kung Pao Chicken Recipe 宫保鸡 One Pot Chinese Chicken Recipe • Spicy Chinese Food",
+    "videoAuthor": "Spice N' Pans",
+    "videoNote": "Related tutorial by Spice N' Pans. Ingredients and quantities may differ; follow the written recipe above."
+  },
+  "mealdb-52946": {
+    "videoId": "ysiuZm9FIxs",
+    "videoTitle": "Easy Kung Pao Shrimp",
+    "videoAuthor": "Panlasang Pinoy",
+    "videoNote": "Related tutorial by Panlasang Pinoy. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Prawns",
+        null,
+        "400g, raw and peeled",
+        "raw prawns"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbsp",
+        "light soy sauce"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "2 tbsp",
+        "Chinese rice vinegar"
+      ],
+      [
+        "Tomato puree",
+        null,
+        "1 heaped tbsp",
+        "tomato puree"
+      ],
+      [
+        "Corn flour",
+        null,
+        "1 tsp",
+        "cornflour"
+      ],
+      [
+        "Caster sugar",
+        null,
+        "1 tsp",
+        "caster sugar"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp",
+        "sunflower or groundnut oil"
+      ],
+      [
+        "Peanuts",
+        null,
+        "85g, unsalted and roasted",
+        "peanuts"
+      ],
+      [
+        "Chilli",
+        null,
+        "3 large, dried",
+        "dried chillies"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves, chopped",
+        "garlic"
+      ],
+      [
+        "Water chestnut",
+        null,
+        "450g canned, drained",
+        "water chestnuts"
+      ],
+      [
+        "Ginger",
+        null,
+        "thumb-sized piece, grated",
+        "ginger"
+      ]
+    ],
+    "originalSource": "https://www.bbcgoodfood.com/recipes/kung-po-prawns",
+    "recipeEdited": true,
+    "description": "Chinese cooking, adapted from TheMealDB. Ingredient omissions and quantities are corrected against the linked Good Food recipe."
+  },
+  "mealdb-52947": {
+    "videoId": "IhwPQL9dFYc",
+    "videoTitle": "How to Make Mapo Tofu (Mabo Dofu Recipe) | Cooking with Dog",
+    "videoAuthor": "Cooking with Dog",
+    "videoNote": "Related tutorial by Cooking with Dog. Ingredients and quantities may differ; follow the written recipe above."
+  },
+  "mealdb-52948": {
+    "videoId": "9h9No18ZyCI",
+    "videoTitle": "Chinese Fried Wontons Recipe Video",
+    "videoAuthor": "Steamy (Test) Kitchen",
+    "videoNote": "Related tutorial by Steamy (Test) Kitchen. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Pork",
+        null,
+        "1lb",
+        "minced pork"
+      ],
+      [
+        "Garlic",
+        null,
+        "3 chopped",
+        "Garlic Clove"
+      ],
+      [
+        "Ginger",
+        null,
+        "1 tsp",
+        "Ginger"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbs",
+        "Soy Sauce"
+      ],
+      [
+        "Sesame seed oil",
+        null,
+        "1 tsp",
+        "Sesame Seed Oil"
+      ],
+      [
+        "Carrot",
+        null,
+        "3 finely chopped",
+        "Carrots"
+      ],
+      [
+        "Celery",
+        null,
+        "3 finely chopped",
+        "Celery"
+      ],
+      [
+        "Spring onion",
+        null,
+        "6 chopped",
+        "Spring Onions"
+      ],
+      [
+        "Wonton skin",
+        null,
+        "1 Packet",
+        "Wonton Skin"
+      ],
+      [
+        "Olive oil",
+        null,
+        "Fry",
+        "Oil"
+      ],
+      [
+        "Water",
+        null,
+        "Bottle",
+        "Water"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Mix the minced pork with garlic, ginger, soy sauce, sesame oil and finely chopped vegetables."
+      ],
+      [
+        "Step 2",
+        "Put a teaspoon of filling in each wonton wrapper. Moisten two edges with water, fold into a triangle and press firmly to seal. Join the two outer corners."
+      ],
+      [
+        "Step 3",
+        "Heat frying oil to 175°C (350°F) in a deep, heavy pan. Fry a few wontons at a time without crowding; adjust the heat to maintain the oil temperature."
+      ],
+      [
+        "Step 4",
+        "Cook until the wrappers are golden and the pork filling is cooked through, reaching 71°C (160°F). Drain on kitchen paper and serve hot."
+      ]
+    ],
+    "equipment": [
+      "Stovetop"
+    ],
+    "recipeEdited": true,
+    "description": "Chinese cooking, adapted from TheMealDB. The frying temperature has been corrected and the filling is specified as minced pork."
+  },
+  "mealdb-52827": {
+    "videoId": "mVxgZSCU9_g",
+    "videoTitle": "Thai Beef Massaman Curry Recipe - SORTED",
+    "videoAuthor": "Sorted Food",
+    "videoNote": "Related tutorial by Sorted Food. Ingredients and quantities may differ; follow the written recipe above."
+  },
+  "mealdb-52828": {
+    "videoId": "wwb5jUSWzVs",
+    "videoTitle": "Vermicelli Bowl with grilled pork [Bun Thit Nuong]",
+    "videoAuthor": "FOOD WITH DEV",
+    "videoNote": "Related tutorial by FOOD WITH DEV. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Pork",
+        null,
+        "1.5 pounds sliced",
+        "Pork"
+      ],
+      [
+        "Rice vermicelli",
+        null,
+        "1 package thin",
+        "Rice Vermicelli"
+      ],
+      [
+        "Egg rolls",
+        null,
+        "4-6",
+        "cooked egg rolls"
+      ],
+      [
+        "Shallots",
+        null,
+        "3 tablespoons minced",
+        "Shallots"
+      ],
+      [
+        "Garlic",
+        null,
+        "1.5 tablespoons minced garlic",
+        "Garlic"
+      ],
+      [
+        "Sugar",
+        null,
+        "¼ cup",
+        "Sugar"
+      ],
+      [
+        "Fish sauce",
+        null,
+        "1 tablespoon",
+        "Fish Sauce"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "½ tablespoon thick",
+        "Soy sauce"
+      ],
+      [
+        "Pepper",
+        null,
+        "½ tablespoon",
+        "Pepper"
+      ],
+      [
+        "Olive oil",
+        null,
+        "3 tablespoons",
+        "Olive Oil"
+      ],
+      [
+        "Cucumber",
+        null,
+        "Sliced",
+        "Cucumber"
+      ],
+      [
+        "Mint",
+        null,
+        "Leaves",
+        "Mint"
+      ],
+      [
+        "Peanuts",
+        null,
+        "Crushed",
+        "Peanuts"
+      ]
+    ],
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "recipeEdited": true,
+    "description": "Vietnamese cooking, adapted from TheMealDB. Use cooked egg rolls and cook the rice noodles according to their packet before assembling. Marinate the pork in the refrigerator and cook it fully through using the oven method."
+  },
+  "mealdb-52785": {
+    "videoId": "J4D855Q9-jg",
+    "videoTitle": "Dal Fry With Tadka | Easy Punjabi Dal Recipe | Homemade Indian Dal Recipe By Ruchi Bharani",
+    "videoAuthor": "Rajshri Food",
+    "videoNote": "Related tutorial by Rajshri Food. Ingredients and quantities may differ; follow the written recipe above."
+  },
+  "mealdb-52868": {
+    "videoId": "Tp_PMWvIKzo",
+    "videoTitle": "Rajma Masala (Kidney Beans Curry)",
+    "videoAuthor": "Veggie Recipe House",
+    "videoNote": "Related tutorial by Veggie Recipe House. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbls",
+        "Vegetable Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 finely chopped",
+        "Onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves chopped",
+        "Garlic"
+      ],
+      [
+        "Ginger",
+        null,
+        "1 part",
+        "Ginger"
+      ],
+      [
+        "Coriander",
+        null,
+        "1 Packet",
+        "Coriander"
+      ],
+      [
+        "Cumin",
+        null,
+        "1 tsp",
+        "Cumin"
+      ],
+      [
+        "Paprika",
+        null,
+        "1 tsp",
+        "Paprika"
+      ],
+      [
+        "Garam masala",
+        null,
+        "2 tsp",
+        "Garam Masala"
+      ],
+      [
+        "Tomato",
+        null,
+        "400g",
+        "Chopped Tomatoes"
+      ],
+      [
+        "Kidney beans",
+        null,
+        "400g canned, including the liquid",
+        "canned kidney beans"
+      ],
+      [
+        "Rice",
+        null,
+        "to serve",
+        "Basmati Rice"
+      ]
+    ],
+    "recipeEdited": true,
+    "description": "India cooking, adapted from TheMealDB. Use canned kidney beans, including their liquid."
+  },
+  "mealdb-52805": {
+    "videoId": "r7SYVSG5nxo",
+    "videoTitle": "Mutton Biryani Recipe, Hyderabadi Mutton Biryani, Lamb Biryani",
+    "videoAuthor": "Vahchef - VahRehVah",
+    "videoNote": "Related tutorial by Vahchef - VahRehVah. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Cashew nuts",
+        null,
+        "12",
+        "Cashew nuts"
+      ],
+      [
+        "Khus khus",
+        null,
+        "½ tbsp",
+        "Khus khus"
+      ],
+      [
+        "Cumin seeds",
+        null,
+        "½ tbsp",
+        "Cumin seeds"
+      ],
+      [
+        "Onion",
+        null,
+        "3 sliced thinly",
+        "Onions"
+      ],
+      [
+        "Ginger garlic paste",
+        null,
+        "2 tsp",
+        "Ginger garlic paste"
+      ],
+      [
+        "Garlic",
+        null,
+        "4 whole",
+        "Garlic"
+      ],
+      [
+        "Mint",
+        null,
+        "Leaves",
+        "Mint"
+      ],
+      [
+        "Cilantro",
+        null,
+        "Leaves",
+        "Cilantro"
+      ],
+      [
+        "Saffron",
+        null,
+        "½ tsp dissolved in ½ cup warm milk",
+        "Saffron"
+      ],
+      [
+        "Ghee",
+        null,
+        "2 tbsp",
+        "Ghee"
+      ],
+      [
+        "Rice",
+        null,
+        "2 Cups",
+        "Basmati rice"
+      ],
+      [
+        "Yogurt",
+        null,
+        "½ cup",
+        "Full fat yogurt"
+      ],
+      [
+        "Cumin seeds",
+        null,
+        "1 tbsp",
+        "Cumin Seeds"
+      ],
+      [
+        "Bay leaf",
+        null,
+        "½",
+        "Bay leaf"
+      ],
+      [
+        "Cinnamon",
+        null,
+        "1 thin piece",
+        "Cinnamon"
+      ],
+      [
+        "Cloves",
+        null,
+        "3",
+        "Cloves"
+      ],
+      [
+        "Cardamom",
+        null,
+        "2",
+        "Cardamom"
+      ],
+      [
+        "Lamb",
+        null,
+        "1 lb",
+        "Lamb"
+      ],
+      [
+        "Red chilli powder",
+        null,
+        "1 tsp",
+        "Red Chilli powder"
+      ],
+      [
+        "Biryani masala",
+        null,
+        "1 tbsp",
+        "Biryani masala"
+      ],
+      [
+        "Green chilli",
+        null,
+        "5, slit",
+        "green chilli"
+      ],
+      [
+        "Tomato",
+        null,
+        "1, sliced",
+        "tomato"
+      ],
+      [
+        "Milk",
+        null,
+        "1/2 cup, warm (for the saffron)",
+        "milk"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp, plus oil for frying",
+        "cooking oil"
+      ],
+      [
+        "Salt",
+        null,
+        "to taste",
+        "salt"
+      ]
+    ],
+    "equipment": [
+      "Stovetop",
+      "Oven"
+    ],
+    "recipeEdited": true,
+    "description": "India cooking, adapted from TheMealDB. Milk, tomato, green chilli and cooking oil omitted from the API ingredient list are restored from the original recipe. Use a mortar and pestle for the spice paste; follow the oven finishing option."
+  },
+  "mealdb-52808": {
+    "videoId": "NZVo32n7iS8",
+    "videoTitle": "Lamb Rogan Josh recipe | Morrisons",
+    "videoAuthor": "Morrisons",
+    "videoNote": "Related tutorial by Morrisons. Ingredients and quantities may differ; follow the written recipe above."
+  },
+  "mealdb-52865": {
+    "videoId": "tYt9s6-5MLc",
+    "videoTitle": "No-Fail! Matar Paneer recipe | माँ की स्पेशल मटर पनीर रेसिपी | Matar Paneer gravy | Chef RanveerBrar",
+    "videoAuthor": "Chef Ranveer Brar",
+    "videoNote": "Related tutorial by Chef Ranveer Brar. Ingredients and quantities may differ; follow the written recipe above.",
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbls",
+        "Sunflower Oil"
+      ],
+      [
+        "Paneer",
+        null,
+        "225g",
+        "Paneer"
+      ],
+      [
+        "Ginger",
+        null,
+        "2 cm piece, grated",
+        "Ginger"
+      ],
+      [
+        "Cumin",
+        null,
+        "1 tsp",
+        "Cumin"
+      ],
+      [
+        "Turmeric",
+        null,
+        "1 tsp",
+        "Turmeric"
+      ],
+      [
+        "Ground coriander",
+        null,
+        "1 tsp",
+        "Ground coriander"
+      ],
+      [
+        "Green chilli",
+        null,
+        "1",
+        "Green Chilli"
+      ],
+      [
+        "Tomato",
+        null,
+        "4 large",
+        "Tomato"
+      ],
+      [
+        "Peas",
+        null,
+        "150g",
+        "Peas"
+      ],
+      [
+        "Garam masala",
+        null,
+        "1 tsp",
+        "Garam Masala"
+      ],
+      [
+        "Coriander",
+        null,
+        "Small bunch",
+        "Coriander"
+      ],
+      [
+        "Naan bread",
+        null,
+        "to serve",
+        "Naan Bread"
+      ]
+    ],
+    "recipeEdited": true,
+    "description": "India cooking, adapted from TheMealDB. Ground coriander and fresh coriander leaves are listed separately. Ginger is clarified as a small grated piece."
+  },
+  "mealdb-52809": {
+    "videoId": "FXtCris37nE",
+    "videoTitle": "Goan Recheado Masala Recipe | Rechead Masala Goan Paste | Goan Recipes by Fatima",
+    "videoAuthor": "Fatimas Cuisine",
+    "videoNote": "Masala-paste tutorial by Fatimas Cuisine. Follow the written recipe for stuffing and frying the fish.",
+    "equipment": [
+      "Stovetop",
+      "Blender"
+    ]
   }
 }
