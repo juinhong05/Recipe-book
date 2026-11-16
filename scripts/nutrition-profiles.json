@@ -1,0 +1,367 @@
+{
+  "source": "https://fdc.nal.usda.gov/download-datasets/",
+  "dataset": "USDA SR Legacy, April 2018",
+  "basis": "Per 100 g edible portion. Generic foods approximate brands.",
+  "foods": {
+    "pasta": {
+      "fdcId": 169736,
+      "description": "Pasta, dry, enriched",
+      "kcal": 371.0,
+      "protein": 13.04
+    },
+    "rice": {
+      "fdcId": 169756,
+      "description": "Rice, white, long-grain, regular, raw, unenriched",
+      "protein": 7.13,
+      "kcal": 365.0
+    },
+    "chicken": {
+      "fdcId": 171509,
+      "description": "Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",
+      "kcal": 108.0,
+      "protein": 20.32
+    },
+    "egg": {
+      "fdcId": 171287,
+      "description": "Egg, whole, raw, fresh",
+      "kcal": 143.0,
+      "protein": 12.56
+    },
+    "tofu": {
+      "fdcId": 172476,
+      "description": "Tofu, raw, regular, prepared with calcium sulfate",
+      "kcal": 76.0,
+      "protein": 8.08
+    },
+    "beef": {
+      "fdcId": 174030,
+      "description": "Beef, ground, 90% lean meat / 10% fat, raw",
+      "protein": 20.0,
+      "kcal": 176.0
+    },
+    "dal": {
+      "fdcId": 172436,
+      "description": "Pigeon peas (red gram), mature seeds, raw",
+      "protein": 21.7,
+      "kcal": 343.0
+    },
+    "lentils": {
+      "fdcId": 172420,
+      "description": "Lentils, raw",
+      "protein": 24.63,
+      "kcal": 352.0
+    },
+    "tomato": {
+      "fdcId": 170457,
+      "description": "Tomatoes, red, ripe, raw, year round average",
+      "kcal": 18.0,
+      "protein": 0.88
+    },
+    "cannedTomato": {
+      "fdcId": 170051,
+      "description": "Tomatoes, red, ripe, canned, packed in tomato juice",
+      "kcal": 16.0,
+      "protein": 0.79
+    },
+    "oil": {
+      "fdcId": 171413,
+      "description": "Oil, olive, salad or cooking",
+      "kcal": 884.0,
+      "protein": 0.0
+    },
+    "sesameOil": {
+      "fdcId": 171016,
+      "description": "Oil, sesame, salad or cooking",
+      "protein": 0.0,
+      "kcal": 884.0
+    },
+    "ghee": {
+      "fdcId": 173412,
+      "description": "Butter oil, anhydrous",
+      "kcal": 876.0,
+      "protein": 0.28
+    },
+    "riceNoodles": {
+      "fdcId": 169742,
+      "description": "Rice noodles, dry",
+      "kcal": 364.0,
+      "protein": 5.95
+    },
+    "parmesan": {
+      "fdcId": 170848,
+      "description": "Cheese, parmesan, hard",
+      "protein": 35.75,
+      "kcal": 392.0
+    },
+    "feta": {
+      "fdcId": 173420,
+      "description": "Cheese, feta",
+      "kcal": 265.0,
+      "protein": 14.21
+    },
+    "starch": {
+      "fdcId": 169698,
+      "description": "Cornstarch",
+      "kcal": 381.0,
+      "protein": 0.26
+    },
+    "oyster": {
+      "fdcId": 174529,
+      "description": "Sauce, oyster, ready-to-serve",
+      "protein": 1.35,
+      "kcal": 51.0
+    },
+    "tortilla": {
+      "fdcId": 167535,
+      "description": "Tortillas, ready-to-bake or -fry, flour, shelf stable",
+      "kcal": 297.0,
+      "protein": 8.01
+    },
+    "broccoli": {
+      "fdcId": 169404,
+      "description": "Broccoli, chinese, raw",
+      "protein": 1.2,
+      "kcal": 26.0
+    },
+    "aubergine": {
+      "fdcId": 169228,
+      "description": "Eggplant, raw",
+      "kcal": 25.0,
+      "protein": 0.98
+    },
+    "onion": {
+      "fdcId": 170000,
+      "description": "Onions, raw",
+      "kcal": 40.0,
+      "protein": 1.1
+    },
+    "garlic": {
+      "fdcId": 169230,
+      "description": "Garlic, raw",
+      "kcal": 149.0,
+      "protein": 6.36
+    },
+    "ginger": {
+      "fdcId": 169231,
+      "description": "Ginger root, raw",
+      "protein": 1.82,
+      "kcal": 80.0
+    },
+    "springOnion": {
+      "fdcId": 170005,
+      "description": "Onions, spring or scallions (includes tops and bulb), raw",
+      "kcal": 32.0,
+      "protein": 1.83
+    },
+    "peas": {
+      "fdcId": 170016,
+      "description": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",
+      "kcal": 77.0,
+      "protein": 5.22
+    },
+    "mushroom": {
+      "fdcId": 169251,
+      "description": "Mushrooms, white, raw",
+      "protein": 3.09,
+      "kcal": 22.0
+    },
+    "fish": {
+      "fdcId": 171955,
+      "description": "Fish, cod, Atlantic, raw",
+      "kcal": 82.0,
+      "protein": 17.81
+    },
+    "avocado": {
+      "fdcId": 171705,
+      "description": "Avocados, raw, all commercial varieties",
+      "protein": 2.0,
+      "kcal": 160.0
+    },
+    "sourCream": {
+      "fdcId": 171257,
+      "description": "Cream, sour, cultured",
+      "protein": 2.44,
+      "kcal": 198.0
+    },
+    "peanuts": {
+      "fdcId": 173806,
+      "description": "Peanuts, all types, dry-roasted, without salt",
+      "protein": 24.35,
+      "kcal": 587.0
+    },
+    "pineNuts": {
+      "fdcId": 170591,
+      "description": "Nuts, pine nuts, dried",
+      "protein": 13.69,
+      "kcal": 673.0
+    },
+    "chickenStock": {
+      "fdcId": 172888,
+      "description": "Soup, chicken broth, less/reduced sodium, ready to serve",
+      "kcal": 7.0,
+      "protein": 1.36
+    },
+    "beefStock": {
+      "fdcId": 171538,
+      "description": "Soup, beef broth or bouillon canned, ready-to-serve",
+      "kcal": 7.0,
+      "protein": 1.14
+    },
+    "vegStock": {
+      "fdcId": 171583,
+      "description": "Soup, vegetable broth, ready to serve",
+      "protein": 0.24,
+      "kcal": 5.0
+    },
+    "soy": {
+      "fdcId": 174277,
+      "description": "Soy sauce made from soy and wheat (shoyu)",
+      "protein": 8.14,
+      "kcal": 53.0
+    },
+    "vinegar": {
+      "fdcId": 172237,
+      "description": "Vinegar, distilled",
+      "protein": 0.0,
+      "kcal": 18.0
+    },
+    "bacon": {
+      "fdcId": 168277,
+      "description": "Pork, cured, bacon, unprepared",
+      "protein": 13.66,
+      "kcal": 393.0
+    },
+    "potato": {
+      "fdcId": 170026,
+      "description": "Potatoes, flesh and skin, raw",
+      "kcal": 77.0,
+      "protein": 2.05
+    },
+    "salsa": {
+      "fdcId": 174524,
+      "description": "Sauce, salsa, ready-to-serve",
+      "protein": 1.52,
+      "kcal": 29.0
+    },
+    "coriander": {
+      "fdcId": 169997,
+      "description": "Coriander (cilantro) leaves, raw",
+      "protein": 2.13,
+      "kcal": 23.0
+    },
+    "rocket": {
+      "fdcId": 169387,
+      "description": "Arugula, raw",
+      "protein": 2.58,
+      "kcal": 25.0
+    },
+    "carrot": {
+      "fdcId": 170393,
+      "description": "Carrots, raw",
+      "protein": 0.93,
+      "kcal": 41.0
+    },
+    "spice": {
+      "fdcId": 170924,
+      "description": "Spices, curry powder",
+      "kcal": 325.0,
+      "protein": 14.29
+    },
+    "cumin": {
+      "fdcId": 170923,
+      "description": "Spices, cumin seed",
+      "protein": 17.81,
+      "kcal": 375.0
+    },
+    "tomatoPaste": {
+      "fdcId": 170459,
+      "description": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+      "kcal": 82.0,
+      "protein": 4.32
+    },
+    "blackBeans": {
+      "fdcId": 173735,
+      "description": "Beans, black, mature seeds, cooked, boiled, without salt",
+      "kcal": 132.0,
+      "protein": 8.86
+    },
+    "lettuce": {
+      "fdcId": 169247,
+      "description": "Lettuce, cos or romaine, raw",
+      "kcal": 17.0,
+      "protein": 1.23
+    },
+    "lemon": {
+      "fdcId": 167747,
+      "description": "Lemon juice, raw",
+      "protein": 0.35,
+      "kcal": 22.0
+    },
+    "sugar": {
+      "fdcId": 169655,
+      "description": "Sugars, granulated",
+      "protein": 0.0,
+      "kcal": 387.0
+    },
+    "brownSugar": {
+      "fdcId": 168833,
+      "description": "Sugars, brown",
+      "kcal": 380.0,
+      "protein": 0.12
+    },
+    "maple": {
+      "fdcId": 169661,
+      "description": "Syrups, maple",
+      "protein": 0.04,
+      "kcal": 260.0
+    },
+    "sake": {
+      "fdcId": 167723,
+      "description": "Alcoholic beverage, rice (sake)",
+      "kcal": 134.0,
+      "protein": 0.5
+    },
+    "chilliPowder": {
+      "fdcId": 171319,
+      "description": "Spices, chili powder",
+      "kcal": 282.0,
+      "protein": 13.46
+    },
+    "worcestershire": {
+      "fdcId": 171610,
+      "description": "Sauce, worcestershire",
+      "protein": 0.0,
+      "kcal": 77.0
+    },
+    "waterChestnut": {
+      "fdcId": 170067,
+      "description": "Waterchestnuts, chinese, canned, solids and liquids",
+      "kcal": 50.0,
+      "protein": 0.88
+    },
+    "mint": {
+      "fdcId": 173475,
+      "description": "Spearmint, fresh",
+      "kcal": 44.0,
+      "protein": 3.29
+    },
+    "chilli": {
+      "fdcId": 170497,
+      "description": "Peppers, hot chili, green, raw",
+      "kcal": 40.0,
+      "protein": 2.0
+    },
+    "basil": {
+      "fdcId": 172232,
+      "description": "Basil, fresh",
+      "kcal": 23.0,
+      "protein": 3.15
+    },
+    "parsley": {
+      "fdcId": 170416,
+      "description": "Parsley, fresh",
+      "kcal": 36.0,
+      "protein": 2.97
+    }
+  }
+}
