@@ -1,12 +1,27 @@
 # Pantry & Plate
 
-[**Open the live app**](https://recipe-book-orpin-zeta.vercel.app/) · [Vercel project](https://vercel.com/mj1112/recipe-book)
+[Open the live app](https://recipe-book-orpin-zeta.vercel.app/) · [Vercel project](https://vercel.com/mj1112/recipe-book)
 
-A responsive recipe finder and installable web app that helps you cook with the ingredients and equipment you already have. Built with HTML, CSS and vanilla JavaScript, with 116 recipes, real food photography and embedded video tutorials.
+A responsive recipe finder and installable web app for cooking with the ingredients and equipment you already have. Built with HTML, CSS and vanilla JavaScript.
+
+## Reviewed collection
+
+The collection now contains **40 checked recipes, including 32 easy meals and 16 Asian recipes**. Easy meals are shown by default; choose All recipes to include the eight dishes that need more time or steps. Quick & easy means an easy method and no more than 30 minutes total, including any waiting time.
+
+Every recipe includes:
+
+- Separate preparation and cooking times, plus soaking or marinating where needed.
+- Calories and protein **per serving**, a serving count, and whole-recipe ingredient quantities.
+- A real, visually reviewed food photograph. No generated images, people, text overlays or video screenshots are used as recipe photos.
+- Ingredient and equipment matching, a step checklist, and an embedded cooking tutorial.
+
+The November 2026 review replaces the previous 116-recipe collection with a smaller, checked selection. Complicated dishes and the 12 recipes using tutorial-thumbnail photos were removed from the live catalogue. Existing IDs are preserved for retained recipes. Saved IDs for retired recipes remain in browser storage but are not displayed; the previous catalogue is recoverable from Git history.
+
+Asian options include egg drop soup, laksa, yaki udon, pad see ew, congee, mapo tofu, kung po prawns, kung pao chicken, Thai green curry, matar paneer, kidney bean curry, dal and more.
 
 ## Run locally
 
-Requires Node.js 22 or newer. No dependencies, API keys or environment variables are needed to run the app.
+Requires Node.js 22 or newer. No dependencies, API keys or environment variables are needed.
 
 ```sh
 git clone https://github.com/juinhong05/Recipe-book.git
@@ -14,95 +29,89 @@ cd Recipe-book
 npm start
 ```
 
-Open [http://127.0.0.1:4173](http://127.0.0.1:4173). Use an HTTP server instead of opening `index.html` directly so JavaScript modules and the service worker work correctly.
+Open [http://127.0.0.1:4173](http://127.0.0.1:4173). Use an HTTP server rather than opening the HTML file directly.
 
 ```sh
 npm test
 ```
 
-## Deploy to Vercel
+## Recipe and nutrition review
 
-Import [juinhong05/Recipe-book](https://github.com/juinhong05/Recipe-book) into Vercel and deploy the `main` branch. The included `vercel.json` sets:
+Nutrition is an **estimate**, not a laboratory analysis or a personalised diet recommendation. Brands, edible weights, cooking losses and portion sizes change the result.
 
-| Setting | Value |
-| --- | --- |
-| Root directory | Repository root (`.`) |
-| Framework preset | Other |
-| Build command | Empty (no build required) |
-| Install command | Empty (no dependencies) |
-| Output directory | `dist` |
-| Environment variables | None |
+- 27 recipes use per-serving calorie and protein figures and serving yields from the linked Good Food publisher pages. Transcribed ingredients were checked and corrected against those pages. Timing was adjusted where a stage was omitted or too short, and those changes are labelled.
+- 13 recipes use explicit editorial portions calculated from generic USDA SR Legacy food composition data. The calculation sums ingredient grams × nutrients per 100 g, divides by the batch serving count, then rounds calories to the nearest 10 kcal and protein to the nearest gram. Small seasoning amounts are omitted; ingredient substitutions and approximations are documented.
+- Included oil and toppings are counted. Optional rice, bread and other sides are excluded unless listed in the recipe itself. Light meals and side portions are identified in their methods or notes.
+- Ingredient quantities are for the **whole batch**, not one serving. Nutrition is for one equal share of that batch. The app does not scale free-text measurements.
+- Timing includes preparation, cooking and any separately displayed waiting period. Equipment requirements were checked against the written method.
 
-Vercel serves the static files directly. `server.mjs` is only for local development. With the GitHub repository connected, pushes to `main` produce production deployments and pull requests receive preview deployments.
+Corrections include peas in egg drop soup, sundried tomatoes in tuna Niçoise, cooked prawns and reduced-fat coconut milk in laksa, canned/cooked legumes, and explicit weights for estimated portions. Tutorials may show a variation; follow the written quantities and method.
 
-Alternatively, deploy from this folder with the [Vercel CLI](https://vercel.com/docs/cli):
+The authoritative reviewed data is `scripts/reviewed-recipes.json`. The saved USDA food IDs, descriptions and per-100-g values are in `scripts/nutrition-profiles.json`. To regenerate the browser snapshot after a reviewed edit (Python 3 required):
 
 ```sh
-npx vercel login
-npx vercel link
-npx vercel git connect https://github.com/juinhong05/Recipe-book.git
-npx vercel --prod
+python scripts/build-catalogue.py
+npm test
 ```
 
-The static output can also be served by any HTTPS static host. HTTPS enables service workers and installation where supported by the browser.
+The builder validates required facts and local photos before writing `dist/catalogue.js`. Vercel serves the committed snapshot; Python is not required for deployment.
 
-## Features
-
-- 116 recipes: 104 community recipes from TheMealDB plus the original 12 recipes, preserving their IDs and saved favourites.
-- Real food photos and creator tutorial thumbnails, with attribution. No generated imagery is used by the live app.
-- Ingredient matching, equipment filters, total-time and calorie limits, recipe/cuisine search, and 18-at-a-time browsing.
-- Video tutorials play inside the recipe dialog using YouTube’s official privacy-enhanced embedded player. Videos load only on request, stay mounted while saving or completing steps, and stop when the dialog closes. Network failures and disabled embeds show an inline explanation and retry option.
-- Original recipes retain 1–8 serving adjustment. Imported recipes show source quantities because serving yield is not supplied.
-- Pantry, equipment and favourites remain in browser-local storage.
-- Service worker caches the app and visited local photos for offline use. Videos require internet access.
-
-## Asian recipes
-
-Select **Asian** to browse the collection, or search by dish or cuisine. The latest addition includes 16 dishes across Malaysian, Japanese, Chinese, Thai, Vietnamese and Indian cooking: laksa, chicken katsu curry, yaki udon, egg drop soup, kung pao chicken, kung po prawns, mapo tofu, wontons, massaman beef curry, Vietnamese pork noodles, dal fry, kidney bean curry, lamb biryani, lamb rogan josh, matar paneer and recheado fish.
-
-Real community photographs are served locally and tutorials play inside the recipe dialog. Source omissions and corrections are explained in the affected recipe descriptions. Unknown nutrition and timing remain unlisted.
-
-To reimport this curated addition without replacing existing recipes or saved IDs:
+Raw TheMealDB imports are **staged for review**, not published directly:
 
 ```sh
 python scripts/import-recipes.py scripts/asian-recipes.json --append
 ```
 
-The raw API snapshot is kept in `scripts/asian-recipes.json`; tutorial checks and editorial corrections are in `scripts/media-overrides.json`.
+This writes ignored `scripts/imported-recipes.json` and `scripts/imported-photos/`. Review ingredients, servings, nutrition, timing, equipment and photographs before adding entries to the reviewed data. The older API snapshot and media corrections remain available as reference.
 
-## Data and attribution
+## Photos, videos and attribution
 
-TheMealDB official API supplies the additional recipes, original ingredient measures, instructions, community photos and initial video references. Ten unavailable videos and three unsuitable or less relevant matches were replaced after checking YouTube metadata. Tutorials can show variations and are labelled accordingly. Provider availability, regional playback restrictions, ads, and future deletions are outside this app’s control.
+[TheMealDB](https://www.themealdb.com/api.php) supplies the community recipe references and real photographs. Photo credits and original recipe links appear in each recipe. [Good Food](https://www.bbcgoodfood.com/) nutrition pages are linked individually. The calculated recipes use the public-domain [USDA FoodData Central SR Legacy dataset](https://fdc.nal.usda.gov/download-datasets/), April 2018 release.
 
-TheMealDB does not provide nutrition, serving yield or complete preparation times for these records. Imported recipes display “Not listed” and are excluded from time/calorie/high-protein filters requiring those values. Unknown values are never treated as zero. The original 12 nutrition figures remain editorial estimates. Equipment for imported recipes is inferred from their methods and labelled as such; users should read the full method.
+Recipe cards, detail photos and video posters all use food photographs served locally. YouTube's privacy-enhanced embedded player loads only after pressing play. Videos remain inside the recipe dialog and stop when it closes. Tutorial content itself can naturally include presenters, captions or YouTube controls. Playback depends on the provider, region and network; an inline retry is available for failures.
 
-Sources: https://www.themealdb.com/api.php and https://www.themealdb.com/terms_of_use.php. The development API permits development projects; review the provider’s subscription requirements before an app-store release. Credits and source links appear in recipe details and the footer.
+See [TheMealDB terms](https://www.themealdb.com/terms_of_use.php) for provider usage requirements. No AI-generated photography is used in the live app.
 
-`dist/catalogue.js` contains the checked snapshot. `scripts/import-recipes.py <official-api-response-json>` rebuilds it from a supplied array of API records and downloads local photos; `scripts/media-overrides.json` preserves checked tutorial replacements and metadata corrections. Run from the project folder. Local media lives in `dist/assets/meals/`.
+## Deploy to Vercel
+
+The repository is connected to Vercel; pushes to `main` create production deployments. `vercel.json` specifies:
+
+| Setting | Value |
+| --- | --- |
+| Framework | Other / static |
+| Root directory | Repository root |
+| Build and install commands | Empty |
+| Output directory | `dist` |
+| Environment variables | None |
+
+`server.mjs` is for local development only. HTTPS enables the service worker and app installation where supported.
+
+## Storage and offline use
+
+Pantry ingredients, equipment and favourites stay in this browser's local storage. There are no accounts or cross-device sync. The service worker caches the app and visited local photos. Videos require internet access. Clearing site data removes preferences and cached content.
 
 ## Project structure
 
 ```text
 dist/
   index.html            Page structure
-  style.css             Responsive styles
-  app.js                Filters, recipe dialogs and saved cookbook
-  recipes.js            Original recipes and filtering helpers
-  catalogue.js          Imported recipe snapshot
-  video.js              Embedded YouTube player lifecycle
-  sw.js                 Offline caching
-  manifest.webmanifest  Installable app metadata
-  assets/               Icon and local food photography
-scripts/                Catalogue import and media corrections
-tests/                  Node.js filter and catalogue tests
+  style.css             Responsive layout
+  app.js                Cards, dialogs and saved cookbook
+  recipes.js            Ingredient, equipment and category filters
+  catalogue.js          Generated reviewed recipe data
+  video.js              Embedded video lifecycle
+  sw.js                 Offline cache
+  assets/               Icon and food photographs
+scripts/
+  reviewed-recipes.json  Reviewed methods, facts and calculation weights
+  nutrition-profiles.json USDA values and food IDs
+  build-catalogue.py     Reproducible catalogue generator
+  import-recipes.py      Stages API records for review
+tests/                  Node.js data and filter checks
 server.mjs              Local development server
 vercel.json             Static hosting configuration
 ```
 
-## Storage and privacy
-
-Pantry ingredients, equipment and saved recipes stay in the current browser's local storage. There is no account system or cross-device sync. Moving to a different domain starts a separate local cookbook. Recipe photos are served locally; embedded YouTube videos load from YouTube only when requested. Clearing site data removes saved preferences and offline content.
-
 ## Validation
 
-Automated tests cover filtering, missing metadata, pantry aliases, unique records, media references and preserved ingredient measures. Browser checks cover catalogue loading, filtering, additional results, recipe details, embedded playback, favourites, step progress, player teardown, and desktop/mobile layout. Video availability was checked through YouTube oEmbed metadata; representative playback was verified in-browser. This does not guarantee playback for every viewer or region.
+14 automated tests cover complete metadata, reproducible nutrition calculations, photo references, pantry/equipment matching, time/calorie filters, waiting periods, Asian search and corrected ingredients. All 40 food photos were visually reviewed. Browser checks at desktop and 390 × 844 cover visible recipe facts, responsive layout, combined filters, step progress, embedded playback and player teardown. These checks do not guarantee future availability of every third-party video.

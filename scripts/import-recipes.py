@@ -7,12 +7,11 @@ overrides_path=ROOT/'scripts'/'media-overrides.json'
 overrides=json.loads(overrides_path.read_text(encoding='utf-8')) if overrides_path.exists() else {}
 meals=json.loads(pathlib.Path(sys.argv[1]).read_text(encoding='utf-8'))
 append_mode='--append' in sys.argv[2:]
-existing_records=[]; existing_media={}
-if append_mode:
- snapshot=(ROOT/'dist'/'catalogue.js').read_text(encoding='utf-8')
- recipe_json,media_json=snapshot.split(';\nexport const originalMedia = ',1)
- existing_records=json.loads(recipe_json.removeprefix('export const communityRecipes = '))
- existing_media=json.loads(media_json.rstrip().removesuffix(';'))
+existing_records=[]
+staging=ROOT/'scripts'/'imported-recipes.json'
+if append_mode and staging.exists():
+ existing_records=json.loads(staging.read_text(encoding='utf-8'))
+
 def video_id(url):
  m=re.search(r'(?:[?&]v=|youtu\.be/|/shorts/)([A-Za-z0-9_-]{11})(?:[?&/]|$)',url or '')
  return m[1] if m else None
@@ -58,34 +57,12 @@ for m in chosen:
   if name:ing.append([canonical(name),None,measure,name])
  r={'id':'mealdb-'+m['idMeal'],'title':m['strMeal'].strip(),'description':f"{m['strArea']} cooking, from the TheMealDB community. Follow the original ingredient quantities and cooking method below.",'image':f"./assets/meals/{m['idMeal']}.jpg",'photoCredit':'TheMealDB community','photoSource':f"https://www.themealdb.com/meal/{m['idMeal']}",'prep':None,'cook':None,'kcal':None,'protein':None,'category':'Vegetarian' if m['strCategory'] in ['Vegetarian','Vegan'] else m['strCategory'],'area':m['strArea'],'equipment':equipment(m['strInstructions']),'equipmentInferred':True,'ingredients':ing,'steps':steps(m['strInstructions']),'sourceUrl':f"https://www.themealdb.com/meal/{m['idMeal']}",'originalSource':m.get('strSource') or None,'sourceQuantities':True,'videoId':video_id(m['strYoutube']),'videoNote':'Community-linked tutorial. Follow the written recipe for ingredient quantities.','mediaOriginalUrl':m['strMealThumb']}
  r.update(overrides.get(r['id'],{}))
- records.append(r);photos.append((m['strMealThumb'],ROOT/'dist'/r['image'][2:]))
-videos={
- 'chicken-bowl':('skpQERSTTrc','TIFFYCOOKS'),
- 'tomato-pasta':('1IszT_guI08','TheMealDB linked tutorial'),
- 'fried-rice':('SsuFmw9s5w4','caribbeanpot'),
- 'chickpea-salad':('EagQ22jwt_4','Clean & Delicious'),
- 'omelette':('Pw1RNJ2xAXw','The Sweetest Journey'),
- 'salmon':('xvPR2Tfw5k0','TheMealDB linked tutorial'),
- 'tofu-noodles':('KYvdfNrl3Yc','The Picky Eater'),
- 'bean-stew':('wHGzMcLkIW4',"Uncle Hajji’s Kitchen"),
- 'avocado-toast':('9KzA4LnBB44','Lily Leung / FullHappyBelly'),
- 'sweet-potato':('IrytV85XH9g','The Mediterranean Dish'),
- 'chicken-stirfry':('JvcRpbXjNm0','Cooking tutorial'),
- 'overnight-oats':('ZoBxQ4FuETs','Filling Meals')}
-media={}
-for key,(vid,credit) in videos.items():
- if append_mode:continue
- url=f'https://i.ytimg.com/vi/{vid}/hqdefault.jpg'
- media[key]={'image':f'./assets/meals/{key}.jpg','photoCredit':credit+' · tutorial thumbnail','photoSource':f'https://www.youtube.com/watch?v={vid}','videoId':vid,'videoNote':'Related cooking tutorial. Ingredients and portions may differ from our written recipe.'}
- media[key].update(overrides.get(key,{}))
- url=f"https://i.ytimg.com/vi/{media[key]['videoId']}/hqdefault.jpg"
- photos.append((url,ROOT/'dist'/'assets'/'meals'/f'{key}.jpg'))
+ records.append(r);photos.append((m['strMealThumb'],ROOT/'scripts'/'imported-photos'/f"{m['idMeal']}.jpg"))
 if append_mode:
  # Keep saved IDs stable and make repeat imports idempotent.
  updates={r['id']:r for r in records}
  records=[updates.pop(r['id'],r) for r in existing_records]+list(updates.values())
- media=existing_media
-(ROOT/'dist'/'assets'/'meals').mkdir(parents=True,exist_ok=True)
+(ROOT/'scripts'/'imported-photos').mkdir(parents=True,exist_ok=True)
 def download(item):
  url,path=item
  result=subprocess.run(['curl.exe','-fsSL','--max-time','25','--retry','1',url,'-o',str(path)],capture_output=True)
@@ -93,5 +70,5 @@ def download(item):
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:status=list(pool.map(download,photos))
 print(json.dumps({'imported':len(records),'photos':len(status),'failed':[s for s in status if not s['ok']]},indent=2))
 if any(not s['ok'] for s in status):sys.exit(1)
-out=ROOT/'dist'/'catalogue.js'
-out.write_text('export const communityRecipes = '+json.dumps(records,ensure_ascii=False,indent=2)+';\nexport const originalMedia = '+json.dumps(media,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+staging.write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+print(f'Staged {len(records)} recipes for review in {staging}. Live recipes are unchanged.')

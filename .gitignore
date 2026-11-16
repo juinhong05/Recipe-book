@@ -6,3 +6,8 @@ node_modules/
 .env.*
 !.env.example
 design-concept.png
+
+__pycache__/
+*.pyc
+scripts/imported-recipes.json
+scripts/imported-photos/

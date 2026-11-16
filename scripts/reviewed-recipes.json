@@ -1,0 +1,5420 @@
+[
+  {
+    "id": "mealdb-52855",
+    "title": "Banana Pancakes",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52855.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52855",
+    "prep": 5,
+    "cook": 5,
+    "kcal": 243.0,
+    "protein": 9.0,
+    "category": "Vegetarian",
+    "area": "United States",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Banana",
+        null,
+        "1 large",
+        "Banana"
+      ],
+      [
+        "Eggs",
+        null,
+        "2 medium",
+        "Eggs"
+      ],
+      [
+        "Baking powder",
+        null,
+        "pinch",
+        "Baking Powder"
+      ],
+      [
+        "Vanilla extract",
+        null,
+        "spinkling",
+        "Vanilla Extract"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tsp",
+        "Oil"
+      ],
+      [
+        "Pecan nuts",
+        null,
+        "25g",
+        "Pecan Nuts"
+      ],
+      [
+        "Raspberries",
+        null,
+        "125g",
+        "Raspberries"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "In a bowl, mash the banana with a fork until it resembles a thick purée."
+      ],
+      [
+        "Step 2",
+        "Stir in the eggs, baking powder and vanilla."
+      ],
+      [
+        "Step 3",
+        "Heat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil."
+      ],
+      [
+        "Step 4",
+        "Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate."
+      ],
+      [
+        "Step 5",
+        "Repeat the process with the remaining oil and batter."
+      ],
+      [
+        "Step 6",
+        "Top the pancakes with the pecans and raspberries."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52855",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/banana-pancakes",
+    "sourceQuantities": true,
+    "videoId": "kSKtb2Sv-_U",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+    "videoTitle": "How To Make Easy 2 Ingredient Banana Pancakes - Video Recipe",
+    "videoAuthor": "Yummy Inspirations",
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/banana-pancakes",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52955",
+    "title": "Egg Drop Soup",
+    "description": "A fast Chinese-style soup with silky egg ribbons, peas and mushrooms. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52955.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52955",
+    "prep": 5,
+    "cook": 10,
+    "kcal": null,
+    "protein": null,
+    "category": "Starter",
+    "area": "Chinese",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Chicken stock",
+        null,
+        "750 ml, prepared",
+        "Chicken stock"
+      ],
+      [
+        "Sugar",
+        null,
+        "¼ tsp (1 g)",
+        "Sugar"
+      ],
+      [
+        "Pepper",
+        null,
+        "a pinch",
+        "Pepper"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "1 tsp (5 g)",
+        "Sesame oil"
+      ],
+      [
+        "Peas",
+        null,
+        "50 g frozen",
+        "Peas"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "25 g, finely sliced",
+        "Mushrooms"
+      ],
+      [
+        "Cornstarch",
+        null,
+        "1 tbsp (8 g)",
+        "Cornstarch"
+      ],
+      [
+        "Water",
+        null,
+        "2 tbsp",
+        "Water"
+      ],
+      [
+        "Spring onion",
+        null,
+        "15 g, sliced",
+        "Spring onion"
+      ],
+      [
+        "Eggs",
+        null,
+        "1 medium (50 g without shell), beaten",
+        "Eggs"
+      ]
+    ],
+    "steps": [
+      [
+        "Simmer the soup",
+        "Bring stock to a boil. Add sugar, pepper, sesame oil, peas and mushrooms. Simmer for 3–4 minutes until vegetables are tender."
+      ],
+      [
+        "Thicken",
+        "Mix cornstarch with cold water. Stir into the bubbling soup and cook for 1 minute."
+      ],
+      [
+        "Add the egg",
+        "Reduce to a gentle simmer. Slowly pour in the beaten egg while stirring in one direction. Cook for 1–2 minutes until the egg is fully set. Top with spring onion and divide between two bowls."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52955",
+    "originalSource": "https://sueandgambo.com/pages/egg-drop-soup",
+    "sourceQuantities": true,
+    "videoId": "9XpzHm9QpZg",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+    "videoTitle": "How to Make Egg Drop Soup",
+    "videoAuthor": "Sue and Gambo",
+    "recipeEdited": true,
+    "servings": 2,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Fixes the peas incorrectly mapped to sesame oil. Includes one egg. These are two light soup servings; chicken stock means this version is not vegetarian."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Chicken stock",
+        "profile": "chickenStock",
+        "grams": 750
+      },
+      {
+        "ingredient": "Sugar",
+        "profile": "sugar",
+        "grams": 1
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Peas",
+        "profile": "peas",
+        "grams": 50
+      },
+      {
+        "ingredient": "Mushrooms",
+        "profile": "mushroom",
+        "grams": 25
+      },
+      {
+        "ingredient": "Cornstarch",
+        "profile": "starch",
+        "grams": 8
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 15
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 50
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52821",
+    "title": "Laksa King Prawn Noodles",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52821.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52821",
+    "prep": 5,
+    "cook": 10,
+    "kcal": 520.0,
+    "protein": 19.0,
+    "category": "Seafood",
+    "area": "Malaysian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbsp",
+        "Olive Oil"
+      ],
+      [
+        "Red chilli",
+        null,
+        "1 finely sliced",
+        "Red Chilli"
+      ],
+      [
+        "Thai red curry paste",
+        null,
+        "2½ tbsp",
+        "Thai red curry paste"
+      ],
+      [
+        "Vegetable stock cube",
+        null,
+        "1",
+        "vegetable stock cube"
+      ],
+      [
+        "Coconut milk",
+        null,
+        "400 ml, reduced fat",
+        "Coconut milk"
+      ],
+      [
+        "Fish sauce",
+        null,
+        "2 tsp",
+        "fish sauce"
+      ],
+      [
+        "Rice noodles",
+        null,
+        "100g",
+        "rice noodles"
+      ],
+      [
+        "Lime",
+        null,
+        "2 juice of 1, the other halved",
+        "lime"
+      ],
+      [
+        "King prawns",
+        null,
+        "150 g, already cooked and peeled",
+        "King prawns"
+      ],
+      [
+        "Coriander",
+        null,
+        "½ small pack",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the oil in a medium saucepan and add the chilli. Cook for 1 min, then add the curry paste, stir and cook for 1 min more. Dissolve the stock cube in a large jug in 700ml boiling water, then pour into the pan and stir to combine. Tip in the coconut milk and bring to the boil."
+      ],
+      [
+        "Step 2",
+        "Add the fish sauce and a little seasoning. Toss in the noodles and cook for a further 3-4 mins until softening. Squeeze in the lime juice, add the prawns and cook through until warm, about 2-3 mins. Scatter over some of the coriander."
+      ],
+      [
+        "Step 3",
+        "Serve in bowls with the remaining coriander and lime wedges on top for squeezing over."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52821",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/prawn-laksa-curry-bowl",
+    "sourceQuantities": true,
+    "videoId": "OcarztU8cYo",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg",
+    "videoTitle": "Spicy King Prawn laksa",
+    "videoAuthor": "Haste's Kitchen",
+    "recipeEdited": true,
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/prawn-laksa-curry-bowl",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Uses reduced-fat coconut milk and cooked prawns, as in the nutrition source."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52960",
+    "title": "Salmon Avocado Salad",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52960.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52960",
+    "prep": 10,
+    "cook": 8,
+    "kcal": 458.0,
+    "protein": 23.0,
+    "category": "Seafood",
+    "area": "British",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Salmon",
+        null,
+        "400g",
+        "Salmon"
+      ],
+      [
+        "Avocado",
+        null,
+        "3",
+        "Avocado"
+      ],
+      [
+        "Cucumber",
+        null,
+        "1",
+        "Cucumber"
+      ],
+      [
+        "Salad leaves",
+        null,
+        "400 g",
+        "mixed salad leaves"
+      ],
+      [
+        "Mint",
+        null,
+        "4 tbs",
+        "Mint"
+      ],
+      [
+        "Lime",
+        null,
+        "zest and juice of 1",
+        "Lime"
+      ],
+      [
+        "Honey",
+        null,
+        "2 tsp",
+        "Honey"
+      ],
+      [
+        "Olive oil",
+        null,
+        "3 tbs",
+        "Olive Oil"
+      ]
+    ],
+    "steps": [
+      [
+        "Make the dressing",
+        "Whisk together the mint, lime zest and juice, honey and olive oil. Slice the avocado and cucumber and arrange with salad leaves on four plates."
+      ],
+      [
+        "Cook the salmon",
+        "Use a little dressing to coat the salmon. Heat a non-stick pan and cook for about 4 minutes per side, until the centre reaches 63°C. Thicker fillets may need longer."
+      ],
+      [
+        "Assemble",
+        "Add one salmon fillet to each plate and spoon the remaining dressing over the salad."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52960",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/4521/salmon-avocado-and-cucumber-salad",
+    "sourceQuantities": true,
+    "videoId": "FJiu2S0Xap0",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1549542994.jpg",
+    "videoTitle": "Salmon avocado and cucumber salad",
+    "videoAuthor": "Salad Recipes",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/salmon-avocado-cucumber-salad",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Mixed salad leaves restored to match the original recipe; the dressing uses the juice and zest of one lime."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52837",
+    "title": "Pilchard puttanesca",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52837.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52837",
+    "prep": 10,
+    "cook": 10,
+    "kcal": 510.0,
+    "protein": 28.0,
+    "category": "Pasta",
+    "area": "Italian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Pasta",
+        null,
+        "300g",
+        "Spaghetti"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbls",
+        "Olive Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 finely chopped",
+        "Onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves minced",
+        "Garlic"
+      ],
+      [
+        "Red chilli",
+        null,
+        "1",
+        "Red Chilli"
+      ],
+      [
+        "Tomato puree",
+        null,
+        "1 tbls",
+        "Tomato Puree"
+      ],
+      [
+        "Pilchards",
+        null,
+        "1 × 425 g can in tomato sauce",
+        "Pilchards"
+      ],
+      [
+        "Black olives",
+        null,
+        "70g",
+        "Black Olives"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Cook the pasta following pack instructions."
+      ],
+      [
+        "Step 2",
+        "Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften."
+      ],
+      [
+        "Step 3",
+        "Stir in the tomato purée and cook for 1 min, then add the pilchards with their sauce."
+      ],
+      [
+        "Step 4",
+        "Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins."
+      ],
+      [
+        "Step 5",
+        "Drain the pasta and add to the pan with 2-3 tbsp of the cooking water."
+      ],
+      [
+        "Step 6",
+        "Toss everything together well, then divide between plates and serve."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 4 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52837",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/pilchard-puttanesca",
+    "sourceQuantities": true,
+    "videoId": "C5ZBjXrJLWU",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+    "videoTitle": "Linguine Sardine Puttanesca",
+    "videoAuthor": "everydaygourmettv",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/pilchard-puttanesca",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52869",
+    "title": "Tahini Lentils",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52869.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52869",
+    "prep": 10,
+    "cook": 10,
+    "kcal": 293.0,
+    "protein": 13.0,
+    "category": "Vegetarian",
+    "area": "Moroccan",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Tahini",
+        null,
+        "50g",
+        "Tahini"
+      ],
+      [
+        "Lemon",
+        null,
+        "zest and juice of 1",
+        "Lemon"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tblsp",
+        "Olive Oil"
+      ],
+      [
+        "Red onions",
+        null,
+        "1 chopped",
+        "Red Onions"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove peeled crushed",
+        "Garlic"
+      ],
+      [
+        "Yellow pepper",
+        null,
+        "1 thinly sliced",
+        "Yellow Pepper"
+      ],
+      [
+        "Green beans",
+        null,
+        "200g",
+        "Green Beans"
+      ],
+      [
+        "Courgettes",
+        null,
+        "1 sliced",
+        "Courgettes"
+      ],
+      [
+        "Kale",
+        null,
+        "100g shredded",
+        "Kale"
+      ],
+      [
+        "Lentils",
+        null,
+        "250 g, ready-cooked",
+        "cooked puy lentils"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "In a jug, mix the tahini with the zest and juice of the lemon and 50ml of cold water to make a runny dressing. Season to taste, then set aside."
+      ],
+      [
+        "Step 2",
+        "Heat the oil in a wok or large frying pan over a medium-high heat. Add the red onion, along with a pinch of salt, and fry for 2 mins until starting to soften and colour. Add the garlic, pepper, green beans and courgette and fry for 5 min, stirring frequently."
+      ],
+      [
+        "Step 3",
+        "Tip in the kale, lentils and the tahini dressing. Keep the pan on the heat for a couple of mins, stirring everything together until the kale is wilted and it’s all coated in the creamy dressing."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52869",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/veggie-tahini-lentils",
+    "sourceQuantities": true,
+    "videoId": "8kRlmz8pW0I",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+    "videoTitle": "Vegetarian recipes. Veggie tahini lentils",
+    "videoAuthor": "Машутка Волкова",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/veggie-tahini-lentils",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52963",
+    "title": "Shakshuka",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52963.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52963",
+    "prep": 5,
+    "cook": 20,
+    "kcal": 340.0,
+    "protein": 21.0,
+    "category": "Vegetarian",
+    "area": "Egyptian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbs",
+        "Olive Oil"
+      ],
+      [
+        "Red onions",
+        null,
+        "2 chopped",
+        "Red Onions"
+      ],
+      [
+        "Red chilli",
+        null,
+        "1 finely chopped",
+        "Red Chilli"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove",
+        "Garlic"
+      ],
+      [
+        "Coriander",
+        null,
+        "Chopped",
+        "Coriander"
+      ],
+      [
+        "Tomato",
+        null,
+        "2 × 400 g cans",
+        "canned cherry tomatoes"
+      ],
+      [
+        "Caster sugar",
+        null,
+        "1 tsp",
+        "Caster sugar"
+      ],
+      [
+        "Eggs",
+        null,
+        "4",
+        "Eggs"
+      ]
+    ],
+    "steps": [
+      [
+        "Soften the onions",
+        "Chop the onions, chilli, garlic and coriander stalks. Heat the oil in a wide lidded pan. Cook onions and chilli for 5 minutes, then stir in garlic and stalks."
+      ],
+      [
+        "Make the sauce",
+        "Add the canned tomatoes and sugar. Break up the tomatoes and simmer for 8–10 minutes until thickened."
+      ],
+      [
+        "Set the eggs",
+        "Make four hollows, crack an egg into each and cover. Cook gently for 5–7 minutes, or until whites and yolks are set. Scatter over the coriander leaves and divide between two plates."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52963",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/7573/spicy-tomato-baked-eggs",
+    "sourceQuantities": true,
+    "videoId": "C-3_jYrfdBU",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+    "videoTitle": "Shakshuka Recipe | Now Cook It",
+    "videoAuthor": "Sorted Food",
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/shakshuka",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Sugar corrected to 1 teaspoon; optional feta removed to match the nutrition basis."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52771",
+    "title": "Spicy Arrabiata Penne",
+    "description": "A simple tomato pasta with a little chilli heat. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52771.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52771",
+    "prep": 10,
+    "cook": 15,
+    "kcal": null,
+    "protein": null,
+    "category": "Pasta",
+    "area": "Italian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Pasta",
+        null,
+        "450 g dry penne",
+        "Pasta"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp (27 g)",
+        "Olive oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "3 cloves (9 g), minced",
+        "Garlic"
+      ],
+      [
+        "Tomato",
+        null,
+        "1 × 400 g can, chopped",
+        "Tomato"
+      ],
+      [
+        "Red chilli flakes",
+        null,
+        "½ tsp",
+        "Red chilli flakes"
+      ],
+      [
+        "Italian seasoning",
+        null,
+        "½ tsp",
+        "Italian seasoning"
+      ],
+      [
+        "Basil",
+        null,
+        "6 leaves (3 g)",
+        "Basil"
+      ],
+      [
+        "Parmesan",
+        null,
+        "20 g, grated",
+        "Parmesan"
+      ]
+    ],
+    "steps": [
+      [
+        "Boil the pasta",
+        "Bring a large pot of water to a boil. Cook penne according to the packet. Keep a mug of cooking water before draining."
+      ],
+      [
+        "Simmer the sauce",
+        "Warm oil in a frying pan. Stir garlic for 30 seconds, then add tomatoes, chilli flakes and Italian seasoning. Simmer for 10 minutes, stirring occasionally."
+      ],
+      [
+        "Combine",
+        "Tear in the basil and toss with pasta. Loosen with a splash of cooking water. Divide into four portions and add Parmesan."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52771",
+    "originalSource": null,
+    "sourceQuantities": true,
+    "videoId": "1IszT_guI08",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "videoTitle": "Spicy penne Arrabiata",
+    "videoAuthor": "Keerthana Cooks",
+    "servings": 4,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Oil and cheese amounts are fixed for the nutrition estimate. Pasta weight is dry; use vegetarian hard cheese if needed.",
+      "Choose cheese labelled vegetarian if required."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Pasta",
+        "profile": "pasta",
+        "grams": 450
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 27
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 9
+      },
+      {
+        "ingredient": "Tomato",
+        "profile": "cannedTomato",
+        "grams": 400
+      },
+      {
+        "ingredient": "Basil",
+        "profile": "basil",
+        "grams": 3
+      },
+      {
+        "ingredient": "Parmesan",
+        "profile": "parmesan",
+        "grams": 20
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52871",
+    "title": "Yaki Udon",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52871.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52871",
+    "prep": 10,
+    "cook": 15,
+    "kcal": 486.0,
+    "protein": 12.0,
+    "category": "Vegetarian",
+    "area": "Japanese",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Udon noodles",
+        null,
+        "250 g dried",
+        "Udon noodles"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "2 tbs",
+        "Sesame Seed Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 sliced",
+        "Onion"
+      ],
+      [
+        "Cabbage",
+        null,
+        "0.25",
+        "Cabbage"
+      ],
+      [
+        "Shiitake mushrooms",
+        null,
+        "10",
+        "Shiitake Mushrooms"
+      ],
+      [
+        "Spring onion",
+        null,
+        "4",
+        "Spring Onions"
+      ],
+      [
+        "Mirin",
+        null,
+        "4 tbsp",
+        "Mirin"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbs",
+        "Soy Sauce"
+      ],
+      [
+        "Caster sugar",
+        null,
+        "1 tblsp",
+        "Caster Sugar"
+      ],
+      [
+        "Vegetarian worcestershire sauce",
+        null,
+        "1 tbsp",
+        "vegetarian Worcestershire sauce"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare the noodles and sauce",
+        "Cook the dried udon according to the packet and drain. While they cook, mix mirin, soy sauce, sugar and vegetarian Worcestershire sauce."
+      ],
+      [
+        "Stir-fry the vegetables",
+        "Slice the vegetables. Heat 1 tablespoon sesame oil in a large pan. Cook onion and cabbage for 5 minutes; add mushrooms and half the spring onions for another 2 minutes."
+      ],
+      [
+        "Toss together",
+        "Add noodles, remaining oil and sauce. Toss over medium-high heat for 2–3 minutes until hot and glossy. Top with the remaining spring onions."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52871",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/yaki-udon",
+    "sourceQuantities": true,
+    "videoId": "5Iy0MCowSvA",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+    "videoTitle": "How To Make Yaki Udon (Stir Fried Udon Noodles) (Recipe) 焼きうどんの作り方 （レシピ）",
+    "videoAuthor": "Just One Cookbook",
+    "recipeEdited": true,
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/yaki-udon",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial timing estimate checked against the method. Includes preparation and all cooking stages; actual time varies.",
+    "reviewNotes": [
+      "Cooking estimate increased to allow for boiling dried noodles and stir-frying; the publisher lists only 5 minutes."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52819",
+    "title": "Cajun spiced fish tacos",
+    "description": "Quick fish tacos with crunchy salad and a lemon dressing. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52819.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52819",
+    "prep": 15,
+    "cook": 15,
+    "kcal": null,
+    "protein": null,
+    "category": "Seafood",
+    "area": "Mexican",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "White fish",
+        null,
+        "4 fillets (600 g total), boneless",
+        "White fish"
+      ],
+      [
+        "Cajun spice mix",
+        null,
+        "2 tbsp (14 g)",
+        "Cajun spice mix"
+      ],
+      [
+        "Cayenne pepper",
+        null,
+        "¼–1 tsp, to taste",
+        "Cayenne pepper"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tsp (5 g)",
+        "Olive oil"
+      ],
+      [
+        "Flour tortilla",
+        null,
+        "8 small (240 g total)",
+        "Flour tortilla"
+      ],
+      [
+        "Avocado",
+        null,
+        "1 (150 g flesh), sliced",
+        "Avocado"
+      ],
+      [
+        "Lettuce",
+        null,
+        "200 g, shredded",
+        "Lettuce"
+      ],
+      [
+        "Spring onion",
+        null,
+        "4 (60 g), sliced",
+        "Spring onion"
+      ],
+      [
+        "Salsa",
+        null,
+        "300 g",
+        "Salsa"
+      ],
+      [
+        "Sour cream",
+        null,
+        "150 g",
+        "Sour cream"
+      ],
+      [
+        "Lemon",
+        null,
+        "30 ml juice",
+        "Lemon"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove (3 g), minced",
+        "Garlic"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare toppings",
+        "Mix sour cream, lemon juice and garlic. Slice the vegetables. Sprinkle the fish with Cajun seasoning and cayenne."
+      ],
+      [
+        "Pan-fry fish",
+        "Heat oil in a non-stick frying pan. Cook fish for about 8–10 minutes, turning carefully, until the centre reaches 63°C and flakes easily. Cook in batches if needed."
+      ],
+      [
+        "Fill the tortillas",
+        "Warm tortillas in a dry pan. Flake the fish and divide between eight tortillas with avocado, lettuce, spring onion, salsa and dressing. Serve two tacos per person."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52819",
+    "originalSource": "https://realfood.tesco.com/recipes/cajun-spiced-fish-tacos.html",
+    "sourceQuantities": true,
+    "videoId": "N4EdUt0Ou48",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "videoTitle": "Cajun Fish Tacos",
+    "videoAuthor": "Mum's Lounge",
+    "servings": 4,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Fish, tortillas and sour cream now have weights; the estimate uses cod and includes all toppings."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "White fish",
+        "profile": "fish",
+        "grams": 600
+      },
+      {
+        "ingredient": "Cajun spice mix",
+        "profile": "spice",
+        "grams": 14
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Flour tortilla",
+        "profile": "tortilla",
+        "grams": 240
+      },
+      {
+        "ingredient": "Avocado",
+        "profile": "avocado",
+        "grams": 150
+      },
+      {
+        "ingredient": "Lettuce",
+        "profile": "lettuce",
+        "grams": 200
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 60
+      },
+      {
+        "ingredient": "Salsa",
+        "profile": "salsa",
+        "grams": 300
+      },
+      {
+        "ingredient": "Sour cream",
+        "profile": "sourCream",
+        "grams": 150
+      },
+      {
+        "ingredient": "Lemon",
+        "profile": "lemon",
+        "grams": 30
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 3
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52850",
+    "title": "Chicken Couscous",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52850.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52850",
+    "prep": 15,
+    "cook": 15,
+    "kcal": 281.0,
+    "protein": 20.0,
+    "category": "Chicken",
+    "area": "Moroccan",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbsp",
+        "Olive Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 chopped",
+        "Onion"
+      ],
+      [
+        "Chicken",
+        null,
+        "200g",
+        "Chicken Breast"
+      ],
+      [
+        "Ginger",
+        null,
+        "1 thumb-sized piece, grated",
+        "Ginger"
+      ],
+      [
+        "Harissa paste",
+        null,
+        "1–2 tbsp",
+        "Harissa paste"
+      ],
+      [
+        "Dried apricots",
+        null,
+        "10",
+        "Dried Apricots"
+      ],
+      [
+        "Chickpeas",
+        null,
+        "1 × 220 g can, drained",
+        "Chickpeas"
+      ],
+      [
+        "Couscous",
+        null,
+        "200g",
+        "Couscous"
+      ],
+      [
+        "Chicken stock",
+        null,
+        "200ml",
+        "Chicken Stock"
+      ],
+      [
+        "Coriander",
+        null,
+        "Handful",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened."
+      ],
+      [
+        "Step 2",
+        "Add the chicken and fry for 7-10 mins until cooked through and the onions have turned golden."
+      ],
+      [
+        "Step 3",
+        "Grate over the ginger, stir through the harissa to coat everything and cook for 1 min more."
+      ],
+      [
+        "Step 4",
+        "Tip in the apricots, chickpeas and couscous, then pour over the stock and stir once."
+      ],
+      [
+        "Step 5",
+        "Cover with a lid or tightly cover the pan with foil and leave for about 5 mins until the couscous has soaked up all the stock and is soft."
+      ],
+      [
+        "Step 6",
+        "Fluff up the couscous with a fork and scatter over the coriander to serve."
+      ],
+      [
+        "Step 7",
+        "Serve with extra harissa, if you like."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52850",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/13139/onepan-chicken-couscous",
+    "sourceQuantities": true,
+    "videoId": "zGmETz_HrRE",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+    "videoTitle": "Easy Moroccan-inspired chicken couscous dinner",
+    "videoAuthor": "The Mediterranean Dish",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/one-pan-chicken-couscous",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52946",
+    "title": "Kung Po Prawns",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52946.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52946",
+    "prep": 10,
+    "cook": 10,
+    "kcal": 308.0,
+    "protein": 25.0,
+    "category": "Seafood",
+    "area": "Chinese",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Prawns",
+        null,
+        "400g, raw and peeled",
+        "raw prawns"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbsp",
+        "light soy sauce"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "2 tbsp",
+        "Chinese rice vinegar"
+      ],
+      [
+        "Tomato puree",
+        null,
+        "1 heaped tbsp",
+        "tomato puree"
+      ],
+      [
+        "Corn flour",
+        null,
+        "1 tsp",
+        "cornflour"
+      ],
+      [
+        "Caster sugar",
+        null,
+        "1 tsp",
+        "caster sugar"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp",
+        "sunflower or groundnut oil"
+      ],
+      [
+        "Peanuts",
+        null,
+        "85g, unsalted and roasted",
+        "peanuts"
+      ],
+      [
+        "Chilli",
+        null,
+        "3 large, dried",
+        "dried chillies"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves, chopped",
+        "garlic"
+      ],
+      [
+        "Water chestnut",
+        null,
+        "2 × 225 g cans, drained",
+        "Water chestnut"
+      ],
+      [
+        "Ginger",
+        null,
+        "thumb-sized piece, grated",
+        "ginger"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Mix the cornflour and 1 tbsp soy sauce, toss in the prawns and set aside for 10 mins. Stir the vinegar, remaining soy sauce, tomato purée, sugar and 2 tbsp water together to make a sauce."
+      ],
+      [
+        "Step 2",
+        "When you’re ready to cook, heat a large frying pan or wok until very hot, then add 1 tbsp oil. Fry the prawns until they are golden in places and have opened out– then tip them out of the pan."
+      ],
+      [
+        "Step 3",
+        "Heat the remaining oil and add the peanuts, chillies and water chestnuts. Stir-fry for 2 mins or until the peanuts start to colour, then add the ginger and garlic and fry for 1 more min. Tip in the prawns and sauce and simmer for 2 mins until thickened slightly. Serve with rice."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52946",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/kung-po-prawns",
+    "sourceQuantities": true,
+    "videoId": "ysiuZm9FIxs",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+    "videoTitle": "Easy Kung Pao Shrimp",
+    "videoAuthor": "Panlasang Pinoy",
+    "recipeEdited": true,
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/kung-po-prawns",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "The 10-minute prawn marinade is shown separately and included in the time filter."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "wait": 10,
+    "waitLabel": "Marinate",
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52865",
+    "title": "Matar Paneer",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52865.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52865",
+    "prep": 15,
+    "cook": 15,
+    "kcal": 544.0,
+    "protein": 35.0,
+    "category": "Vegetarian",
+    "area": "India",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbls",
+        "Sunflower Oil"
+      ],
+      [
+        "Paneer",
+        null,
+        "225g",
+        "Paneer"
+      ],
+      [
+        "Ginger",
+        null,
+        "2.5 cm piece, grated",
+        "Ginger"
+      ],
+      [
+        "Cumin",
+        null,
+        "1 tsp",
+        "Cumin"
+      ],
+      [
+        "Turmeric",
+        null,
+        "1 tsp",
+        "Turmeric"
+      ],
+      [
+        "Ground coriander",
+        null,
+        "1 tsp",
+        "Ground coriander"
+      ],
+      [
+        "Green chilli",
+        null,
+        "1",
+        "Green Chilli"
+      ],
+      [
+        "Tomato",
+        null,
+        "4 large",
+        "Tomato"
+      ],
+      [
+        "Peas",
+        null,
+        "150g",
+        "Peas"
+      ],
+      [
+        "Garam masala",
+        null,
+        "1 tsp",
+        "Garam Masala"
+      ],
+      [
+        "Coriander",
+        null,
+        "Small bunch",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the oil in a frying pan over high heat until it’s shimmering hot."
+      ],
+      [
+        "Step 2",
+        "Add the paneer, then turn the heat down a little."
+      ],
+      [
+        "Step 3",
+        "Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away."
+      ],
+      [
+        "Step 4",
+        "Remove the paneer from the pan and drain on kitchen paper."
+      ],
+      [
+        "Step 5",
+        "Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min."
+      ],
+      [
+        "Step 6",
+        "Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant."
+      ],
+      [
+        "Step 7",
+        "Add a splash of water if it’s too thick."
+      ],
+      [
+        "Step 8",
+        "Season well."
+      ],
+      [
+        "Step 9",
+        "Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala."
+      ],
+      [
+        "Step 10",
+        "Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 2 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52865",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/matar-paneer",
+    "sourceQuantities": true,
+    "videoId": "tYt9s6-5MLc",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+    "videoTitle": "No-Fail! Matar Paneer recipe | माँ की स्पेशल मटर पनीर रेसिपी | Matar Paneer gravy | Chef RanveerBrar",
+    "videoAuthor": "Chef Ranveer Brar",
+    "recipeEdited": true,
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/matar-paneer",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial timing estimate checked against the method. Includes preparation and all cooking stages; actual time varies.",
+    "reviewNotes": [
+      "Allow 15 minutes to brown the paneer and simmer the sauce. Bread or rice is an optional extra."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52774",
+    "title": "Pad See Ew",
+    "description": "Thai-style chicken and rice noodles, cooked in one pan after soaking the noodles. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52774.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52774",
+    "prep": 15,
+    "cook": 15,
+    "kcal": null,
+    "protein": null,
+    "category": "Chicken",
+    "area": "Thai",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Rice noodles",
+        null,
+        "180 g dry, wide rice noodles",
+        "Rice noodles"
+      ],
+      [
+        "Dark soy sauce",
+        null,
+        "2 tbsp (32 g)",
+        "Dark soy sauce"
+      ],
+      [
+        "Oyster sauce",
+        null,
+        "2 tbsp (36 g)",
+        "Oyster sauce"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tsp (11 g)",
+        "Soy sauce"
+      ],
+      [
+        "White vinegar",
+        null,
+        "2 tsp (10 g)",
+        "White vinegar"
+      ],
+      [
+        "Sugar",
+        null,
+        "2 tsp (8 g)",
+        "Sugar"
+      ],
+      [
+        "Water",
+        null,
+        "2 tbsp",
+        "Water"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp (27 g)",
+        "Olive oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Chicken",
+        null,
+        "200 g raw boneless skinless breast, sliced",
+        "Chicken"
+      ],
+      [
+        "Eggs",
+        null,
+        "1 medium (50 g without shell)",
+        "Eggs"
+      ],
+      [
+        "Chinese broccoli",
+        null,
+        "200 g, chopped",
+        "Chinese broccoli"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare noodles and sauce",
+        "Soften the rice noodles according to the packet and drain. Mix the soy sauces, oyster sauce, vinegar, sugar and water. Separate broccoli stems from leaves."
+      ],
+      [
+        "Cook chicken and egg",
+        "Heat oil in a large non-stick pan. Add garlic, chicken and broccoli stems. Stir-fry for 5–6 minutes until chicken reaches 74°C. Push aside and scramble the egg in the pan until set."
+      ],
+      [
+        "Finish the noodles",
+        "Add noodles, broccoli leaves and sauce. Gently toss for 2–3 minutes until the leaves wilt and everything is piping hot. Divide between two bowls."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52774",
+    "originalSource": null,
+    "sourceQuantities": true,
+    "videoId": "Ohy1DELF4is",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+    "videoTitle": "Authentic Pad See Ew Recipe - Hot Thai Kitchen",
+    "videoAuthor": "Pailin's Kitchen",
+    "servings": 2,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Noodle and chicken weights are explicit. Uses olive oil as a convenient alternative to peanut oil; allow extra soaking time if required by your noodle packet."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Rice noodles",
+        "profile": "riceNoodles",
+        "grams": 180
+      },
+      {
+        "ingredient": "Dark soy sauce",
+        "profile": "soy",
+        "grams": 32
+      },
+      {
+        "ingredient": "Oyster sauce",
+        "profile": "oyster",
+        "grams": 36
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 11
+      },
+      {
+        "ingredient": "White vinegar",
+        "profile": "vinegar",
+        "grams": 10
+      },
+      {
+        "ingredient": "Sugar",
+        "profile": "sugar",
+        "grams": 8
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 27
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 200
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 50
+      },
+      {
+        "ingredient": "Chinese broccoli",
+        "profile": "broccoli",
+        "grams": 200
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52852",
+    "title": "Tuna Nicoise",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52852.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52852",
+    "prep": 10,
+    "cook": 20,
+    "kcal": 329.0,
+    "protein": 26.0,
+    "category": "Seafood",
+    "area": "France",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Potato",
+        null,
+        "450g",
+        "Potatoes"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp + 2 tsp",
+        "Olive oil"
+      ],
+      [
+        "Eggs",
+        null,
+        "4",
+        "Eggs"
+      ],
+      [
+        "Red wine vinegar",
+        null,
+        "1 tbls",
+        "Red Wine Vinegar"
+      ],
+      [
+        "Capers",
+        null,
+        "2 tblsp",
+        "Capers"
+      ],
+      [
+        "Sundried tomatoes",
+        null,
+        "50 g, drained and chopped",
+        "sundried tomatoes in oil"
+      ],
+      [
+        "Red onions",
+        null,
+        "½, thinly sliced",
+        "Red onions"
+      ],
+      [
+        "Spinach",
+        null,
+        "100g",
+        "Spinach"
+      ],
+      [
+        "Tuna",
+        null,
+        "2 × 160–200 g cans in springwater, drained",
+        "Tuna"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat oven to 200C/fan 180C/gas 6. Toss the potatoes with 2 tsp oil and some seasoning. Tip onto a large baking tray, then roast for 20 mins, stirring halfway, until crisp, golden and cooked through."
+      ],
+      [
+        "Step 2",
+        "Meanwhile, put eggs in a small pan of water, bring to the boil, then simmer for 8-10 mins, depending on how you like them cooked. Plunge into a bowl of cold water to cool for a few mins. Peel away the shells, then cut into halves."
+      ],
+      [
+        "Step 3",
+        "In a large salad bowl, whisk together the remaining oil, red wine vinegar, capers and chopped tomatoes. Season, tip in the onion, spinach, tuna and potatoes, then gently toss together. Top with the eggs, then serve straight away."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52852",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/9529/winter-tuna-nioise",
+    "sourceQuantities": true,
+    "videoId": "3_UAxkx0u6U",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+    "videoTitle": "TUNA NICOISE RECIPE - SORTED",
+    "videoAuthor": "Sorted Food",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/winter-tuna-nicoise",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Sundried tomatoes replace the erroneous sunflower-oil entry. Oil and canned tuna quantities have been clarified."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52965",
+    "title": "Breakfast Potatoes",
+    "description": "Crisp pan-cooked potatoes with a little bacon and maple syrup. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52965.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52965",
+    "prep": 10,
+    "cook": 25,
+    "kcal": null,
+    "protein": null,
+    "category": "Breakfast",
+    "area": "Canadian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Potato",
+        null,
+        "3 medium (600 g), cut into 1 cm cubes",
+        "Potato"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Bacon",
+        null,
+        "2 strips (40 g), chopped",
+        "Bacon"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove (3 g), minced",
+        "Garlic"
+      ],
+      [
+        "Maple syrup",
+        null,
+        "1 tbsp (20 g)",
+        "Maple syrup"
+      ],
+      [
+        "Parsley",
+        null,
+        "5 g, chopped",
+        "Parsley"
+      ],
+      [
+        "Allspice",
+        null,
+        "a pinch",
+        "Allspice"
+      ],
+      [
+        "Salt",
+        null,
+        "to taste",
+        "Salt"
+      ],
+      [
+        "Pepper",
+        null,
+        "to taste",
+        "Pepper"
+      ]
+    ],
+    "steps": [
+      [
+        "Brown the potatoes",
+        "Pat diced potatoes dry. Heat oil in a large non-stick pan over medium heat. Add potatoes and cook for 10 minutes, turning regularly."
+      ],
+      [
+        "Add bacon",
+        "Add bacon and cook for 8–10 minutes until it is cooked and the potatoes are tender. Add a splash of water and cover briefly if potatoes need longer."
+      ],
+      [
+        "Finish",
+        "Add garlic and allspice for 1 minute. Stir in maple syrup and parsley for another minute. Divide into three side portions. An egg, if added, is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52965",
+    "originalSource": "http://www.vodkaandbiscuits.com/2014/03/06/bangin-breakfast-potatoes/",
+    "sourceQuantities": true,
+    "videoId": "BoD0TIO9nE4",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+    "videoTitle": "Breakfast Potato Recipe Share if you Like!!",
+    "videoAuthor": "Shawn Phillips",
+    "servings": 3,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Three side portions, with no extra egg included. Removes the unnecessary bacon-freezing step and fixes oil quantity for the estimate."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Potato",
+        "profile": "potato",
+        "grams": 600
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Bacon",
+        "profile": "bacon",
+        "grams": 40
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 3
+      },
+      {
+        "ingredient": "Maple syrup",
+        "profile": "maple",
+        "grams": 20
+      },
+      {
+        "ingredient": "Parsley",
+        "profile": "parsley",
+        "grams": 5
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52868",
+    "title": "Kidney Bean Curry",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52868.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52868",
+    "prep": 5,
+    "cook": 30,
+    "kcal": 282.0,
+    "protein": 13.0,
+    "category": "Vegetarian",
+    "area": "India",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbls",
+        "Vegetable Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 finely chopped",
+        "Onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves chopped",
+        "Garlic"
+      ],
+      [
+        "Ginger",
+        null,
+        "1 thumb-sized piece, peeled and chopped",
+        "ginger"
+      ],
+      [
+        "Coriander",
+        null,
+        "1 Packet",
+        "Coriander"
+      ],
+      [
+        "Cumin",
+        null,
+        "1 tsp",
+        "Cumin"
+      ],
+      [
+        "Paprika",
+        null,
+        "1 tsp",
+        "Paprika"
+      ],
+      [
+        "Garam masala",
+        null,
+        "2 tsp",
+        "Garam Masala"
+      ],
+      [
+        "Tomato",
+        null,
+        "400g",
+        "Chopped Tomatoes"
+      ],
+      [
+        "Kidney beans",
+        null,
+        "400g canned, including the liquid",
+        "canned kidney beans"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant."
+      ],
+      [
+        "Step 2",
+        "Add the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil."
+      ],
+      [
+        "Step 3",
+        "Turn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 2 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52868",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/kidney-bean-curry",
+    "sourceQuantities": true,
+    "videoId": "Tp_PMWvIKzo",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
+    "videoTitle": "Rajma Masala (Kidney Beans Curry)",
+    "videoAuthor": "Veggie Recipe House",
+    "recipeEdited": true,
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/kidney-bean-curry",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52947",
+    "title": "Ma Po Tofu",
+    "description": "A manageable pan of tofu and minced beef with a spicy sauce. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52947.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52947",
+    "prep": 15,
+    "cook": 20,
+    "kcal": null,
+    "protein": null,
+    "category": "Beef",
+    "area": "Chinese",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Tofu",
+        null,
+        "450 g regular tofu, cubed",
+        "Tofu"
+      ],
+      [
+        "Beef",
+        null,
+        "100 g raw lean mince",
+        "Beef"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "½ tbsp (7 g)",
+        "Sesame oil"
+      ],
+      [
+        "Doubanjiang",
+        null,
+        "1½ tsp (8 g)",
+        "Doubanjiang"
+      ],
+      [
+        "Fermented black beans",
+        null,
+        "½ tsp (3 g), rinsed",
+        "Fermented black beans"
+      ],
+      [
+        "Red chilli flakes",
+        null,
+        "1 tsp, or to taste",
+        "Red chilli flakes"
+      ],
+      [
+        "Sichuan pepper",
+        null,
+        "½ tsp, ground",
+        "Sichuan pepper"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbsp (16 g)",
+        "Soy sauce"
+      ],
+      [
+        "Water",
+        null,
+        "400 ml plus 2½ tbsp for slurry",
+        "Water"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp (27 g)",
+        "Olive oil"
+      ],
+      [
+        "Spring onion",
+        null,
+        "4 (60 g), chopped",
+        "Spring onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Ginger",
+        null,
+        "10 g, minced",
+        "Ginger"
+      ],
+      [
+        "Cornstarch",
+        null,
+        "1 tbsp (8 g)",
+        "Cornstarch"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare tofu and slurry",
+        "Simmer tofu in water for 1 minute, then drain gently. Mix the cornstarch with 2½ tablespoons cold water. Coat the mince with sesame oil."
+      ],
+      [
+        "Brown the beef",
+        "Heat olive oil in a wide pan. Cook the beef for 4–5 minutes, breaking it up, until browned and at least 71°C. Add doubanjiang, black beans, garlic, ginger, spring-onion whites and chilli flakes; stir for 1 minute."
+      ],
+      [
+        "Simmer and thicken",
+        "Pour in 400 ml water and soy sauce. Slide in the tofu and simmer gently for 8 minutes. Stir the slurry again and add it gradually, cooking for 1–2 minutes until the sauce coats the tofu."
+      ],
+      [
+        "Serve",
+        "Sprinkle with Sichuan pepper and spring-onion greens. Divide into three portions. Any steamed rice adds extra calories and preparation time."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52947",
+    "originalSource": "https://www.chinasichuanfood.com/mapo-tofu-recipe/",
+    "sourceQuantities": true,
+    "videoId": "IhwPQL9dFYc",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+    "videoTitle": "How to Make Mapo Tofu (Mabo Dofu Recipe) | Cooking with Dog",
+    "videoAuthor": "Cooking with Dog",
+    "servings": 3,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Duplicate scallions removed and the ambiguous pepper entry clarified as chilli flakes. Generic chilli and cooked-bean profiles approximate the small amounts of fermented sauces. Rice is extra."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Tofu",
+        "profile": "tofu",
+        "grams": 450
+      },
+      {
+        "ingredient": "Beef",
+        "profile": "beef",
+        "grams": 100
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 7
+      },
+      {
+        "ingredient": "Doubanjiang",
+        "profile": "chilliPowder",
+        "grams": 8
+      },
+      {
+        "ingredient": "Fermented black beans",
+        "profile": "blackBeans",
+        "grams": 3
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 16
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 27
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 60
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 10
+      },
+      {
+        "ingredient": "Cornstarch",
+        "profile": "starch",
+        "grams": 8
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52797",
+    "title": "Spicy North African Potato Salad",
+    "description": "Warm potatoes, peppery rocket and a little feta make a straightforward lunch or side. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52797.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52797",
+    "prep": 10,
+    "cook": 25,
+    "kcal": null,
+    "protein": null,
+    "category": "Vegetarian",
+    "area": "Moroccan",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Potato",
+        null,
+        "650 g, small potatoes",
+        "Potato"
+      ],
+      [
+        "Harissa paste",
+        null,
+        "1 tsp (5 g)",
+        "Harissa paste"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tsp (9 g)",
+        "Olive oil"
+      ],
+      [
+        "Lemon",
+        null,
+        "15 ml juice",
+        "Lemon"
+      ],
+      [
+        "Spring onion",
+        null,
+        "4 (60 g), sliced",
+        "Spring onion"
+      ],
+      [
+        "Rocket",
+        null,
+        "150 g",
+        "Rocket"
+      ],
+      [
+        "Feta",
+        null,
+        "80 g",
+        "Feta"
+      ],
+      [
+        "Mint",
+        null,
+        "5 g fresh leaves, chopped",
+        "Mint"
+      ],
+      [
+        "Pine nuts",
+        null,
+        "2 tbsp (18 g)",
+        "Pine nuts"
+      ]
+    ],
+    "steps": [
+      [
+        "Boil the potatoes",
+        "Place potatoes in a pan, cover with cold water and bring to a boil. Simmer for about 20 minutes until a knife slides in easily. Drain and halve when cool enough to handle."
+      ],
+      [
+        "Mix the dressing",
+        "Whisk harissa, olive oil and lemon juice. Toss with the warm potatoes and spring onions."
+      ],
+      [
+        "Assemble",
+        "Lay rocket in a serving bowl, add potatoes, then crumble over feta. Finish with mint and pine nuts. Divide into four light portions."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52797",
+    "originalSource": null,
+    "sourceQuantities": true,
+    "videoId": "zxBzwJvTK4g",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg",
+    "videoTitle": "Moroccan Potato Salad / سلطة بطاطس - CookingWithAlia - Episode 401",
+    "videoAuthor": "cookingwithalia",
+    "servings": 4,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Makes four light portions. Nutrition uses generic chilli seasoning as an approximation for the small amount of harissa; choose vegetarian feta if needed."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Potato",
+        "profile": "potato",
+        "grams": 650
+      },
+      {
+        "ingredient": "Harissa paste",
+        "profile": "chilliPowder",
+        "grams": 5
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 9
+      },
+      {
+        "ingredient": "Lemon",
+        "profile": "lemon",
+        "grams": 15
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 60
+      },
+      {
+        "ingredient": "Rocket",
+        "profile": "rocket",
+        "grams": 150
+      },
+      {
+        "ingredient": "Feta",
+        "profile": "feta",
+        "grams": 80
+      },
+      {
+        "ingredient": "Mint",
+        "profile": "mint",
+        "grams": 5
+      },
+      {
+        "ingredient": "Pine nuts",
+        "profile": "pineNuts",
+        "grams": 18
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52911",
+    "title": "Summer Pistou",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52911.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52911",
+    "prep": 10,
+    "cook": 25,
+    "kcal": 209.0,
+    "protein": 12.0,
+    "category": "Vegetarian",
+    "area": "France",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbs",
+        "Rapeseed Oil"
+      ],
+      [
+        "Leek",
+        null,
+        "2 finely chopped",
+        "Leek"
+      ],
+      [
+        "Courgettes",
+        null,
+        "1 large",
+        "Courgettes"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "1L",
+        "Vegetable Stock"
+      ],
+      [
+        "White beans",
+        null,
+        "1 × 400 g can, drained",
+        "cannellini beans"
+      ],
+      [
+        "Green beans",
+        null,
+        "200g",
+        "Green Beans"
+      ],
+      [
+        "Tomato",
+        null,
+        "3 chopped",
+        "Tomatoes"
+      ],
+      [
+        "Garlic",
+        null,
+        "3 chopped",
+        "Garlic Clove"
+      ],
+      [
+        "Basil",
+        null,
+        "Small pack",
+        "Basil"
+      ],
+      [
+        "Vegetarian hard cheese",
+        null,
+        "40 g, grated",
+        "vegetarian Parmesan-style cheese"
+      ]
+    ],
+    "steps": [
+      [
+        "Soften the vegetables",
+        "Heat oil in a saucepan. Cook sliced leeks and diced courgette for 5 minutes. Add stock, three-quarters of the drained white beans, green beans and half the tomatoes. Simmer for 8–10 minutes until tender."
+      ],
+      [
+        "Make a rustic pistou",
+        "Finely chop the garlic, basil and remaining tomatoes. Mash the remaining white beans with a fork, then mix with the chopped ingredients and vegetarian hard cheese."
+      ],
+      [
+        "Finish",
+        "Stir this mixture into the soup. Simmer for 2–3 minutes and season. Divide into four bowls."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52911",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/summer-pistou",
+    "sourceQuantities": true,
+    "videoId": "fyeqZJKEXp0",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg",
+    "videoTitle": "Soup au Pistou",
+    "videoAuthor": "KC Quaretti",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/summer-pistou",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "A finely chopped, fork-mashed pistou replaces blending, so only a stovetop is required."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52870",
+    "title": "Chickpea Fajitas",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52870.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52870",
+    "prep": 15,
+    "cook": 25,
+    "kcal": 782.0,
+    "protein": 17.0,
+    "category": "Vegetarian",
+    "area": "Mexican",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Chickpeas",
+        null,
+        "1 × 400 g can, drained",
+        "Chickpeas"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tblsp",
+        "Olive Oil"
+      ],
+      [
+        "Paprika",
+        null,
+        "pinch",
+        "Paprika"
+      ],
+      [
+        "Tomato",
+        null,
+        "2 small cut chunks",
+        "Tomatoes"
+      ],
+      [
+        "Red onions",
+        null,
+        "1 finely sliced",
+        "Red Onions"
+      ],
+      [
+        "Red wine vinegar",
+        null,
+        "2 tbsp",
+        "Red wine vinegar"
+      ],
+      [
+        "Avocado",
+        null,
+        "1",
+        "Avocado"
+      ],
+      [
+        "Lime",
+        null,
+        "2 (juice one; cut the other into wedges)",
+        "Lime"
+      ],
+      [
+        "Sour cream",
+        null,
+        "100g",
+        "Sour Cream"
+      ],
+      [
+        "Harissa spice",
+        null,
+        "2 tsp",
+        "Harissa Spice"
+      ],
+      [
+        "Corn tortillas",
+        null,
+        "4",
+        "Corn Tortillas"
+      ],
+      [
+        "Coriander",
+        null,
+        "to serve",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking."
+      ],
+      [
+        "Step 2",
+        "Meanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve."
+      ],
+      [
+        "Step 3",
+        "Heat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines."
+      ],
+      [
+        "Step 4",
+        "Put everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52870",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/chickpea-fajitas",
+    "sourceQuantities": true,
+    "videoId": "HSAVz1AxwWY",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+    "videoTitle": "Sheet Pan Chickpea Fajitas (Ready in 30 Minutes!)",
+    "videoAuthor": "Live Eat Learn",
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/chickpea-fajitas",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52839",
+    "title": "Chilli prawn linguine",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52839.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52839",
+    "prep": 15,
+    "cook": 25,
+    "kcal": 237.0,
+    "protein": 14.0,
+    "category": "Pasta",
+    "area": "Italian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Pasta",
+        null,
+        "280g",
+        "Linguine Pasta"
+      ],
+      [
+        "Sugar snap peas",
+        null,
+        "200g",
+        "Sugar Snap Peas"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tblsp",
+        "Olive Oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves chopped",
+        "Garlic Clove"
+      ],
+      [
+        "Red chilli",
+        null,
+        "1 large",
+        "Red Chilli"
+      ],
+      [
+        "King prawns",
+        null,
+        "24 raw, peeled",
+        "raw king prawns"
+      ],
+      [
+        "Tomato",
+        null,
+        "12",
+        "Cherry Tomatoes"
+      ],
+      [
+        "Basil",
+        null,
+        "Handful",
+        "Basil Leaves"
+      ],
+      [
+        "Fromage frais",
+        null,
+        "2 tbsp",
+        "Fromage Frais"
+      ],
+      [
+        "Lime",
+        null,
+        "2, zest and juice",
+        "Lime"
+      ],
+      [
+        "Caster sugar",
+        null,
+        "2 tsp",
+        "Caster Sugar"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare dressing and pasta",
+        "Mix fromage frais, lime zest and juice, and sugar. Boil linguine according to its packet, adding sugar snap peas for the final minute. Drain, saving a little cooking water."
+      ],
+      [
+        "Cook the prawns",
+        "Warm oil in a large frying pan. Stir garlic and chilli for 30 seconds. Add raw peeled prawns and stir-fry for 3 minutes. Add tomatoes and cook for another 3 minutes, until prawns are opaque throughout and tomatoes soften."
+      ],
+      [
+        "Toss and serve",
+        "Add drained pasta and sugar snaps to the pan. Loosen with a splash of cooking water and tear in basil. Divide into six light portions and drizzle with the lime dressing. Bread or salad, if added, is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52839",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/1269/chilli-prawn-linguine",
+    "sourceQuantities": true,
+    "videoId": "SC17Mc70Db0",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg",
+    "videoTitle": "How To Cook Fresh Prawn And Chilli Linguine",
+    "videoAuthor": "Scoff",
+    "servings": 6,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/chilli-prawn-linguine",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial timing estimate checked against the method. Includes preparation and all cooking stages; actual time varies.",
+    "reviewNotes": [
+      "Makes six light portions. Dressing is used on the pasta; additional bread or salad is not included."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52977",
+    "title": "Corba",
+    "description": "A simple Turkish-style red lentil soup with no blender needed. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52977.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52977",
+    "prep": 10,
+    "cook": 30,
+    "kcal": null,
+    "protein": null,
+    "category": "Vegetarian",
+    "area": "Turkish",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Lentils",
+        null,
+        "190 g dry red lentils, rinsed",
+        "Lentils"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 large (150 g), chopped",
+        "Onion"
+      ],
+      [
+        "Carrot",
+        null,
+        "1 large (100 g), diced",
+        "Carrot"
+      ],
+      [
+        "Tomato puree",
+        null,
+        "1 tbsp (16 g)",
+        "Tomato puree"
+      ],
+      [
+        "Cumin",
+        null,
+        "2 tsp (4 g)",
+        "Cumin"
+      ],
+      [
+        "Paprika",
+        null,
+        "1 tsp",
+        "Paprika"
+      ],
+      [
+        "Mint",
+        null,
+        "½ tsp dried",
+        "Mint"
+      ],
+      [
+        "Thyme",
+        null,
+        "½ tsp dried",
+        "Thyme"
+      ],
+      [
+        "Pepper",
+        null,
+        "a pinch",
+        "Pepper"
+      ],
+      [
+        "Red chilli flakes",
+        null,
+        "¼ tsp",
+        "Red chilli flakes"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "1 litre, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Water",
+        null,
+        "250 ml",
+        "Water"
+      ]
+    ],
+    "steps": [
+      [
+        "Soften vegetables",
+        "Heat oil in a saucepan. Cook onion and carrot for 6 minutes. Stir in tomato puree and spices for 1 minute."
+      ],
+      [
+        "Simmer the lentils",
+        "Add rinsed red lentils, stock and water. Bring to a boil, then simmer partially covered for 20–25 minutes until lentils and carrots are soft."
+      ],
+      [
+        "Finish the soup",
+        "Stir vigorously or mash with a potato masher for a rustic texture. Season and divide into four bowls. Bread is an optional extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52977",
+    "originalSource": "https://findingtimeforcooking.com/main-dishes/red-lentil-soup-corba/",
+    "sourceQuantities": true,
+    "videoId": "VVnZd8A84z4",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+    "videoTitle": "Turkish Vegetable Lentil Soup Recipe – Traditional Turkish Red Lentil",
+    "videoAuthor": "Easy Turkish Recipes",
+    "servings": 4,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Restores the oil used in the method and specifies red lentils. A rustic mash replaces blending; bread is not included."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Lentils",
+        "profile": "lentils",
+        "grams": 190
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 150
+      },
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 100
+      },
+      {
+        "ingredient": "Tomato puree",
+        "profile": "tomatoPaste",
+        "grams": 16
+      },
+      {
+        "ingredient": "Cumin",
+        "profile": "cumin",
+        "grams": 4
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 1000
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52814",
+    "title": "Thai Green Curry",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52814.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52814",
+    "prep": 10,
+    "cook": 30,
+    "kcal": 275.0,
+    "protein": 17.0,
+    "category": "Chicken",
+    "area": "Thai",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Potato",
+        null,
+        "225g new",
+        "Potatoes"
+      ],
+      [
+        "Green beans",
+        null,
+        "100g",
+        "green beans"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp",
+        "sunflower oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove",
+        "garlic"
+      ],
+      [
+        "Thai green curry paste",
+        null,
+        "4 tsp",
+        "Thai green curry paste"
+      ],
+      [
+        "Coconut milk",
+        null,
+        "400ml",
+        "coconut milk"
+      ],
+      [
+        "Thai fish sauce",
+        null,
+        "2 tsp",
+        "Thai fish sauce"
+      ],
+      [
+        "Sugar",
+        null,
+        "1 tsp",
+        "Sugar"
+      ],
+      [
+        "Chicken",
+        null,
+        "450g boneless",
+        "Chicken"
+      ],
+      [
+        "Lime leaves",
+        null,
+        "2, shredded",
+        "lime leaves"
+      ],
+      [
+        "Basil",
+        null,
+        "handfull",
+        "basil"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Put the potatoes in a pan of boiling water and cook for 5 minutes. Throw in the beans and cook for a further 3 minutes, by which time both should be just tender but not too soft. Drain and put to one side."
+      ],
+      [
+        "Step 2",
+        "In a wok or large frying pan, heat the oil until very hot, then drop in the garlic and cook until golden, this should take only a few seconds. Don’t let it go very dark or it will spoil the taste. Spoon in the curry paste and stir it around for a few seconds to begin to cook the spices and release all the flavours. Next, pour in the coconut milk and let it come to a bubble."
+      ],
+      [
+        "Step 3",
+        "Stir in the fish sauce and sugar, then the pieces of chicken. Turn the heat down to a simmer and cook, covered, for about 8 minutes until the chicken is cooked."
+      ],
+      [
+        "Step 4",
+        "Tip in the potatoes and beans and let them warm through in the hot coconut milk, then add a lovely citrussy flavour by stirring in the shredded lime leaves (or lime zest). The basil leaves go in next, but only leave them briefly on the heat or they will quickly lose their brightness. Scatter with the lime garnish and serve immediately with boiled rice. Check the chicken reaches 74°C before serving."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 6 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52814",
+    "originalSource": "http://www.bbcgoodfood.com/recipes/3235/thai-green-chicken-curry",
+    "sourceQuantities": true,
+    "videoId": "LIbKVpBQKJI",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+    "videoTitle": "Thai Green Curry Recipe แกงเขียวหวาน - Hot Thai Kitchen",
+    "videoAuthor": "Pailin's Kitchen",
+    "servings": 6,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/thai-green-chicken-curry",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Rice is an optional side and is not included in the ingredients or nutrition."
+    ],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52959",
+    "title": "Baked salmon with fennel & tomatoes",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52959.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52959",
+    "prep": 10,
+    "cook": 35,
+    "kcal": 398.0,
+    "protein": 37.0,
+    "category": "Seafood",
+    "area": "British",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Fennel",
+        null,
+        "2 medium",
+        "Fennel"
+      ],
+      [
+        "Parsley",
+        null,
+        "2 tbs chopped",
+        "Parsley"
+      ],
+      [
+        "Lemon",
+        null,
+        "Juice of 1",
+        "Lemon"
+      ],
+      [
+        "Tomato",
+        null,
+        "175g",
+        "Cherry Tomatoes"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbs",
+        "Olive Oil"
+      ],
+      [
+        "Salmon",
+        null,
+        "350g",
+        "Salmon"
+      ],
+      [
+        "Black olives",
+        null,
+        "to serve",
+        "Black Olives"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat oven to 180C/fan 160C/gas 4."
+      ],
+      [
+        "Step 2",
+        "Trim the fronds from the fennel and set aside."
+      ],
+      [
+        "Step 3",
+        "Cut the fennel bulbs in half, then cut each half into 3 wedges."
+      ],
+      [
+        "Step 4",
+        "Cook in boiling salted water for 10 mins, then drain well."
+      ],
+      [
+        "Step 5",
+        "Chop the fennel fronds roughly, then mix with the parsley and lemon zest."
+      ],
+      [
+        "Step 6",
+        "Spread the drained fennel over a shallow ovenproof dish, then add the tomatoes."
+      ],
+      [
+        "Step 7",
+        "Drizzle with olive oil, then bake for 10 mins."
+      ],
+      [
+        "Step 8",
+        "Nestle the salmon among the veg, sprinkle with lemon juice, then bake 15 mins more until the fish is just cooked."
+      ],
+      [
+        "Step 9",
+        "Scatter over the parsley and serve. Check the salmon reaches 63°C in the centre."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52959",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/7745/baked-salmon-with-fennel-and-tomatoes",
+    "sourceQuantities": true,
+    "videoId": "xvPR2Tfw5k0",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+    "videoTitle": "Fennel Smoked Salmon - Hot-Smoked Salmon Recipe with Fennel and Tomatoes",
+    "videoAuthor": "Food Wishes",
+    "servings": 2,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/baked-salmon-fennel-tomatoes",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial estimate: 10 minutes preparation, 10 minutes boiling fennel and 25 minutes in the oven.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52834",
+    "title": "Beef stroganoff",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52834.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52834",
+    "prep": 10,
+    "cook": 35,
+    "kcal": 438.0,
+    "protein": 30.0,
+    "category": "Beef",
+    "area": "Russian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbls",
+        "Olive Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1",
+        "Onions"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove",
+        "Garlic"
+      ],
+      [
+        "Butter",
+        null,
+        "1 tbsp",
+        "Butter"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "250g",
+        "Mushrooms"
+      ],
+      [
+        "Beef fillet",
+        null,
+        "500g",
+        "Beef Fillet"
+      ],
+      [
+        "Plain flour",
+        null,
+        "1tbsp",
+        "Plain Flour"
+      ],
+      [
+        "Creme fraiche",
+        null,
+        "150g",
+        "Creme Fraiche"
+      ],
+      [
+        "English mustard",
+        null,
+        "1 tsp",
+        "English mustard"
+      ],
+      [
+        "Beef stock",
+        null,
+        "100ml",
+        "Beef Stock"
+      ],
+      [
+        "Parsley",
+        null,
+        "Topping",
+        "Parsley"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the olive oil in a non-stick frying pan then add the sliced onion and cook on a medium heat until completely softened, so around 15 mins, adding a little splash of water if they start to stick at all."
+      ],
+      [
+        "Step 2",
+        "Crush in the garlic and cook for a 2-3 mins further, then add the butter."
+      ],
+      [
+        "Step 3",
+        "Once the butter is foaming a little, add the mushrooms and cook for around 5 mins until completely softened."
+      ],
+      [
+        "Step 4",
+        "Season everything well, then tip onto a plate."
+      ],
+      [
+        "Step 5",
+        "Tip the flour into a bowl with a big pinch of salt and pepper, then toss the steak in the seasoned flour."
+      ],
+      [
+        "Step 6",
+        "Add the steak pieces to the pan, splashing in a little oil if the pan looks particularly dry, and fry for 3-4 mins, until well coloured."
+      ],
+      [
+        "Step 7",
+        "Tip the onions and mushrooms back into the pan."
+      ],
+      [
+        "Step 8",
+        "Whisk the crème fraîche, mustard and beef stock together, then pour into the pan."
+      ],
+      [
+        "Step 9",
+        "Cook over a medium heat for around 5 mins."
+      ],
+      [
+        "Step 10",
+        "Scatter with parsley, then serve with pappardelle or rice."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 4 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52834",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/beef-stroganoff",
+    "sourceQuantities": true,
+    "videoId": "7jk1468EJmg",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+    "videoTitle": "How To Make Beef Stroganoff | Easy 30 Minute Recipe",
+    "videoAuthor": "Chef Jack Ovens",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/beef-stroganoff",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52842",
+    "title": "Broccoli & Stilton soup",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52842.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52842",
+    "prep": 10,
+    "cook": 35,
+    "kcal": 340.0,
+    "protein": 24.3,
+    "category": "Starter",
+    "area": "British",
+    "equipment": [
+      "Stovetop",
+      "Blender"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "2 tblsp",
+        "Rapeseed Oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1 finely chopped",
+        "Onion"
+      ],
+      [
+        "Celery",
+        null,
+        "1",
+        "Celery"
+      ],
+      [
+        "Leek",
+        null,
+        "1 sliced",
+        "Leek"
+      ],
+      [
+        "Potato",
+        null,
+        "1 medium",
+        "Potatoes"
+      ],
+      [
+        "Butter",
+        null,
+        "1 knob",
+        "Butter"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "1 litre hot",
+        "Vegetable Stock"
+      ],
+      [
+        "Broccoli",
+        null,
+        "1 Head chopped",
+        "Broccoli"
+      ],
+      [
+        "Stilton cheese",
+        null,
+        "140g",
+        "Stilton Cheese"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch."
+      ],
+      [
+        "Step 2",
+        "Add the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid."
+      ],
+      [
+        "Step 3",
+        "Pour in the stock and add any chunky bits of broccoli stalk. Cook for 10 – 15 minutes until all the vegetables are soft."
+      ],
+      [
+        "Step 4",
+        "Add the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52842",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/1940679/broccoli-and-stilton-soup",
+    "sourceQuantities": true,
+    "videoId": "6b02bOCVw5o",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg",
+    "videoTitle": "How to Make Delicious Broccoli and Stilton Soup - A Step by Step Recipe Video",
+    "videoAuthor": "Pinch of Mint",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/broccoli-stilton-soup",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52956",
+    "title": "Chicken Congee",
+    "description": "A gentle, one-pot rice porridge with chicken and ginger. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52956.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52956",
+    "prep": 10,
+    "cook": 40,
+    "kcal": null,
+    "protein": null,
+    "category": "Chicken",
+    "area": "Chinese",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Chicken",
+        null,
+        "225 g raw boneless skinless breast, thinly sliced",
+        "Chicken"
+      ],
+      [
+        "Rice",
+        null,
+        "90 g dry white rice, rinsed",
+        "Rice"
+      ],
+      [
+        "Water",
+        null,
+        "1.9 litres, plus extra as needed",
+        "Water"
+      ],
+      [
+        "Ginger",
+        null,
+        "10 g, grated",
+        "Ginger"
+      ],
+      [
+        "Spring onion",
+        null,
+        "15 g, sliced",
+        "Spring onion"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ],
+      [
+        "Salt",
+        null,
+        "to taste",
+        "Salt"
+      ],
+      [
+        "Pepper",
+        null,
+        "a pinch",
+        "Pepper"
+      ]
+    ],
+    "steps": [
+      [
+        "Start the rice",
+        "Place rice, water and half the ginger in a large saucepan. Bring to a boil, then turn down to a gentle simmer. Stir every few minutes for about 30 minutes until the grains break down."
+      ],
+      [
+        "Cook the chicken",
+        "Add the sliced chicken and remaining ginger. Simmer for 8–10 minutes, stirring, until chicken reaches 74°C in the centre. Add hot water if the porridge is too thick."
+      ],
+      [
+        "Finish",
+        "Season to taste, then divide into four light portions. Scatter spring onion and coriander on top."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52956",
+    "originalSource": "https://sueandgambo.com/pages/chicken-congee",
+    "sourceQuantities": true,
+    "videoId": "kqEfk801E94",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+    "videoTitle": "Chicken Congee - Rice Porridge - jok",
+    "videoAuthor": "Sue and Gambo",
+    "servings": 4,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Fresh ginger replaces the erroneous ginger-cordial entry. Makes four light bowls; a larger portion changes the nutrition."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 225
+      },
+      {
+        "ingredient": "Rice",
+        "profile": "rice",
+        "grams": 90
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 10
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 15
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52863",
+    "title": "Vegetarian Casserole",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52863.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52863",
+    "prep": 10,
+    "cook": 40,
+    "kcal": 216.0,
+    "protein": 12.0,
+    "category": "Vegetarian",
+    "area": "British",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbsp",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "1",
+        "Onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "3 cloves",
+        "Garlic"
+      ],
+      [
+        "Paprika",
+        null,
+        "1 tsp",
+        "Paprika"
+      ],
+      [
+        "Cumin",
+        null,
+        "½ tsp",
+        "Cumin"
+      ],
+      [
+        "Thyme",
+        null,
+        "1 tblsp",
+        "Thyme"
+      ],
+      [
+        "Carrot",
+        null,
+        "3 Medium",
+        "Carrots"
+      ],
+      [
+        "Celery",
+        null,
+        "2 small stalks",
+        "Celery"
+      ],
+      [
+        "Red pepper",
+        null,
+        "1",
+        "Red Pepper"
+      ],
+      [
+        "Yellow pepper",
+        null,
+        "1",
+        "Yellow Pepper"
+      ],
+      [
+        "Tomato",
+        null,
+        "2 x 400g tins",
+        "Tomato"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "250 ml, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Courgettes",
+        null,
+        "2 sliced",
+        "Courgettes"
+      ],
+      [
+        "Thyme",
+        null,
+        "2 sprigs",
+        "Thyme"
+      ],
+      [
+        "Lentils",
+        null,
+        "250 g, ready-cooked",
+        "cooked puy lentils"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the oil in a large, heavy-based pan. Add the onions and cook gently for 5 – 10 mins until softened."
+      ],
+      [
+        "Step 2",
+        "Add the garlic, spices, dried thyme, carrots, celery and peppers and cook for 5 minutes."
+      ],
+      [
+        "Step 3",
+        "Add the tomatoes, stock, courgettes and fresh thyme and cook for 20 - 25 minutes."
+      ],
+      [
+        "Step 4",
+        "Take out the thyme sprigs. Stir in the lentils and bring back to a simmer. Serve with wild and white basmati rice, mash or quinoa."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 4 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52863",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/1993645/vegetarian-casserole",
+    "sourceQuantities": true,
+    "videoId": "oHmKE9mWtWM",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg",
+    "videoTitle": "How to make Vegetable Casserole Stew - Winter Warmer - Recipes by Warren Nash",
+    "videoAuthor": "Warren Nash",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/vegetarian-casserole",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52770",
+    "title": "Spaghetti Bolognese",
+    "description": "A familiar pasta dinner with a simple, gently simmered meat sauce. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52770.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52770",
+    "prep": 10,
+    "cook": 45,
+    "kcal": null,
+    "protein": null,
+    "category": "Beef",
+    "area": "Italian",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Onion",
+        null,
+        "2 medium (220 g), chopped",
+        "Onion"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove (3 g), minced",
+        "Garlic"
+      ],
+      [
+        "Beef",
+        null,
+        "500 g raw lean mince (about 10% fat)",
+        "Beef"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "90 g, sliced",
+        "Mushrooms"
+      ],
+      [
+        "Dried oregano",
+        null,
+        "1 tsp",
+        "Dried oregano"
+      ],
+      [
+        "Tomato",
+        null,
+        "1 × 400 g can, chopped",
+        "Tomato"
+      ],
+      [
+        "Beef stock",
+        null,
+        "300 ml, prepared",
+        "Beef stock"
+      ],
+      [
+        "Tomato puree",
+        null,
+        "1 tbsp (16 g)",
+        "Tomato puree"
+      ],
+      [
+        "Worcestershire sauce",
+        null,
+        "1 tbsp (17 g)",
+        "Worcestershire sauce"
+      ],
+      [
+        "Pasta",
+        null,
+        "350 g dry spaghetti",
+        "Pasta"
+      ],
+      [
+        "Parmesan",
+        null,
+        "20 g, grated",
+        "Parmesan"
+      ]
+    ],
+    "steps": [
+      [
+        "Brown the mince",
+        "Heat oil in a saucepan. Cook onion for 4 minutes. Add garlic and beef and cook for 6–8 minutes, breaking up the mince until browned."
+      ],
+      [
+        "Simmer",
+        "Stir in mushrooms and oregano for 2 minutes. Add tomatoes, stock, tomato puree and Worcestershire sauce. Simmer gently for 30 minutes, stirring occasionally. Minced beef should reach 71°C."
+      ],
+      [
+        "Cook pasta and serve",
+        "While the sauce simmers, cook spaghetti according to its packet. Drain, divide into four portions and add sauce and measured Parmesan."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52770",
+    "originalSource": null,
+    "sourceQuantities": true,
+    "videoId": "-gF8d-fitkU",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+    "videoTitle": "Easy Bolognese Recipe | Jamie Oliver",
+    "videoAuthor": "Jamie Oliver",
+    "servings": 4,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Uses 10%-fat mince and a measured Parmesan topping for the estimate."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 220
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 3
+      },
+      {
+        "ingredient": "Beef",
+        "profile": "beef",
+        "grams": 500
+      },
+      {
+        "ingredient": "Mushrooms",
+        "profile": "mushroom",
+        "grams": 90
+      },
+      {
+        "ingredient": "Tomato",
+        "profile": "cannedTomato",
+        "grams": 400
+      },
+      {
+        "ingredient": "Beef stock",
+        "profile": "beefStock",
+        "grams": 300
+      },
+      {
+        "ingredient": "Tomato puree",
+        "profile": "tomatoPaste",
+        "grams": 16
+      },
+      {
+        "ingredient": "Worcestershire sauce",
+        "profile": "worcestershire",
+        "grams": 17
+      },
+      {
+        "ingredient": "Pasta",
+        "profile": "pasta",
+        "grams": 350
+      },
+      {
+        "ingredient": "Parmesan",
+        "profile": "parmesan",
+        "grams": 20
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52807",
+    "title": "Baingan Bharta",
+    "description": "An easy oven-roasted aubergine mash with tomato and spices. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52807.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52807",
+    "prep": 10,
+    "cook": 50,
+    "kcal": null,
+    "protein": null,
+    "category": "Vegetarian",
+    "area": "India",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Aubergine",
+        null,
+        "1 large (500 g)",
+        "Aubergine"
+      ],
+      [
+        "Onion",
+        null,
+        "80 g, chopped",
+        "Onion"
+      ],
+      [
+        "Tomato",
+        null,
+        "180 g, chopped",
+        "Tomato"
+      ],
+      [
+        "Garlic",
+        null,
+        "6 cloves (18 g), minced",
+        "Garlic"
+      ],
+      [
+        "Green chilli",
+        null,
+        "1 (10 g), chopped",
+        "Green chilli"
+      ],
+      [
+        "Chilli powder",
+        null,
+        "¼ tsp",
+        "Chilli powder"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1½ tbsp (20 g)",
+        "Olive oil"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Roast the aubergine",
+        "Heat oven to 220°C (200°C fan). Halve the aubergine lengthways, score the flesh and rub with a little of the measured oil. Roast cut-side down on a tray for 35–40 minutes until completely soft."
+      ],
+      [
+        "Make the tomato base",
+        "During the final 15 minutes of roasting, heat remaining oil in a pan. Cook onion for 5 minutes. Add garlic and chilli for 1 minute, then tomatoes and chilli powder. Simmer for 8 minutes."
+      ],
+      [
+        "Mash and finish",
+        "Let the aubergine cool enough to handle, scoop out the flesh and mash. Stir into the tomato mixture for 3–5 minutes. Add coriander and season. Bread or rice is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52807",
+    "originalSource": "http://www.vegrecipesofindia.com/baingan-bharta-recipe-punjabi-baingan-bharta-recipe/",
+    "sourceQuantities": true,
+    "videoId": "-84Zz2EP4h4",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+    "videoTitle": "Baingan Bharta Recipe | Roasted Eggplant  | Eggplant Recipe | Baingan Bharta by Kabitaskitchen",
+    "videoAuthor": "Kabita's Kitchen",
+    "servings": 2,
+    "wait": 0,
+    "waitLabel": "Soak / marinate",
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "Uses an oven method and omits the optional charcoal-smoking technique. Nutrition excludes bread or rice."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Aubergine",
+        "profile": "aubergine",
+        "grams": 500
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 80
+      },
+      {
+        "ingredient": "Tomato",
+        "profile": "tomato",
+        "grams": 180
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 18
+      },
+      {
+        "ingredient": "Green chilli",
+        "profile": "chilli",
+        "grams": 10
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 20
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52920",
+    "title": "Chicken Marengo",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
+    "image": "./assets/meals/52920.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52920",
+    "prep": 5,
+    "cook": 55,
+    "kcal": 326.0,
+    "protein": 33.0,
+    "category": "Chicken",
+    "area": "France",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Olive oil",
+        null,
+        "1 tbs",
+        "Olive Oil"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "300g",
+        "Mushrooms"
+      ],
+      [
+        "Chicken legs",
+        null,
+        "4",
+        "Chicken Legs"
+      ],
+      [
+        "Passata",
+        null,
+        "500g",
+        "Passata"
+      ],
+      [
+        "Chicken stock cube",
+        null,
+        "1",
+        "Chicken Stock Cube"
+      ],
+      [
+        "Black olives",
+        null,
+        "100g",
+        "Black Olives"
+      ],
+      [
+        "Parsley",
+        null,
+        "Chopped",
+        "Parsley"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften."
+      ],
+      [
+        "Step 2",
+        "Add the chicken legs and cook briefly on each side to colour them a little."
+      ],
+      [
+        "Step 3",
+        "Pour in the passata, crumble in the stock cube and stir in the olives."
+      ],
+      [
+        "Step 4",
+        "Season with black pepper – you shouldn’t need salt."
+      ],
+      [
+        "Step 5",
+        "Cover and simmer for 40 mins until the chicken is tender."
+      ],
+      [
+        "Step 6",
+        "Sprinkle with parsley and serve with pasta and a salad, or mash and green veg, if you like. Check the thickest part of each chicken leg reaches 74°C, away from the bone."
+      ],
+      [
+        "Portion and serve",
+        "Divide the listed recipe into 4 servings. Extra rice, pasta, bread, cheese or other sides mentioned in the original serving suggestion are optional and add to the nutrition shown."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52920",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/3146682/chicken-marengo",
+    "sourceQuantities": true,
+    "videoId": "U33HYUr-0Fw",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+    "videoTitle": "Chicken Marengo Recipe (Adventures in Chicken Part 3)",
+    "videoAuthor": "Titli's Busy Kitchen",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/chicken-marengo",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [],
+    "easy": true,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52840",
+    "title": "Clam chowder",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52840.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52840",
+    "prep": 10,
+    "cook": 40,
+    "kcal": 433.0,
+    "protein": 22.0,
+    "category": "Starter",
+    "area": "United States",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Clams",
+        null,
+        "1½ kg, live and in their shells",
+        "Clams"
+      ],
+      [
+        "Butter",
+        null,
+        "50g",
+        "Butter"
+      ],
+      [
+        "Bacon",
+        null,
+        "150g",
+        "Bacon"
+      ],
+      [
+        "Onion",
+        null,
+        "1 finely chopped",
+        "Onion"
+      ],
+      [
+        "Thyme",
+        null,
+        "sprigs of fresh",
+        "Thyme"
+      ],
+      [
+        "Bay leaf",
+        null,
+        "1",
+        "Bay Leaf"
+      ],
+      [
+        "Plain flour",
+        null,
+        "1 tbls",
+        "Plain Flour"
+      ],
+      [
+        "Milk",
+        null,
+        "150ml",
+        "Milk"
+      ],
+      [
+        "Double cream",
+        null,
+        "150ml",
+        "Double Cream"
+      ],
+      [
+        "Potato",
+        null,
+        "2 medium",
+        "Potatoes"
+      ],
+      [
+        "Parsley",
+        null,
+        "Chopped",
+        "Parsley"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare the clams",
+        "Rinse clams in cold water. Discard cracked shells and any open clam that does not close when tapped. Steam in a covered pan with 500 ml water for 3–5 minutes, until shells open. Discard any that remain closed. Remove the meat once cool enough; strain the liquid through a fine sieve and top up with water to 800 ml."
+      ],
+      [
+        "Build the soup",
+        "Melt butter in a saucepan. Cook bacon for 4 minutes, then onion, thyme and bay leaf for 8 minutes. Stir in flour for 2 minutes, then gradually add the clam liquid, milk and cream."
+      ],
+      [
+        "Simmer and finish",
+        "Add diced potatoes and simmer for 10–15 minutes until soft. Mash a few pieces to thicken. Add clam meat for 2 minutes to heat through. Remove thyme and bay leaf and add parsley. Divide into six bowls; bread is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52840",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/clam-chowder",
+    "sourceQuantities": true,
+    "videoId": "fEN_fm6kX6k",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+    "videoTitle": "Homemade Clam Chowder Recipe - Laura Vitale - Laura in the Kitchen Episode 413",
+    "videoAuthor": "Laura in the Kitchen",
+    "servings": 6,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/clam-chowder",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial estimate allows time to steam and clean clams and simmer the potatoes.",
+    "reviewNotes": [],
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52964",
+    "title": "Smoked Haddock Kedgeree",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52964.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52964",
+    "prep": 15,
+    "cook": 40,
+    "kcal": 471.0,
+    "protein": 34.0,
+    "category": "Breakfast",
+    "area": "India",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Butter",
+        null,
+        "50g",
+        "Butter"
+      ],
+      [
+        "Onion",
+        null,
+        "1 chopped",
+        "Onion"
+      ],
+      [
+        "Cardamom",
+        null,
+        "3 Pods",
+        "Cardamom"
+      ],
+      [
+        "Turmeric",
+        null,
+        "1/4 tsp",
+        "Turmeric"
+      ],
+      [
+        "Cinnamon stick",
+        null,
+        "1 small",
+        "Cinnamon Stick"
+      ],
+      [
+        "Bay leaf",
+        null,
+        "2 fresh leaves or 1 dried leaf",
+        "Bay leaf"
+      ],
+      [
+        "Rice",
+        null,
+        "450g",
+        "Basmati Rice"
+      ],
+      [
+        "Chicken stock",
+        null,
+        "1 Litre",
+        "Chicken Stock"
+      ],
+      [
+        "Smoked haddock",
+        null,
+        "750g",
+        "Smoked Haddock"
+      ],
+      [
+        "Eggs",
+        null,
+        "3",
+        "Eggs"
+      ],
+      [
+        "Parsley",
+        null,
+        "3 tblsp chopped",
+        "Parsley"
+      ],
+      [
+        "Lemon",
+        null,
+        "1 chopped",
+        "Lemon"
+      ]
+    ],
+    "steps": [
+      [
+        "Cook the rice",
+        "Melt butter in a lidded saucepan. Soften onion for 5 minutes, then add cardamom, turmeric, cinnamon and bay leaves for 1 minute. Stir in rice and stock. Bring to a boil, cover and cook gently for about 12 minutes or according to the rice packet."
+      ],
+      [
+        "Poach fish and boil eggs",
+        "While rice cooks, gently poach haddock in water until the centre reaches 63°C and flakes easily, about 5–8 minutes. Separately hard-boil eggs for 9–10 minutes, then cool and peel. Flake fish, removing skin and bones, and chop eggs."
+      ],
+      [
+        "Combine",
+        "Remove whole spices from rice. Fold in fish and eggs and heat gently for 2–3 minutes. Stir in parsley, divide into six portions and serve with lemon wedges."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52964",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/2256/smoked-haddock-kedgeree",
+    "sourceQuantities": true,
+    "videoId": "QqdzDCWS4gQ",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1550441275.jpg",
+    "videoTitle": "How to make Kedgeree",
+    "videoAuthor": "KeefCooks",
+    "servings": 6,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/smoked-haddock-kedgeree",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial timing estimate checked against the method. Includes preparation and all cooking stages; actual time varies.",
+    "reviewNotes": [],
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52846",
+    "title": "Chicken & mushroom Hotpot",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52846.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52846",
+    "prep": 15,
+    "cook": 50,
+    "kcal": 343.0,
+    "protein": 22.0,
+    "category": "Chicken",
+    "area": "British",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Butter",
+        null,
+        "50g",
+        "Butter"
+      ],
+      [
+        "Onion",
+        null,
+        "1 chopped",
+        "Onion"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "100g",
+        "Mushrooms"
+      ],
+      [
+        "Plain flour",
+        null,
+        "40g",
+        "Plain Flour"
+      ],
+      [
+        "Chicken stock",
+        null,
+        "500 ml, prepared",
+        "Chicken stock"
+      ],
+      [
+        "Nutmeg",
+        null,
+        "pinch",
+        "Nutmeg"
+      ],
+      [
+        "Mustard powder",
+        null,
+        "pinch",
+        "Mustard Powder"
+      ],
+      [
+        "Chicken",
+        null,
+        "250 g, already cooked and chopped",
+        "cooked chicken"
+      ],
+      [
+        "Mixed vegetables",
+        null,
+        "2 handfuls (about 150 g)",
+        "mixed sweetcorn, peas, broccoli and carrots"
+      ],
+      [
+        "Potato",
+        null,
+        "2 large",
+        "Potatoes"
+      ],
+      [
+        "Butter",
+        null,
+        "1 knob",
+        "Butter"
+      ]
+    ],
+    "steps": [
+      [
+        "Make the filling",
+        "Heat oven to 200°C (180°C fan). Melt 50 g butter in a saucepan. Cook onion and mushrooms for 7 minutes. Stir in flour for 2 minutes. Gradually whisk in 500 ml prepared stock. Simmer, stirring, until thick; add nutmeg and mustard."
+      ],
+      [
+        "Assemble",
+        "Stir the already-cooked chicken and mixed vegetables into the sauce. Transfer to an ovenproof dish. Thinly slice potatoes and arrange overlapping over the filling. Brush with the knob of melted butter."
+      ],
+      [
+        "Bake",
+        "Bake for 35 minutes, or until the potatoes are tender and golden and the filling reaches 74°C. Allow a few minutes to settle before dividing into four portions."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52846",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/chicken-mushroom-hot-pot",
+    "sourceQuantities": true,
+    "videoId": "bXKWu4GojNI",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "videoTitle": "Chicken & mushroom hot-pot",
+    "videoAuthor": "Foodiful",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/chicken-mushroom-hot-pot",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial estimate includes making the sauce and 35 minutes baking. Uses already-cooked chicken.",
+    "reviewNotes": [
+      "Uses ready-cooked chicken; cooking a raw chicken first adds time. Mixed vegetables and prepared stock are now explicit."
+    ],
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52945",
+    "title": "Kung Pao Chicken",
+    "description": "A home-style chicken and peanut stir-fry with a short marinade. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52945.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52945",
+    "prep": 15,
+    "cook": 20,
+    "kcal": null,
+    "protein": null,
+    "category": "Chicken",
+    "area": "Chinese",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Sake",
+        null,
+        "2 tbsp (30 g)",
+        "Sake"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbsp (32 g)",
+        "Soy sauce"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "2 tbsp (27 g)",
+        "Sesame oil"
+      ],
+      [
+        "Cornstarch",
+        null,
+        "2 tbsp (16 g)",
+        "Cornstarch"
+      ],
+      [
+        "Water",
+        null,
+        "2 tbsp",
+        "Water"
+      ],
+      [
+        "Chicken",
+        null,
+        "500 g raw boneless skinless breast, diced",
+        "Chicken"
+      ],
+      [
+        "Chilli powder",
+        null,
+        "1 tsp (3 g), or to taste",
+        "Chilli powder"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "1 tsp (5 g)",
+        "Rice vinegar"
+      ],
+      [
+        "Brown sugar",
+        null,
+        "1 tbsp (12 g)",
+        "Brown sugar"
+      ],
+      [
+        "Spring onion",
+        null,
+        "4 (60 g), chopped",
+        "Spring onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "6 cloves (18 g), minced",
+        "Garlic"
+      ],
+      [
+        "Water chestnut",
+        null,
+        "140 g drained canned water chestnuts",
+        "Water chestnut"
+      ],
+      [
+        "Peanuts",
+        null,
+        "100 g, unsalted roasted",
+        "Peanuts"
+      ]
+    ],
+    "steps": [
+      [
+        "Marinate",
+        "Mix sake, soy sauce, sesame oil and cornstarch dissolved in the water. Divide in half. Coat chicken with one half and refrigerate for 30 minutes. Keep the other half separate from raw chicken."
+      ],
+      [
+        "Cook the chicken",
+        "Heat a large non-stick pan over medium-high heat. Add the chicken with its marinade and cook for 8–10 minutes, stirring, until its centre reaches 74°C. Add a splash of water if it sticks."
+      ],
+      [
+        "Finish the sauce",
+        "Add garlic, spring onions, chilli powder and water chestnuts. Stir for 2 minutes. Add reserved sauce, vinegar, sugar and peanuts. Simmer for 3–5 minutes until thickened and piping hot. Divide into four portions; rice is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52945",
+    "originalSource": "http://allrecipes.co.uk/recipe/1773/kung-pao-chicken.aspx",
+    "sourceQuantities": true,
+    "videoId": "QqdcCHQlOe0",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+    "videoTitle": "SUPER EASY Kung Pao Chicken Recipe 宫保鸡 One Pot Chinese Chicken Recipe • Spicy Chinese Food",
+    "videoAuthor": "Spice N' Pans",
+    "servings": 4,
+    "wait": 30,
+    "waitLabel": "Soak / marinate",
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "The refrigerated marinade is included in total time. Uses a measured drained weight for water chestnuts and a milder amount of chilli."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Sake",
+        "profile": "sake",
+        "grams": 30
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 32
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 27
+      },
+      {
+        "ingredient": "Cornstarch",
+        "profile": "starch",
+        "grams": 16
+      },
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 500
+      },
+      {
+        "ingredient": "Chilli powder",
+        "profile": "chilliPowder",
+        "grams": 3
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "profile": "vinegar",
+        "grams": 5
+      },
+      {
+        "ingredient": "Brown sugar",
+        "profile": "brownSugar",
+        "grams": 12
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 60
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 18
+      },
+      {
+        "ingredient": "Water chestnut",
+        "profile": "waterChestnut",
+        "grams": 140
+      },
+      {
+        "ingredient": "Peanuts",
+        "profile": "peanuts",
+        "grams": 100
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52866",
+    "title": "Squash linguine",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52866.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52866",
+    "prep": 5,
+    "cook": 60,
+    "kcal": 441.0,
+    "protein": 12.0,
+    "category": "Vegetarian",
+    "area": "Italian",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Butternut squash",
+        null,
+        "350g",
+        "Butternut Squash"
+      ],
+      [
+        "Garlic",
+        null,
+        "3 cloves",
+        "Garlic"
+      ],
+      [
+        "Olive oil",
+        null,
+        "3 tbs",
+        "Olive Oil"
+      ],
+      [
+        "Pasta",
+        null,
+        "350g",
+        "Linguine Pasta"
+      ],
+      [
+        "Sage",
+        null,
+        "Small bunch",
+        "Sage"
+      ]
+    ],
+    "steps": [
+      [
+        "Roast the squash",
+        "Heat oven to 200°C (180°C fan). Toss chopped squash and garlic with 2 tablespoons of the oil. Roast for 35–40 minutes until soft."
+      ],
+      [
+        "Cook pasta and make sauce",
+        "Cook linguine according to the packet. Save 400 ml cooking water before draining. Mash squash and garlic thoroughly with a fork, gradually adding cooking water to make a sauce."
+      ],
+      [
+        "Finish",
+        "Heat the remaining tablespoon oil in a pan. Fry sage briefly until crisp, then set aside. Toss pasta and squash sauce in the pan until hot, adding more water as needed. Divide into four portions and top with sage."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52866",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/creamy-squash-linguine",
+    "sourceQuantities": true,
+    "videoId": "Qlju0INSJmY",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg",
+    "videoTitle": "Butternut Squash Pasta : Linguine Recipe",
+    "videoAuthor": "CookinginFinland",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/creamy-squash-linguine",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Fork-mashing replaces blending; the listed oil is split between roasting and the sage."
+    ],
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52914",
+    "title": "Boulangère Potatoes",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52914.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52914",
+    "prep": 15,
+    "cook": 65,
+    "kcal": 179.0,
+    "protein": 4.0,
+    "category": "Side",
+    "area": "France",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Onion",
+        null,
+        "2, thinly sliced",
+        "Onion"
+      ],
+      [
+        "Thyme",
+        null,
+        "sprigs of fresh",
+        "Thyme"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbs",
+        "Olive Oil"
+      ],
+      [
+        "Potato",
+        null,
+        "1.5kg",
+        "Potatoes"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "425 ml",
+        "Vegetable stock"
+      ]
+    ],
+    "steps": [
+      [
+        "Step 1",
+        "Heat oven to 200C/fan 180C/gas 6."
+      ],
+      [
+        "Step 2",
+        "Fry the onions and thyme sprigs in the oil until softened and lightly coloured (about 5 mins)."
+      ],
+      [
+        "Step 3",
+        "Spread a layer of potatoes over the base of a 1.5-litre oiled gratin dish."
+      ],
+      [
+        "Step 4",
+        "Sprinkle over a few onions and continue layering, finishing with a layer of potatoes."
+      ],
+      [
+        "Step 5",
+        "Pour over the stock and bake for 50-60 mins until the potatoes are cooked and the top is golden and crisp."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52914",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/5056/boulangre-potatoes",
+    "sourceQuantities": true,
+    "videoId": "gcXPruv1Mjg",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/qywups1511796761.jpg",
+    "videoTitle": "Boulangere Potatoes recipe",
+    "videoAuthor": "Stevescooking",
+    "servings": 8,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/boulangere-potatoes",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Editorial timing estimate checked against the method. Includes preparation and all cooking stages; actual time varies.",
+    "reviewNotes": [],
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52785",
+    "title": "Dal fry",
+    "description": "A simple lentil-style dal with a spiced tomato topping; plan ahead for soaking. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52785.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52785",
+    "prep": 10,
+    "cook": 40,
+    "kcal": null,
+    "protein": null,
+    "category": "Vegetarian",
+    "area": "India",
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Toor dal",
+        null,
+        "200 g dry split pigeon peas",
+        "Toor dal"
+      ],
+      [
+        "Water",
+        null,
+        "600 ml for cooking, plus soaking water and extra as needed",
+        "Water"
+      ],
+      [
+        "Turmeric",
+        null,
+        "¼ tsp",
+        "Turmeric"
+      ],
+      [
+        "Ghee",
+        null,
+        "3 tbsp (42 g)",
+        "Ghee"
+      ],
+      [
+        "Tomato",
+        null,
+        "180 g, chopped",
+        "Tomato"
+      ],
+      [
+        "Cumin seeds",
+        null,
+        "½ tsp (1 g)",
+        "Cumin seeds"
+      ],
+      [
+        "Mustard seeds",
+        null,
+        "½ tsp",
+        "Mustard seeds"
+      ],
+      [
+        "Bay leaf",
+        null,
+        "2",
+        "Bay leaf"
+      ],
+      [
+        "Green chilli",
+        null,
+        "10 g, chopped",
+        "Green chilli"
+      ],
+      [
+        "Ginger",
+        null,
+        "10 g, grated",
+        "Ginger"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ],
+      [
+        "Chilli powder",
+        null,
+        "½ tsp",
+        "Chilli powder"
+      ],
+      [
+        "Sugar",
+        null,
+        "1 tsp (4 g)",
+        "Sugar"
+      ],
+      [
+        "Garam masala",
+        null,
+        "¼ tsp",
+        "Garam masala"
+      ],
+      [
+        "Salt",
+        null,
+        "to taste",
+        "Salt"
+      ]
+    ],
+    "steps": [
+      [
+        "Soak the dal",
+        "Rinse the dal, cover generously with water and soak for at least 1 hour. Drain. This waiting time is included in the total time."
+      ],
+      [
+        "Simmer until soft",
+        "Put dal in a saucepan with 600 ml fresh water and turmeric. Bring to a boil, then simmer for 30–35 minutes until soft. Stir occasionally and add water as needed; older dal may take longer."
+      ],
+      [
+        "Make the tempering",
+        "Heat ghee in a small pan. Add cumin, mustard seeds and bay leaves. Once they sizzle, add chilli, ginger and chilli powder briefly, then tomatoes. Cook for 5–7 minutes until soft."
+      ],
+      [
+        "Combine",
+        "Stir the tomato mixture, coriander, sugar and garam masala into the dal. Simmer for 2 minutes, season and remove bay leaves. Divide into four portions; bread or rice is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52785",
+    "originalSource": "https://www.instagram.com/p/BO21bpYD3Fu",
+    "sourceQuantities": true,
+    "videoId": "J4D855Q9-jg",
+    "videoNote": "Related tutorial. Use the written recipe for the reviewed quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+    "videoTitle": "Dal Fry With Tadka | Easy Punjabi Dal Recipe | Homemade Indian Dal Recipe By Ruchi Bharani",
+    "videoAuthor": "Rajshri Food",
+    "servings": 4,
+    "wait": 60,
+    "waitLabel": "Soak / marinate",
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionNote": "Estimated from the listed weights and generic USDA foods, divided by the stated servings. Includes the listed oil and toppings; optional sides are extra. Tiny quantities of seasoning are omitted.",
+    "timingNote": "Editorial estimate for the written method; any soaking or marinating is listed separately.",
+    "reviewNotes": [
+      "The one-hour soak is included in the time filter. Toor dal is split pigeon peas, not red lentils; soaking and cooking times differ."
+    ],
+    "nutritionComponents": [
+      {
+        "ingredient": "Toor dal",
+        "profile": "dal",
+        "grams": 200
+      },
+      {
+        "ingredient": "Ghee",
+        "profile": "ghee",
+        "grams": 42
+      },
+      {
+        "ingredient": "Tomato",
+        "profile": "tomato",
+        "grams": 180
+      },
+      {
+        "ingredient": "Cumin seeds",
+        "profile": "cumin",
+        "grams": 1
+      },
+      {
+        "ingredient": "Green chilli",
+        "profile": "chilli",
+        "grams": 10
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 10
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      },
+      {
+        "ingredient": "Sugar",
+        "profile": "sugar",
+        "grams": 4
+      }
+    ],
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52827",
+    "title": "Massaman Beef curry",
+    "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Allow a little more time for this recipe.",
+    "image": "./assets/meals/52827.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52827",
+    "prep": 15,
+    "cook": 130,
+    "kcal": 734.0,
+    "protein": 44.0,
+    "category": "Beef",
+    "area": "Thai",
+    "equipment": [
+      "Oven",
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Peanuts",
+        null,
+        "85g",
+        "Peanuts"
+      ],
+      [
+        "Coconut milk",
+        null,
+        "400 ml",
+        "Coconut milk"
+      ],
+      [
+        "Massaman curry paste",
+        null,
+        "4 tbsp",
+        "Massaman curry paste"
+      ],
+      [
+        "Beef",
+        null,
+        "600 g, stewing beef cut into chunks",
+        "Beef"
+      ],
+      [
+        "Potato",
+        null,
+        "450g waxy",
+        "Potatoes"
+      ],
+      [
+        "Onion",
+        null,
+        "1 cut thin wedges",
+        "Onion"
+      ],
+      [
+        "Lime leaves",
+        null,
+        "4",
+        "Lime leaves"
+      ],
+      [
+        "Cinnamon stick",
+        null,
+        "1",
+        "Cinnamon stick"
+      ],
+      [
+        "Tamarind paste",
+        null,
+        "1 tbsp",
+        "Tamarind paste"
+      ],
+      [
+        "Brown sugar",
+        null,
+        "1 tbsp palm or soft light",
+        "Brown sugar"
+      ],
+      [
+        "Fish sauce",
+        null,
+        "1 tbsp",
+        "Fish Sauce"
+      ],
+      [
+        "Chilli",
+        null,
+        "1 red deseeded and finely sliced, to serve",
+        "chilli"
+      ]
+    ],
+    "steps": [
+      [
+        "Toast the nuts",
+        "Heat the oven to 200°C (180°C fan). Toast peanuts on a tray for 5 minutes, then chop. Reduce the oven to 180°C (160°C fan)."
+      ],
+      [
+        "Build the curry",
+        "Spoon the thick part of the coconut milk into an ovenproof lidded casserole. Cook the curry paste in it for 1 minute. Add beef and stir to coat. Add remaining coconut milk, 200 ml water, potatoes, onion, lime leaves, cinnamon, tamarind, sugar, fish sauce and most peanuts."
+      ],
+      [
+        "Slow-cook until tender",
+        "Bring to a simmer on the stovetop, cover and transfer to the oven for about 2 hours, until the beef is tender. Add water if the sauce dries out. Remove the cinnamon and lime leaves. Finish with sliced chilli and remaining peanuts; any rice is extra."
+      ]
+    ],
+    "sourceUrl": "https://www.themealdb.com/meal/52827",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/420631/beef-massaman-curry",
+    "sourceQuantities": true,
+    "videoId": "mVxgZSCU9_g",
+    "videoNote": "A related tutorial, played here. Follow the written quantities and method; the video may show a variation.",
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+    "videoTitle": "Thai Beef Massaman Curry Recipe - SORTED",
+    "videoAuthor": "Sorted Food",
+    "servings": 4,
+    "nutritionKind": "publisher",
+    "nutritionSource": "https://www.bbcgoodfood.com/recipes/beef-massaman-curry",
+    "nutritionNote": "Publisher nutrition per serving, for the listed recipe. Optional sides and extra toppings are not included. Figures are estimates and vary with brands and portion sizes.",
+    "timingNote": "Prep and cooking times from Good Food; allow extra time for your equipment and experience.",
+    "reviewNotes": [
+      "Coconut milk replaces the mistranscribed coconut cream. Rice is an optional extra."
+    ],
+    "easy": false,
+    "photoReviewed": true,
+    "recipeEdited": true,
+    "reviewDate": "2026-11-16",
+    "photoKind": "food-photograph"
+  }
+]
