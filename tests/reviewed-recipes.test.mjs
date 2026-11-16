@@ -4,9 +4,9 @@ import {readFileSync, existsSync} from 'node:fs';
 import {recipes, filterRecipes, matchRecipe, totalTime} from '../dist/recipes.js';
 const defaults={pantry:[],equipment:[],time:9999,calories:9999,category:'All recipes',sort:'relevant',query:'',onlyHave:false};
 const find=id=>recipes.find(r=>r.id===`mealdb-${id}`);
-test('40 reviewed recipes all have serving-based facts; 32 are easy',()=>{
- assert.equal(recipes.length,40);assert.equal(new Set(recipes.map(r=>r.id)).size,40);
- assert.equal(recipes.filter(r=>r.easy).length,32);
+test('60 reviewed recipes all have serving-based facts; 52 are easy',()=>{
+ assert.equal(recipes.length,60);assert.equal(new Set(recipes.map(r=>r.id)).size,60);
+ assert.equal(recipes.filter(r=>r.easy).length,52);
  for(const r of recipes){
   for(const key of ['prep','cook'])assert.ok(Number.isFinite(r[key])&&r[key]>=0,`${r.id}: ${key}`);
   for(const key of ['kcal','protein','servings'])assert.ok(Number.isFinite(r[key])&&r[key]>0,`${r.id}: ${key}`);
@@ -30,7 +30,7 @@ test('every photo is a reviewed local food photograph; video poster uses food to
 test('calculated nutrition matches saved USDA profiles, weights and servings',()=>{
  const reviewed=JSON.parse(readFileSync(new URL('../scripts/reviewed-recipes.json',import.meta.url),'utf8'));
  const {foods}=JSON.parse(readFileSync(new URL('../scripts/nutrition-profiles.json',import.meta.url),'utf8'));
- const calculated=reviewed.filter(r=>r.nutritionKind==='calculated');assert.equal(calculated.length,13);
+ const calculated=reviewed.filter(r=>r.nutritionKind==='calculated');assert.equal(calculated.length,33);
  for(const r of calculated){
   for(const c of r.nutritionComponents){assert.ok(foods[c.profile]?.fdcId);assert.ok(c.grams>0);}
   const sum=key=>r.nutritionComponents.reduce((s,c)=>s+foods[c.profile][key]*c.grams/100,0)/r.servings;
@@ -62,7 +62,7 @@ test('marinating and soaking are included in total-time limits',()=>{
  }
 });
 test('easy and quick filters reflect difficulty and complete duration',()=>{
- assert.equal(filterRecipes(recipes,{...defaults,category:'Easy meals'}).length,32);
+ assert.equal(filterRecipes(recipes,{...defaults,category:'Easy meals'}).length,52);
  const quick=filterRecipes(recipes,{...defaults,category:'Quick & easy'});
  assert.ok(quick.length>=10);assert.ok(quick.every(r=>r.easy&&totalTime(r)<=30));
  assert.ok(!quick.some(r=>r.id==='mealdb-52945'));
@@ -103,5 +103,17 @@ test('batch ingredient quantities are explicitly separated from per-serving nutr
  assert.ok(recipes.every(r=>r.sourceQuantities&&r.ingredients.every(i=>i[1]===null)));
  const ui=readFileSync(new URL('../dist/app.js',import.meta.url),'utf8');
  assert.ok(ui.includes('Ingredient quantities below are for the whole recipe.'));
- assert.ok(ui.includes('Makes ${r.servings} servings'));
+ assert.ok(ui.includes("Makes ${r.servings} ${r.servings===1?'serving':'servings'}"));
+});
+
+
+test('twenty additional easy recipes preserve complete facts and searchable ingredients',()=>{
+ const additions=recipes.filter(r=>r.reviewDate==='2026-11-17');
+ assert.equal(additions.length,20);assert.ok(additions.every(r=>r.easy&&r.prep+r.cook<=45));
+ for(const id of [53367,53198,52915,53378,52777,53011,53166,53368,53383,53240,53369,52815,52773,53143,52954,53210,53234,53047,53232,53159])assert.ok(find(id));
+ assert.ok(filterRecipes(recipes,{...defaults,query:'fried rice',pantry:['Rice'],equipment:['Stovetop'],time:30}).some(r=>r.id==='mealdb-53367'));
+ const salad=find(53378);assert.equal(salad.cook,0);assert.deepEqual(salad.equipment,[]);assert.equal(totalTime(salad),10);
+ assert.ok(find(52773).ingredients.some(i=>i[0]==='Honey'));
+ assert.ok(find(52954).ingredients.some(i=>i[0]==='Rice vinegar'&&i[2].startsWith('2 tbsp')));
+ assert.equal(filterRecipes([find(52777)],{...defaults,category:'Vegetarian'}).length,0);
 });

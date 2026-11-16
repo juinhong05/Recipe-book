@@ -6,7 +6,7 @@ A responsive recipe finder and installable web app for cooking with the ingredie
 
 ## Reviewed collection
 
-The collection now contains **40 checked recipes, including 32 easy meals and 16 Asian recipes**. Easy meals are shown by default; choose All recipes to include the eight dishes that need more time or steps. Quick & easy means an easy method and no more than 30 minutes total, including any waiting time.
+The collection now contains **60 checked recipes, including 52 easy meals and 28 Asian recipes**. Easy meals are shown by default; choose All recipes to include the eight dishes that need more time or steps. Quick & easy means an easy method and no more than 30 minutes total, including any waiting time.
 
 Every recipe includes:
 
@@ -15,9 +15,21 @@ Every recipe includes:
 - A real, visually reviewed food photograph. No generated images, people, text overlays or video screenshots are used as recipe photos.
 - Ingredient and equipment matching, a step checklist, and an embedded cooking tutorial.
 
-The November 2026 review replaces the previous 116-recipe collection with a smaller, checked selection. Complicated dishes and the 12 recipes using tutorial-thumbnail photos were removed from the live catalogue. Existing IDs are preserved for retained recipes. Saved IDs for retired recipes remain in browser storage but are not displayed; the previous catalogue is recoverable from Git history.
+The November 2026 review replaced the previous 116-recipe collection with 40 checked recipes. A subsequent expansion adds 20 more easy recipes, for a total of 60. Complicated dishes and the 12 recipes using tutorial-thumbnail photos were removed from the live catalogue. Existing IDs are preserved for retained recipes. Saved IDs for retired recipes remain in browser storage but are not displayed; the previous catalogue is recoverable from Git history.
 
 Asian options include egg drop soup, laksa, yaki udon, pad see ew, congee, mapo tofu, kung po prawns, kung pao chicken, Thai green curry, matar paneer, kidney bean curry, dal and more.
+
+## Latest additions
+
+Twenty easy recipes were added on 17 November 2026, preserving all 40 previously reviewed recipes:
+
+- Chicken fried rice, Thai prawn fried rice, Singapore-style prawn noodles and easy egg ramen.
+- Sesame cucumber salad, silken tofu with sesame soy sauce, tofu and cashew stir-fry, and Vietnamese-style chicken noodle salad.
+- Honey teriyaki salmon, salmon noodle soup, hot-and-sour tofu soup and Thai-style pumpkin soup.
+- French-style herb omelette, chorizo and potato omelette, Mediterranean pasta salad and chicken quinoa Greek salad.
+- Chickpea and chorizo stew, easy Spanish chicken and beans, French lentils, and Moroccan-style carrot soup.
+
+Every addition has a food-only photograph, a related embedded tutorial, explicit servings, separate prep/cook times and reproducible nutrition calculations. All use straightforward methods and take 10–45 minutes, assuming any explicitly listed ready-cooked ingredients are available. Side dishes and light portions are identified. Tutorial metadata was checked; videos can show variations of the written recipe.
 
 ## Run locally
 
@@ -40,7 +52,7 @@ npm test
 Nutrition is an **estimate**, not a laboratory analysis or a personalised diet recommendation. Brands, edible weights, cooking losses and portion sizes change the result.
 
 - 27 recipes use per-serving calorie and protein figures and serving yields from the linked Good Food publisher pages. Transcribed ingredients were checked and corrected against those pages. Timing was adjusted where a stage was omitted or too short, and those changes are labelled.
-- 13 recipes use explicit editorial portions calculated from generic USDA SR Legacy food composition data. The calculation sums ingredient grams × nutrients per 100 g, divides by the batch serving count, then rounds calories to the nearest 10 kcal and protein to the nearest gram. Small seasoning amounts are omitted; ingredient substitutions and approximations are documented.
+- 33 recipes use explicit editorial portions calculated from generic USDA SR Legacy food composition data. The calculation sums ingredient grams × nutrients per 100 g, divides by the batch serving count, then rounds calories to the nearest 10 kcal and protein to the nearest gram. Small seasoning amounts are omitted; ingredient substitutions and approximations are documented.
 - Included oil and toppings are counted. Optional rice, bread and other sides are excluded unless listed in the recipe itself. Light meals and side portions are identified in their methods or notes.
 - Ingredient quantities are for the **whole batch**, not one serving. Nutrition is for one equal share of that batch. The app does not scale free-text measurements.
 - Timing includes preparation, cooking and any separately displayed waiting period. Equipment requirements were checked against the written method.
@@ -114,4 +126,4 @@ vercel.json             Static hosting configuration
 
 ## Validation
 
-14 automated tests cover complete metadata, reproducible nutrition calculations, photo references, pantry/equipment matching, time/calorie filters, waiting periods, Asian search and corrected ingredients. All 40 food photos were visually reviewed. Browser checks at desktop and 390 × 844 cover visible recipe facts, responsive layout, combined filters, step progress, embedded playback and player teardown. These checks do not guarantee future availability of every third-party video.
+15 automated tests cover complete metadata, reproducible nutrition calculations, photo references, pantry/equipment matching, time/calorie filters, waiting periods, Asian search and corrected ingredients. All 60 food photos were visually reviewed. Browser checks at desktop and 390 × 844 cover visible recipe facts, responsive layout, combined filters, step progress, embedded playback and player teardown. These checks do not guarantee future availability of every third-party video.

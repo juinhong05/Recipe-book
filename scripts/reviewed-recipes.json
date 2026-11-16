@@ -107,6 +107,372 @@
     "photoKind": "food-photograph"
   },
   {
+    "id": "mealdb-53378",
+    "title": "Sesame Cucumber Salad",
+    "description": "A crunchy, no-cook side salad with a sesame dressing.",
+    "image": "./assets/meals/53378.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53378",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/93iok31766436070.jpg",
+    "prep": 10,
+    "cook": 0,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 2,
+    "category": "Vegetarian",
+    "area": "Chinese",
+    "easy": true,
+    "equipment": [],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Cucumber",
+        null,
+        "400 g, chopped",
+        "Cucumber"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "2 tsp (9 g)",
+        "Sesame oil"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "2 tbsp (30 g)",
+        "Rice vinegar"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tsp (5 g)",
+        "Soy sauce"
+      ],
+      [
+        "Sesame seeds",
+        null,
+        "2 tsp (6 g)",
+        "Sesame seeds"
+      ],
+      [
+        "Basil",
+        null,
+        "3 g, torn",
+        "Basil"
+      ],
+      [
+        "Red chilli flakes",
+        null,
+        "¼ tsp, or to taste",
+        "Red chilli flakes"
+      ]
+    ],
+    "steps": [
+      [
+        "Chop the cucumber",
+        "Wash the cucumber. Lightly press it with the flat side of a knife, then cut into bite-size pieces. Pat away excess moisture."
+      ],
+      [
+        "Mix the dressing",
+        "Whisk sesame oil, rice vinegar and soy sauce in a bowl. Add chilli flakes to taste."
+      ],
+      [
+        "Toss and serve",
+        "Toss cucumber with dressing, basil and sesame seeds. Divide into two side portions and serve immediately for the best crunch."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53378",
+    "originalSource": "https://www.simplyrecipes.com/recipes/sesame_cucumber_salad/",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Cucumber",
+        "profile": "cucumber",
+        "grams": 400
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 9
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "profile": "vinegar",
+        "grams": 30
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 5
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "profile": "sesameSeeds",
+        "grams": 6
+      },
+      {
+        "ingredient": "Basil",
+        "profile": "basil",
+        "grams": 3
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Two side portions, not a complete main meal. Vinegar is approximated with a generic unsweetened vinegar profile."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "q37qn81lg5c",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-53369",
+    "title": "Silken Tofu with Sesame Soy Sauce",
+    "description": "A ten-minute, no-cook tofu dish with a nutty sesame sauce.",
+    "image": "./assets/meals/53369.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53369",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+    "prep": 10,
+    "cook": 0,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 2,
+    "category": "Vegetarian",
+    "area": "Chinese",
+    "easy": true,
+    "equipment": [],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Silken tofu",
+        null,
+        "400 g pasteurised ready-to-eat silken tofu, drained",
+        "Silken tofu"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1½ tbsp (24 g)",
+        "Soy sauce"
+      ],
+      [
+        "Tahini",
+        null,
+        "1 tbsp (15 g)",
+        "Tahini"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "1 tbsp (15 g)",
+        "Rice vinegar"
+      ],
+      [
+        "Sesame seeds",
+        null,
+        "2 tsp (6 g)",
+        "Sesame seeds"
+      ],
+      [
+        "Spring onion",
+        null,
+        "15 g, finely sliced",
+        "Spring onion"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Drain the tofu",
+        "Use a refrigerated, pasteurised tofu labelled ready to eat. Open the pack, drain carefully and slide the tofu onto a shallow plate. Cut into thick slices without breaking it up."
+      ],
+      [
+        "Mix the sauce",
+        "Stir soy sauce, tahini and vinegar with 1–2 tablespoons water until smooth and pourable."
+      ],
+      [
+        "Finish",
+        "Spoon sauce over the tofu, then add spring onion, coriander and sesame seeds. Divide into two light portions and serve straight away. Rice is an optional extra."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53369",
+    "originalSource": "https://www.simplyrecipes.com/silken-tofu-with-sesame-soy-sauce-recipe-6979877",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Silken tofu",
+        "profile": "silkenTofu",
+        "grams": 400
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 24
+      },
+      {
+        "ingredient": "Tahini",
+        "profile": "tahini",
+        "grams": 15
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "profile": "vinegar",
+        "grams": 15
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "profile": "sesameSeeds",
+        "grams": 6
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 15
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Use tofu explicitly labelled ready to eat; follow any cooking instruction on your pack. Tahini replaces Chinese sesame paste in this accessible variation. Two light portions; rice is extra."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "bSLv5vFn5Z0",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-52915",
+    "title": "French-Style Herb Omelette",
+    "description": "A simple folded omelette with herbs and cheese, ready in under 15 minutes.",
+    "image": "./assets/meals/52915.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52915",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg",
+    "prep": 5,
+    "cook": 8,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 1,
+    "category": "Vegetarian",
+    "area": "France",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Eggs",
+        null,
+        "3 medium (150 g without shells)",
+        "Eggs"
+      ],
+      [
+        "Butter",
+        null,
+        "10 g",
+        "Butter"
+      ],
+      [
+        "Cheddar",
+        null,
+        "20 g, finely grated",
+        "Cheddar"
+      ],
+      [
+        "Parsley",
+        null,
+        "5 g, chopped",
+        "Parsley"
+      ],
+      [
+        "Chives",
+        null,
+        "1 tsp, chopped",
+        "Chives"
+      ],
+      [
+        "Pepper",
+        null,
+        "a pinch",
+        "Pepper"
+      ]
+    ],
+    "steps": [
+      [
+        "Beat the eggs",
+        "Beat eggs with parsley, chives and pepper until the whites and yolks are evenly mixed."
+      ],
+      [
+        "Cook gently",
+        "Melt butter in a small non-stick pan over medium-low heat. Add eggs and gently draw the cooked edges towards the centre, tilting the pan so uncooked egg fills the spaces."
+      ],
+      [
+        "Fold and finish",
+        "When nearly set, sprinkle cheese over one half. Fold the omelette over and cook gently for another 1–2 minutes until no liquid egg remains. Slide onto a plate and serve."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/52915",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/1669/ultimate-french-omelette",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 150
+      },
+      {
+        "ingredient": "Butter",
+        "profile": "butter",
+        "grams": 10
+      },
+      {
+        "ingredient": "Cheddar",
+        "profile": "cheddar",
+        "grams": 20
+      },
+      {
+        "ingredient": "Parsley",
+        "profile": "parsley",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. A home-friendly, fully set omelette rather than the classic runny-centred version. Choose cheese labelled vegetarian if required; bread is extra."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "qXPhVYpQLPA",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
     "id": "mealdb-52955",
     "title": "Egg Drop Soup",
     "description": "A fast Chinese-style soup with silky egg ribbons, peas and mushrooms. Easy to prepare with everyday techniques.",
@@ -381,6 +747,139 @@
     "photoKind": "food-photograph"
   },
   {
+    "id": "mealdb-53383",
+    "title": "Easy Egg Ramen",
+    "description": "An easy noodle soup with an egg and greens, made in two small pans.",
+    "image": "./assets/meals/53383.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53383",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/ip5xtp1769779958.jpg",
+    "prep": 5,
+    "cook": 12,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 1,
+    "category": "Vegetarian",
+    "area": "Japanese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Ramen noodles",
+        null,
+        "70 g dry instant noodles, seasoning packet omitted",
+        "Ramen noodles"
+      ],
+      [
+        "Eggs",
+        null,
+        "1 medium (50 g without shell)",
+        "Eggs"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "400 ml, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Pak choi",
+        null,
+        "100 g, chopped",
+        "Pak choi"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tsp (5 g)",
+        "Soy sauce"
+      ],
+      [
+        "Spring onion",
+        null,
+        "15 g, sliced",
+        "Spring onion"
+      ],
+      [
+        "Sesame seeds",
+        null,
+        "1 tsp (3 g)",
+        "Sesame seeds"
+      ]
+    ],
+    "steps": [
+      [
+        "Cook the egg",
+        "Lower the egg into gently boiling water and cook for 9–10 minutes until hard-boiled. Cool under cold water and peel."
+      ],
+      [
+        "Simmer noodles",
+        "In another saucepan, bring vegetable stock to a simmer. Add ramen noodles and cook as directed on the packet, usually 3–4 minutes. Add pak choi for the final 2 minutes."
+      ],
+      [
+        "Serve",
+        "Stir in soy sauce. Pour noodles and broth into a bowl, halve the egg and place it on top. Sprinkle with spring onion and sesame seeds."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53383",
+    "originalSource": null,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Ramen noodles",
+        "profile": "ramen",
+        "grams": 70
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 50
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 400
+      },
+      {
+        "ingredient": "Pak choi",
+        "profile": "pakChoi",
+        "grams": 100
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 5
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 15
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "profile": "sesameSeeds",
+        "grams": 3
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Use vegetarian noodles and stock. The generic instant-ramen profile approximates the noodle block; the seasoning packet is omitted. The photograph shows a softer yolk than this fully cooked version.",
+      "Cuisine corrected to Japanese for this ramen-style noodle bowl."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "AbJNVnkndS4",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
     "id": "mealdb-52960",
     "title": "Salmon Avocado Salad",
     "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
@@ -482,6 +981,144 @@
     "recipeEdited": true,
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-52773",
+    "title": "Honey Teriyaki Salmon",
+    "description": "Pan-cooked salmon with a quick honey-soy glaze.",
+    "image": "./assets/meals/52773.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52773",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+    "prep": 5,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 2,
+    "category": "Seafood",
+    "area": "Japanese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Salmon",
+        null,
+        "2 boneless fillets (300 g total)",
+        "Salmon"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tsp (5 g)",
+        "Olive oil"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1½ tbsp (24 g)",
+        "Soy sauce"
+      ],
+      [
+        "Honey",
+        null,
+        "1 tbsp (21 g)",
+        "Honey"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "1 tbsp (15 g)",
+        "Rice vinegar"
+      ],
+      [
+        "Ginger",
+        null,
+        "5 g, grated",
+        "Ginger"
+      ],
+      [
+        "Sesame seeds",
+        null,
+        "1 tsp (3 g)",
+        "Sesame seeds"
+      ],
+      [
+        "Water",
+        null,
+        "2 tbsp",
+        "Water"
+      ]
+    ],
+    "steps": [
+      [
+        "Mix the glaze",
+        "Whisk soy sauce, honey, vinegar, ginger and water. Pat salmon dry."
+      ],
+      [
+        "Cook the salmon",
+        "Heat oil in a non-stick frying pan over medium heat. Cook salmon for 4–5 minutes on the first side, then turn carefully and cook for 3–4 minutes."
+      ],
+      [
+        "Glaze and serve",
+        "Reduce the heat, add the glaze and gently bubble for 2–3 minutes, spooning sauce over the fish. Check the centre reaches 63°C; thicker fillets need longer. Sprinkle sesame seeds and serve one fillet per person."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/52773",
+    "originalSource": null,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Salmon",
+        "profile": "salmon",
+        "grams": 300
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 24
+      },
+      {
+        "ingredient": "Honey",
+        "profile": "honey",
+        "grams": 21
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "profile": "vinegar",
+        "grams": 15
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 5
+      },
+      {
+        "ingredient": "Sesame seeds",
+        "profile": "sesameSeeds",
+        "grams": 3
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Restores a measured honey quantity missing from the API ingredients. A vinegar-and-water glaze replaces sake. Rice or vegetables served alongside are extra."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "4MpYuaJsvRw",
+    "videoNote": "Related teriyaki salmon tutorial includes soba salad. Follow this written recipe for the simple pan glaze; the salad is not included in its nutrition."
   },
   {
     "id": "mealdb-52837",
@@ -712,6 +1349,673 @@
     "recipeEdited": true,
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-53367",
+    "title": "Chicken Fried Rice",
+    "description": "A quick pan of chicken, eggs and vegetables using rice you have already cooked and chilled.",
+    "image": "./assets/meals/53367.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53367",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "prep": 10,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 3,
+    "category": "Chicken",
+    "area": "Chinese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Chicken",
+        null,
+        "250 g raw boneless skinless breast, diced",
+        "Chicken"
+      ],
+      [
+        "Rice",
+        null,
+        "450 g already-cooked, chilled rice",
+        "Rice"
+      ],
+      [
+        "Eggs",
+        null,
+        "2 medium (100 g without shells)",
+        "Eggs"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "100 g, diced",
+        "Onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Ginger",
+        null,
+        "10 g, grated",
+        "Ginger"
+      ],
+      [
+        "Carrot",
+        null,
+        "100 g, finely diced",
+        "Carrot"
+      ],
+      [
+        "Peas",
+        null,
+        "100 g frozen",
+        "Peas"
+      ],
+      [
+        "Spring onion",
+        null,
+        "30 g, sliced",
+        "Spring onion"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbsp (32 g)",
+        "Soy sauce"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "1 tsp (5 g)",
+        "Sesame oil"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare everything",
+        "Break up the chilled rice and beat the eggs. Use rice that was cooled promptly and kept refrigerated. Have all chopped ingredients ready before heating the pan."
+      ],
+      [
+        "Cook the chicken",
+        "Heat olive oil in a large non-stick pan. Stir-fry chicken for 5–6 minutes until its centre reaches 74°C. Add onion and carrot for 3 minutes, then garlic, ginger and peas for 1 minute."
+      ],
+      [
+        "Scramble and toss",
+        "Push the mixture aside and scramble the eggs in the empty space until set. Add rice, soy sauce and sesame oil. Toss for 3–4 minutes until steaming hot throughout. Add spring onion and divide into three bowls."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53367",
+    "originalSource": "https://www.simplyrecipes.com/recipes/chicken_fried_rice/",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 250
+      },
+      {
+        "ingredient": "Rice",
+        "profile": "cookedRice",
+        "grams": 450
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 100
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 100
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 10
+      },
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 100
+      },
+      {
+        "ingredient": "Peas",
+        "profile": "peas",
+        "grams": 100
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 30
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 32
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Timing starts with cooked, chilled rice. Reheat rice only once; cooking and cooling a fresh batch takes additional time."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "mUr-7wjhHuU",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-52954",
+    "title": "Hot & Sour Tofu Soup",
+    "description": "A quick, warming soup with tofu, mushrooms and a gently sour broth.",
+    "image": "./assets/meals/52954.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52954",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+    "prep": 10,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 3,
+    "category": "Chicken",
+    "area": "Chinese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Tofu",
+        null,
+        "200 g regular tofu, cubed",
+        "Tofu"
+      ],
+      [
+        "Chicken",
+        null,
+        "120 g raw boneless skinless breast, thin strips",
+        "Chicken"
+      ],
+      [
+        "Mushrooms",
+        null,
+        "100 g, thinly sliced",
+        "Mushrooms"
+      ],
+      [
+        "Chicken stock",
+        null,
+        "750 ml, prepared",
+        "Chicken stock"
+      ],
+      [
+        "Eggs",
+        null,
+        "1 medium (50 g without shell), beaten",
+        "Eggs"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "2 tbsp (30 g), plus more to taste",
+        "Rice vinegar"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbsp (16 g)",
+        "Soy sauce"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "1 tsp (5 g)",
+        "Sesame oil"
+      ],
+      [
+        "Cornstarch",
+        null,
+        "1 tbsp (8 g)",
+        "Cornstarch"
+      ],
+      [
+        "Water",
+        null,
+        "2 tbsp for slurry",
+        "Water"
+      ],
+      [
+        "Spring onion",
+        null,
+        "30 g, sliced",
+        "Spring onion"
+      ],
+      [
+        "Pepper",
+        null,
+        "¼ tsp white pepper",
+        "Pepper"
+      ],
+      [
+        "Red chilli flakes",
+        null,
+        "a pinch, to taste",
+        "Red chilli flakes"
+      ]
+    ],
+    "steps": [
+      [
+        "Simmer the base",
+        "Bring chicken stock to a simmer. Add thin chicken strips and mushrooms. Cook for 5–7 minutes until chicken reaches 74°C. Add tofu and soy sauce and simmer for 2 minutes."
+      ],
+      [
+        "Thicken and add egg",
+        "Mix cornstarch with cold water. Stir into the simmering soup for 1 minute. Slowly pour in beaten egg while stirring gently; cook for 1–2 minutes until fully set."
+      ],
+      [
+        "Balance the flavour",
+        "Turn down the heat and add vinegar, white pepper, chilli and sesame oil. Taste before adding more vinegar. Top with spring onion and divide into three light bowls."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/52954",
+    "originalSource": "https://sueandgambo.com/pages/chinese-hot-and-sour-soup",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Tofu",
+        "profile": "tofu",
+        "grams": 200
+      },
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 120
+      },
+      {
+        "ingredient": "Mushrooms",
+        "profile": "mushroom",
+        "grams": 100
+      },
+      {
+        "ingredient": "Chicken stock",
+        "profile": "chickenStock",
+        "grams": 750
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 50
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "profile": "vinegar",
+        "grams": 30
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 16
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Cornstarch",
+        "profile": "starch",
+        "grams": 8
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 30
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Replaces the implausible API vinegar quantity with 2 measured tablespoons. This easy variation uses chicken instead of pork, ordinary mushrooms and an egg. Contains chicken stock, so is not vegetarian."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "KgV9Zq3aSTo",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-52777",
+    "title": "Mediterranean Pasta Salad",
+    "description": "A filling pasta salad with tuna, mozzarella and fresh tomatoes.",
+    "image": "./assets/meals/52777.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52777",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "prep": 10,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Seafood",
+    "area": "Italian",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Pasta",
+        null,
+        "300 g dry farfalle",
+        "Pasta"
+      ],
+      [
+        "Mozzarella",
+        null,
+        "150 g, drained and diced",
+        "Mozzarella"
+      ],
+      [
+        "Tomato",
+        null,
+        "250 g cherry tomatoes, halved",
+        "Tomato"
+      ],
+      [
+        "Tuna",
+        null,
+        "200 g canned in water, drained",
+        "Tuna"
+      ],
+      [
+        "Olives",
+        null,
+        "40 g, drained and sliced",
+        "Olives"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp (27 g)",
+        "Olive oil"
+      ],
+      [
+        "Basil",
+        null,
+        "10 g, torn",
+        "Basil"
+      ],
+      [
+        "Lemon",
+        null,
+        "30 ml juice",
+        "Lemon"
+      ]
+    ],
+    "steps": [
+      [
+        "Cook and cool the pasta",
+        "Cook pasta according to the packet. Drain, rinse briefly under cold water and drain thoroughly. Prepare the tomatoes, cheese and olives while it cooks."
+      ],
+      [
+        "Mix the dressing",
+        "Whisk olive oil and lemon juice in a large bowl. Add tomatoes, mozzarella, olives and drained tuna."
+      ],
+      [
+        "Combine",
+        "Fold in pasta and basil. Divide into four servings. Eat promptly or refrigerate in a covered container; do not leave at room temperature for extended periods."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/52777",
+    "originalSource": "https://thelemonsqueezy.com/recipe/mediterranean-pasta-salad/",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Pasta",
+        "profile": "pasta",
+        "grams": 300
+      },
+      {
+        "ingredient": "Mozzarella",
+        "profile": "mozzarella",
+        "grams": 150
+      },
+      {
+        "ingredient": "Tomato",
+        "profile": "tomato",
+        "grams": 250
+      },
+      {
+        "ingredient": "Tuna",
+        "profile": "tuna",
+        "grams": 200
+      },
+      {
+        "ingredient": "Olives",
+        "profile": "olives",
+        "grams": 40
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 27
+      },
+      {
+        "ingredient": "Basil",
+        "profile": "basil",
+        "grams": 10
+      },
+      {
+        "ingredient": "Lemon",
+        "profile": "lemon",
+        "grams": 30
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Contains tuna, so this version is not vegetarian. Nutrition uses drained tuna and mozzarella weights."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "e52IL8zYmaE",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-53234",
+    "title": "Salmon Noodle Soup",
+    "description": "A complete noodle bowl with salmon, mushrooms and a fragrant broth.",
+    "image": "./assets/meals/53234.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53234",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/ikizdm1763760862.jpg",
+    "prep": 10,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 2,
+    "category": "Seafood",
+    "area": "Vietnamese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Salmon",
+        null,
+        "2 boneless fillets (300 g total), large cubes",
+        "Salmon"
+      ],
+      [
+        "Rice noodles",
+        null,
+        "100 g dry, quick-cooking",
+        "Rice noodles"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "800 ml, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Thai red curry paste",
+        null,
+        "2 tsp (10 g)",
+        "Thai red curry paste"
+      ],
+      [
+        "Shiitake mushrooms",
+        null,
+        "150 g, sliced",
+        "Shiitake mushrooms"
+      ],
+      [
+        "Sweetcorn",
+        null,
+        "100 g kernels",
+        "Sweetcorn"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbsp (16 g)",
+        "Soy sauce"
+      ],
+      [
+        "Lime",
+        null,
+        "30 ml juice",
+        "Lime"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Start the broth",
+        "Bring stock and curry paste to a simmer. Add sliced mushrooms and corn and cook for 4–5 minutes."
+      ],
+      [
+        "Cook salmon and noodles",
+        "Add salmon and simmer gently for 5–7 minutes until the centre reaches 63°C. Add quick-cooking rice noodles for the time stated on the packet, usually 3–4 minutes; they can cook alongside the salmon."
+      ],
+      [
+        "Finish",
+        "Stir in soy sauce and lime juice. Divide between two bowls and add coriander. Handle the salmon gently so it stays in large pieces."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53234",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/salmon-noodle-soup",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Salmon",
+        "profile": "salmon",
+        "grams": 300
+      },
+      {
+        "ingredient": "Rice noodles",
+        "profile": "riceNoodles",
+        "grams": 100
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 800
+      },
+      {
+        "ingredient": "Thai red curry paste",
+        "profile": "spice",
+        "grams": 10
+      },
+      {
+        "ingredient": "Shiitake mushrooms",
+        "profile": "shiitake",
+        "grams": 150
+      },
+      {
+        "ingredient": "Sweetcorn",
+        "profile": "corn",
+        "grams": 100
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 16
+      },
+      {
+        "ingredient": "Lime",
+        "profile": "limeJuice",
+        "grams": 30
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Uses quick-cooking noodles and a prepared stock. Generic curry powder approximates the small amount of curry paste; brands differ."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "__Kh1sizUAM",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
   },
   {
     "id": "mealdb-52963",
@@ -953,6 +2257,380 @@
     ],
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-53198",
+    "title": "Thai Prawn Fried Rice",
+    "description": "Prawns, peas and egg turn chilled rice into a fast Thai-style dinner.",
+    "image": "./assets/meals/53198.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53198",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/hblwvg1763478203.jpg",
+    "prep": 10,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 2,
+    "category": "Seafood",
+    "area": "Thai",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Rice",
+        null,
+        "300 g already-cooked, chilled rice",
+        "Rice"
+      ],
+      [
+        "Prawns",
+        null,
+        "250 g raw, peeled and deveined",
+        "Prawns"
+      ],
+      [
+        "Eggs",
+        null,
+        "2 medium (100 g without shells)",
+        "Eggs"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Red onions",
+        null,
+        "80 g, sliced",
+        "Red onions"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Red chilli",
+        null,
+        "10 g, chopped",
+        "Red chilli"
+      ],
+      [
+        "Peas",
+        null,
+        "75 g frozen",
+        "Peas"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbsp (16 g)",
+        "Soy sauce"
+      ],
+      [
+        "Fish sauce",
+        null,
+        "1 tbsp (18 g)",
+        "Fish sauce"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare the rice",
+        "Separate the grains of chilled rice. Beat the eggs and prepare the prawns and vegetables. Use rice cooled promptly and kept refrigerated."
+      ],
+      [
+        "Stir-fry",
+        "Heat oil in a large non-stick pan. Cook onion for 3 minutes; add garlic, chilli and prawns. Stir-fry for 3–4 minutes until prawns are opaque throughout. Add peas for 2 minutes."
+      ],
+      [
+        "Add eggs and rice",
+        "Push ingredients aside and scramble eggs until set. Add rice, soy sauce and fish sauce. Toss for 3–4 minutes until everything is steaming hot. Finish with coriander and serve two portions."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53198",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/thai-fried-rice-prawns-peas",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Rice",
+        "profile": "cookedRice",
+        "grams": 300
+      },
+      {
+        "ingredient": "Prawns",
+        "profile": "prawns",
+        "grams": 250
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 100
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Red onions",
+        "profile": "onion",
+        "grams": 80
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Red chilli",
+        "profile": "chilli",
+        "grams": 10
+      },
+      {
+        "ingredient": "Peas",
+        "profile": "peas",
+        "grams": 75
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 16
+      },
+      {
+        "ingredient": "Fish sauce",
+        "profile": "fishSauce",
+        "grams": 18
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Uses already-cooked rice; extra time is needed to cook and chill rice from scratch. Reheat rice only once. This adaptation scrambles the eggs into the rice."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "9wZAYbPcF-I",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-53232",
+    "title": "Vietnamese-Style Chicken Noodle Salad",
+    "description": "A bright noodle salad with lean chicken, crunchy vegetables and lime.",
+    "image": "./assets/meals/53232.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53232",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/pk8wtn1763758591.jpg",
+    "prep": 15,
+    "cook": 10,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 3,
+    "category": "Chicken",
+    "area": "Vietnamese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Rice noodles",
+        null,
+        "150 g dry, quick-cooking",
+        "Rice noodles"
+      ],
+      [
+        "Chicken",
+        null,
+        "300 g raw boneless skinless breast, thin strips",
+        "Chicken"
+      ],
+      [
+        "Carrot",
+        null,
+        "100 g, shredded",
+        "Carrot"
+      ],
+      [
+        "Cucumber",
+        null,
+        "150 g, sliced",
+        "Cucumber"
+      ],
+      [
+        "Radish",
+        null,
+        "50 g, thinly sliced",
+        "Radish"
+      ],
+      [
+        "Red onions",
+        null,
+        "50 g, thinly sliced",
+        "Red onions"
+      ],
+      [
+        "Mint",
+        null,
+        "5 g, chopped",
+        "Mint"
+      ],
+      [
+        "Peanuts",
+        null,
+        "25 g unsalted roasted",
+        "Peanuts"
+      ],
+      [
+        "Red chilli",
+        null,
+        "10 g, chopped",
+        "Red chilli"
+      ],
+      [
+        "Lime",
+        null,
+        "30 ml juice",
+        "Lime"
+      ],
+      [
+        "Fish sauce",
+        null,
+        "1 tbsp (18 g)",
+        "Fish sauce"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbsp (16 g)",
+        "Soy sauce"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "2 tsp (9 g)",
+        "Sesame oil"
+      ]
+    ],
+    "steps": [
+      [
+        "Cook chicken and noodles",
+        "Poach thin chicken strips in gently simmering water for 7–10 minutes until they reach 74°C. Drain and allow to cool slightly. In a separate bowl or saucepan prepare rice noodles according to their packet, then drain and rinse briefly."
+      ],
+      [
+        "Make the dressing",
+        "Mix lime juice, fish sauce, soy sauce, sesame oil and chilli. Prepare the shredded and sliced vegetables while the chicken cooks."
+      ],
+      [
+        "Toss the salad",
+        "Combine noodles, chicken, vegetables and mint. Toss with dressing, divide into three portions and scatter with peanuts. Serve promptly or refrigerate."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53232",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/vietnamese-chicken-salad",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Rice noodles",
+        "profile": "riceNoodles",
+        "grams": 150
+      },
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 300
+      },
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 100
+      },
+      {
+        "ingredient": "Cucumber",
+        "profile": "cucumber",
+        "grams": 150
+      },
+      {
+        "ingredient": "Radish",
+        "profile": "radish",
+        "grams": 50
+      },
+      {
+        "ingredient": "Red onions",
+        "profile": "onion",
+        "grams": 50
+      },
+      {
+        "ingredient": "Mint",
+        "profile": "mint",
+        "grams": 5
+      },
+      {
+        "ingredient": "Peanuts",
+        "profile": "peanuts",
+        "grams": 25
+      },
+      {
+        "ingredient": "Red chilli",
+        "profile": "chilli",
+        "grams": 10
+      },
+      {
+        "ingredient": "Lime",
+        "profile": "limeJuice",
+        "grams": 30
+      },
+      {
+        "ingredient": "Fish sauce",
+        "profile": "fishSauce",
+        "grams": 18
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 16
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 9
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Chicken starts raw and is poached in the stated cooking time. Noodle weight is dry; use a quick-cooking variety. Contains fish sauce."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "behSkhzKpHI",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
   },
   {
     "id": "mealdb-52871",
@@ -1383,6 +3061,127 @@
     "recipeEdited": true,
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-53159",
+    "title": "Chorizo, Potato & Cheese Omelette",
+    "description": "A hearty two-person omelette with soft potato and a little chorizo.",
+    "image": "./assets/meals/53159.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53159",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/0y6uvc1763258983.jpg",
+    "prep": 10,
+    "cook": 20,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 2,
+    "category": "Pork",
+    "area": "Spanish",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Potato",
+        null,
+        "200 g, small cubes",
+        "Potato"
+      ],
+      [
+        "Chorizo",
+        null,
+        "50 g, diced",
+        "Chorizo"
+      ],
+      [
+        "Eggs",
+        null,
+        "4 medium (200 g without shells)",
+        "Eggs"
+      ],
+      [
+        "Cheddar",
+        null,
+        "25 g, grated",
+        "Cheddar"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tsp (5 g)",
+        "Olive oil"
+      ],
+      [
+        "Parsley",
+        null,
+        "5 g, chopped",
+        "Parsley"
+      ]
+    ],
+    "steps": [
+      [
+        "Cook the potato",
+        "Boil the small potato cubes for 8–10 minutes until tender, then drain well. Beat eggs with parsley and grated cheese."
+      ],
+      [
+        "Cook the chorizo",
+        "Heat oil in a medium non-stick pan. Cook chorizo for 4–5 minutes, then add drained potato. If using fresh uncooked chorizo, ensure it reaches 71°C."
+      ],
+      [
+        "Set the omelette",
+        "Pour in eggs and spread the filling evenly. Reduce the heat, cover and cook gently for 5–7 minutes until the top is set with no liquid egg. Cut into two portions and serve."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53159",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/chorizo-potato-cheese-omelette",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Potato",
+        "profile": "potato",
+        "grams": 200
+      },
+      {
+        "ingredient": "Chorizo",
+        "profile": "chorizo",
+        "grams": 50
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 200
+      },
+      {
+        "ingredient": "Cheddar",
+        "profile": "cheddar",
+        "grams": 25
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Parsley",
+        "profile": "parsley",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. A covered-pan method avoids flipping or using a grill. Generic pork chorizo approximates the sausage; the estimate includes all listed cheese and oil."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "K2Ba5BWYXUU",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
   },
   {
     "id": "mealdb-52946",
@@ -1853,6 +3652,410 @@
     "photoKind": "food-photograph"
   },
   {
+    "id": "mealdb-53368",
+    "title": "Singapore-Style Prawn Noodles",
+    "description": "A colourful prawn-and-egg noodle stir-fry with curry powder.",
+    "image": "./assets/meals/53368.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53368",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/f3cxnc1765656994.jpg",
+    "prep": 15,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 3,
+    "category": "Seafood",
+    "area": "Chinese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Rice noodles",
+        null,
+        "180 g dry, quick-soaking vermicelli",
+        "Rice noodles"
+      ],
+      [
+        "Prawns",
+        null,
+        "250 g raw, peeled and deveined",
+        "Prawns"
+      ],
+      [
+        "Eggs",
+        null,
+        "2 medium (100 g without shells)",
+        "Eggs"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Sesame oil",
+        null,
+        "1 tsp (5 g)",
+        "Sesame oil"
+      ],
+      [
+        "Onion",
+        null,
+        "100 g, sliced",
+        "Onion"
+      ],
+      [
+        "Carrot",
+        null,
+        "100 g, thinly sliced",
+        "Carrot"
+      ],
+      [
+        "Cabbage",
+        null,
+        "150 g, shredded",
+        "Cabbage"
+      ],
+      [
+        "Red pepper",
+        null,
+        "150 g, sliced",
+        "Red pepper"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Ginger",
+        null,
+        "10 g, grated",
+        "Ginger"
+      ],
+      [
+        "Curry powder",
+        null,
+        "2 tsp (4 g)",
+        "Curry powder"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "2 tbsp (32 g)",
+        "Soy sauce"
+      ],
+      [
+        "Rice vinegar",
+        null,
+        "1 tbsp (15 g)",
+        "Rice vinegar"
+      ],
+      [
+        "Spring onion",
+        null,
+        "30 g, sliced",
+        "Spring onion"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare noodles",
+        "Soak quick-cooking vermicelli as directed on its packet, then drain well. Beat the eggs and mix soy sauce with vinegar and 2 tablespoons water."
+      ],
+      [
+        "Cook prawns and eggs",
+        "Heat half the olive oil in a wide non-stick pan. Cook prawns for 3–4 minutes until opaque, then transfer to a clean plate. Scramble eggs in the same pan until set and add to the plate."
+      ],
+      [
+        "Stir-fry vegetables",
+        "Add remaining olive oil, onion, carrot, cabbage and pepper. Stir-fry for 4–5 minutes. Add garlic, ginger and curry powder for 30 seconds."
+      ],
+      [
+        "Toss together",
+        "Add noodles, sauce, sesame oil, prawns and eggs. Toss gently for 2–3 minutes until piping hot. Finish with spring onion and divide into three portions."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53368",
+    "originalSource": "https://www.simplyrecipes.com/recipes/singapore_noodles_with_shrimp/",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Rice noodles",
+        "profile": "riceNoodles",
+        "grams": 180
+      },
+      {
+        "ingredient": "Prawns",
+        "profile": "prawns",
+        "grams": 250
+      },
+      {
+        "ingredient": "Eggs",
+        "profile": "egg",
+        "grams": 100
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Sesame oil",
+        "profile": "sesameOil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 100
+      },
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 100
+      },
+      {
+        "ingredient": "Cabbage",
+        "profile": "cabbage",
+        "grams": 150
+      },
+      {
+        "ingredient": "Red pepper",
+        "profile": "redPepper",
+        "grams": 150
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 10
+      },
+      {
+        "ingredient": "Curry powder",
+        "profile": "spice",
+        "grams": 4
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 32
+      },
+      {
+        "ingredient": "Rice vinegar",
+        "profile": "vinegar",
+        "grams": 15
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 30
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. A simplified version without ham. Uses quick-soaking rice vermicelli; other noodles may need longer. Singapore-style noodles are commonly associated with Chinese cooking."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "DiFUyPAGoug",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-53240",
+    "title": "Tofu, Greens & Cashew Stir-Fry",
+    "description": "A quick vegetable-packed tofu pan with cashews and a simple sauce.",
+    "image": "./assets/meals/53240.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53240",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg",
+    "prep": 15,
+    "cook": 15,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 3,
+    "category": "Vegetarian",
+    "area": "Vietnamese",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Tofu",
+        null,
+        "300 g firm, drained and cubed",
+        "Tofu"
+      ],
+      [
+        "Broccoli",
+        null,
+        "250 g, small florets",
+        "Broccoli"
+      ],
+      [
+        "Pak choi",
+        null,
+        "200 g, chopped",
+        "Pak choi"
+      ],
+      [
+        "Edamame",
+        null,
+        "140 g frozen shelled soybeans",
+        "Edamame"
+      ],
+      [
+        "Cashew nuts",
+        null,
+        "25 g unsalted, roasted",
+        "Cashew nuts"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "4 cloves (12 g), sliced",
+        "Garlic"
+      ],
+      [
+        "Red chilli",
+        null,
+        "10 g, sliced",
+        "Red chilli"
+      ],
+      [
+        "Spring onion",
+        null,
+        "60 g, sliced",
+        "Spring onion"
+      ],
+      [
+        "Hoisin sauce",
+        null,
+        "1½ tbsp (24 g)",
+        "Hoisin sauce"
+      ],
+      [
+        "Soy sauce",
+        null,
+        "1 tbsp (16 g)",
+        "Soy sauce"
+      ]
+    ],
+    "steps": [
+      [
+        "Prepare the sauce",
+        "Mix hoisin and soy sauce with 3 tablespoons water. Pat tofu dry. Cut the broccoli small so it cooks quickly."
+      ],
+      [
+        "Brown tofu",
+        "Heat oil in a large non-stick pan. Cook tofu for 5–6 minutes, turning until golden. Transfer to a plate."
+      ],
+      [
+        "Cook the greens",
+        "Add broccoli and edamame with a splash of water. Cover for 4 minutes. Add pak choi, garlic, chilli and spring onion and stir-fry for 2–3 minutes, until greens and soybeans are cooked."
+      ],
+      [
+        "Finish",
+        "Return tofu, add sauce and toss for 2 minutes until piping hot. Sprinkle cashews over three portions. Rice or noodles are extra."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53240",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/tofu-greens-cashew-stir-fry",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Tofu",
+        "profile": "tofu",
+        "grams": 300
+      },
+      {
+        "ingredient": "Broccoli",
+        "profile": "broccoliFlorets",
+        "grams": 250
+      },
+      {
+        "ingredient": "Pak choi",
+        "profile": "pakChoi",
+        "grams": 200
+      },
+      {
+        "ingredient": "Edamame",
+        "profile": "edamame",
+        "grams": 140
+      },
+      {
+        "ingredient": "Cashew nuts",
+        "profile": "cashew",
+        "grams": 25
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 12
+      },
+      {
+        "ingredient": "Red chilli",
+        "profile": "chilli",
+        "grams": 10
+      },
+      {
+        "ingredient": "Spring onion",
+        "profile": "springOnion",
+        "grams": 60
+      },
+      {
+        "ingredient": "Hoisin sauce",
+        "profile": "hoisin",
+        "grams": 24
+      },
+      {
+        "ingredient": "Soy sauce",
+        "profile": "soy",
+        "grams": 16
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Uses plain firm tofu rather than marinated tofu so the ingredient basis is explicit. Check hoisin is vegetarian if required. Nutrition excludes rice or noodles."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "l8wuWeNy3J4",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
     "id": "mealdb-52852",
     "title": "Tuna Nicoise",
     "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
@@ -2104,6 +4307,348 @@
     ],
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-53011",
+    "title": "Chicken Quinoa Greek Salad",
+    "description": "A straightforward grain bowl with pan-cooked chicken, feta and olives.",
+    "image": "./assets/meals/53011.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53011",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+    "prep": 15,
+    "cook": 20,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Chicken",
+    "area": "Greek",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Quinoa",
+        null,
+        "200 g dry, rinsed",
+        "Quinoa"
+      ],
+      [
+        "Chicken",
+        null,
+        "400 g raw boneless skinless breast, thinly sliced",
+        "Chicken"
+      ],
+      [
+        "Olive oil",
+        null,
+        "2 tbsp (27 g)",
+        "Olive oil"
+      ],
+      [
+        "Garlic",
+        null,
+        "1 clove (3 g), minced",
+        "Garlic"
+      ],
+      [
+        "Red onions",
+        null,
+        "80 g, finely sliced",
+        "Red onions"
+      ],
+      [
+        "Olives",
+        null,
+        "40 g, drained",
+        "Olives"
+      ],
+      [
+        "Feta",
+        null,
+        "100 g, crumbled",
+        "Feta"
+      ],
+      [
+        "Lemon",
+        null,
+        "30 ml juice",
+        "Lemon"
+      ],
+      [
+        "Mint",
+        null,
+        "5 g, chopped",
+        "Mint"
+      ],
+      [
+        "Red chilli",
+        null,
+        "10 g, chopped",
+        "Red chilli"
+      ]
+    ],
+    "steps": [
+      [
+        "Cook the quinoa",
+        "Cook rinsed quinoa in water according to its packet, usually about 15 minutes. Drain any excess water and fluff with a fork."
+      ],
+      [
+        "Cook the chicken",
+        "Toss chicken with garlic, chilli and half the oil. Cook in a non-stick frying pan over medium heat for 7–10 minutes, turning, until the centre reaches 74°C."
+      ],
+      [
+        "Build the salad",
+        "Mix warm quinoa with onion, olives, feta, mint, lemon juice and remaining oil. Divide between four bowls and add the chicken."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53011",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/griddled-chicken-quinoa-greek-salad",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Quinoa",
+        "profile": "quinoa",
+        "grams": 200
+      },
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 400
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 27
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 3
+      },
+      {
+        "ingredient": "Red onions",
+        "profile": "onion",
+        "grams": 80
+      },
+      {
+        "ingredient": "Olives",
+        "profile": "olives",
+        "grams": 40
+      },
+      {
+        "ingredient": "Feta",
+        "profile": "feta",
+        "grams": 100
+      },
+      {
+        "ingredient": "Lemon",
+        "profile": "lemon",
+        "grams": 30
+      },
+      {
+        "ingredient": "Mint",
+        "profile": "mint",
+        "grams": 5
+      },
+      {
+        "ingredient": "Red chilli",
+        "profile": "chilli",
+        "grams": 10
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Quinoa weight is dry. Uses oil rather than the source recipe’s additional butter; the calculation matches the listed version."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "akcrkXYr61M",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
+    "id": "mealdb-53166",
+    "title": "Chickpea, Chorizo & Spinach Stew",
+    "description": "A one-pot chickpea stew using canned beans and a small amount of chorizo.",
+    "image": "./assets/meals/53166.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53166",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/xvnx8j1763287209.jpg",
+    "prep": 10,
+    "cook": 25,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Pork",
+    "area": "Spanish",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Chorizo",
+        null,
+        "180 g, diced",
+        "Chorizo"
+      ],
+      [
+        "Chickpeas",
+        null,
+        "480 g drained (about 2 × 400 g cans)",
+        "Chickpeas"
+      ],
+      [
+        "Spinach",
+        null,
+        "300 g",
+        "Spinach"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tsp (5 g)",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "150 g, chopped",
+        "Onion"
+      ],
+      [
+        "Carrot",
+        null,
+        "100 g, diced",
+        "Carrot"
+      ],
+      [
+        "Celery",
+        null,
+        "60 g, diced",
+        "Celery"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "400 ml, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Paprika",
+        null,
+        "1 tsp",
+        "Paprika"
+      ],
+      [
+        "Thyme",
+        null,
+        "½ tsp dried",
+        "Thyme"
+      ],
+      [
+        "Vinegar",
+        null,
+        "1 tbsp (15 g)",
+        "Vinegar"
+      ]
+    ],
+    "steps": [
+      [
+        "Start the base",
+        "Heat oil in a saucepan. Cook chorizo for 5 minutes, then add onion, carrot and celery. Cook for 5 more minutes. If using fresh uncooked chorizo, ensure it reaches 71°C."
+      ],
+      [
+        "Simmer",
+        "Stir in garlic, paprika and thyme for 30 seconds. Add drained chickpeas and stock. Simmer for 10 minutes until the carrot is tender."
+      ],
+      [
+        "Add the greens",
+        "Stir in spinach in handfuls and cook for 2–3 minutes until wilted. Add vinegar and divide into four bowls. Bread is optional and extra."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53166",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/chickpea-chorizo-spinach-stew",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Chorizo",
+        "profile": "chorizo",
+        "grams": 180
+      },
+      {
+        "ingredient": "Chickpeas",
+        "profile": "chickpeas",
+        "grams": 480
+      },
+      {
+        "ingredient": "Spinach",
+        "profile": "spinach",
+        "grams": 300
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 150
+      },
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 100
+      },
+      {
+        "ingredient": "Celery",
+        "profile": "celery",
+        "grams": 60
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 400
+      },
+      {
+        "ingredient": "Vinegar",
+        "profile": "vinegar",
+        "grams": 15
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Uses drained canned chickpeas and prepared stock. Generic pork chorizo approximates the sausage; brands differ. Bread is not included."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "nI2Sm4B3gWU",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
   },
   {
     "id": "mealdb-52868",
@@ -2423,6 +4968,162 @@
     ],
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-53047",
+    "title": "Moroccan-Style Carrot Soup",
+    "description": "A smooth carrot soup with warming spices and a little lemon.",
+    "image": "./assets/meals/53047.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53047",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg",
+    "prep": 10,
+    "cook": 25,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Vegetarian",
+    "area": "Moroccan",
+    "easy": true,
+    "equipment": [
+      "Stovetop",
+      "Blender"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Carrot",
+        null,
+        "600 g, peeled and diced",
+        "Carrot"
+      ],
+      [
+        "Onion",
+        null,
+        "150 g, chopped",
+        "Onion"
+      ],
+      [
+        "Garlic",
+        null,
+        "4 cloves (12 g), chopped",
+        "Garlic"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Cumin",
+        null,
+        "1 tsp (2 g)",
+        "Cumin"
+      ],
+      [
+        "Ground coriander",
+        null,
+        "½ tsp",
+        "Ground coriander"
+      ],
+      [
+        "Garam masala",
+        null,
+        "¼ tsp",
+        "Garam masala"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "800 ml, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Lemon",
+        null,
+        "1 tbsp (15 ml) juice",
+        "Lemon"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g fresh leaves",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Soften the onion",
+        "Heat oil in a saucepan. Cook onion for 5 minutes. Stir in garlic, cumin, ground coriander and garam masala for 30 seconds."
+      ],
+      [
+        "Simmer",
+        "Add carrots and stock. Bring to a simmer and cook for 18–20 minutes until the carrots are very tender."
+      ],
+      [
+        "Blend",
+        "Take off the heat and blend with an immersion blender, keeping the head submerged. Add lemon juice and season. Divide into four starter portions and scatter over fresh coriander."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53047",
+    "originalSource": "https://www.sanjeevkapoor.com/Recipe/Moroccan-Carrot-Soup.html",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 600
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 150
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 12
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Cumin",
+        "profile": "cumin",
+        "grams": 2
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 800
+      },
+      {
+        "ingredient": "Lemon",
+        "profile": "lemon",
+        "grams": 15
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Adds a measured stock quantity missing from the API ingredient list. Makes four starter portions; bread or cream, if added, is extra."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "7tDWOpnIhok",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
   },
   {
     "id": "mealdb-52797",
@@ -3250,6 +5951,161 @@
     "photoKind": "food-photograph"
   },
   {
+    "id": "mealdb-53210",
+    "title": "Thai-Style Pumpkin Soup",
+    "description": "A simple pumpkin soup with coconut milk and curry paste, cooked entirely on the stovetop.",
+    "image": "./assets/meals/53210.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53210",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/1brbso1763585098.jpg",
+    "prep": 15,
+    "cook": 25,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Vegetarian",
+    "area": "Thai",
+    "easy": true,
+    "equipment": [
+      "Stovetop",
+      "Blender"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Pumpkin",
+        null,
+        "800 g peeled, seeded flesh in small cubes",
+        "Pumpkin"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "150 g, chopped",
+        "Onion"
+      ],
+      [
+        "Ginger",
+        null,
+        "15 g, grated",
+        "Ginger"
+      ],
+      [
+        "Vegetarian red curry paste",
+        null,
+        "2 tbsp (30 g)",
+        "Vegetarian red curry paste"
+      ],
+      [
+        "Coconut milk",
+        null,
+        "200 ml canned",
+        "Coconut milk"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "600 ml, prepared",
+        "Vegetable stock"
+      ],
+      [
+        "Lime",
+        null,
+        "20 ml juice",
+        "Lime"
+      ],
+      [
+        "Coriander",
+        null,
+        "5 g, chopped",
+        "Coriander"
+      ]
+    ],
+    "steps": [
+      [
+        "Soften the onion",
+        "Heat oil in a saucepan. Cook onion for 5 minutes, then stir in ginger and curry paste for 1 minute."
+      ],
+      [
+        "Simmer pumpkin",
+        "Add small pumpkin cubes, coconut milk and stock. Bring to a simmer and cook for 15–20 minutes until the pumpkin crushes easily."
+      ],
+      [
+        "Blend and serve",
+        "Remove from heat and use an immersion blender to blend smooth, keeping its head submerged to avoid splashes. Stir in lime juice, divide into four bowls and finish with coriander."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53210",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/thai-pumpkin-soup",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Pumpkin",
+        "profile": "pumpkin",
+        "grams": 800
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 150
+      },
+      {
+        "ingredient": "Ginger",
+        "profile": "ginger",
+        "grams": 15
+      },
+      {
+        "ingredient": "Vegetarian red curry paste",
+        "profile": "spice",
+        "grams": 30
+      },
+      {
+        "ingredient": "Coconut milk",
+        "profile": "coconutMilk",
+        "grams": 200
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 600
+      },
+      {
+        "ingredient": "Lime",
+        "profile": "limeJuice",
+        "grams": 20
+      },
+      {
+        "ingredient": "Coriander",
+        "profile": "coriander",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Use a curry paste labelled vegetarian, without shrimp paste. Generic curry powder approximates the paste for nutrition; paste brands differ. Pumpkin weight excludes skin and seeds."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "X3BxTRAhgTc",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
+  },
+  {
     "id": "mealdb-52959",
     "title": "Baked salmon with fennel & tomatoes",
     "description": "A practical recipe for your home kitchen, with checked ingredients and clear cooking steps. Easy to prepare with everyday techniques.",
@@ -3631,6 +6487,331 @@
     "recipeEdited": true,
     "reviewDate": "2026-11-16",
     "photoKind": "food-photograph"
+  },
+  {
+    "id": "mealdb-53143",
+    "title": "Easy Spanish Chicken & Beans",
+    "description": "A one-pan chicken and bean dinner with paprika, peppers and olives.",
+    "image": "./assets/meals/53143.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/53143",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/kzxflc1763194887.jpg",
+    "prep": 15,
+    "cook": 30,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Chicken",
+    "area": "Spanish",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Chicken",
+        null,
+        "500 g raw boneless skinless breast, large cubes",
+        "Chicken"
+      ],
+      [
+        "Chorizo",
+        null,
+        "100 g, diced",
+        "Chorizo"
+      ],
+      [
+        "White beans",
+        null,
+        "240 g drained canned butter beans",
+        "White beans"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tsp (5 g)",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "150 g, chopped",
+        "Onion"
+      ],
+      [
+        "Red pepper",
+        null,
+        "200 g, sliced",
+        "Red pepper"
+      ],
+      [
+        "Garlic",
+        null,
+        "3 cloves (9 g), minced",
+        "Garlic"
+      ],
+      [
+        "Tomato",
+        null,
+        "400 g canned chopped tomatoes",
+        "Tomato"
+      ],
+      [
+        "Olives",
+        null,
+        "60 g, drained",
+        "Olives"
+      ],
+      [
+        "Paprika",
+        null,
+        "1 tsp smoked",
+        "Paprika"
+      ],
+      [
+        "Water",
+        null,
+        "150 ml",
+        "Water"
+      ],
+      [
+        "Parsley",
+        null,
+        "5 g, chopped",
+        "Parsley"
+      ]
+    ],
+    "steps": [
+      [
+        "Brown the meat",
+        "Heat oil in a wide lidded pan. Cook chicken and chorizo for 5–6 minutes, turning to colour the chicken. Fresh uncooked chorizo must reach 71°C before serving."
+      ],
+      [
+        "Add vegetables",
+        "Stir in onion and pepper for 5 minutes, then garlic and paprika for 30 seconds. Add tomatoes and water."
+      ],
+      [
+        "Simmer",
+        "Cover loosely and simmer for 15 minutes. Stir in drained beans and olives for another 5 minutes. Check chicken reaches 74°C and beans are hot throughout."
+      ],
+      [
+        "Serve",
+        "Finish with parsley and divide into four portions. This version includes beans; extra bread or rice adds to the nutrition."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/53143",
+    "originalSource": "https://www.bbcgoodfood.com/recipes/easy-spanish-chicken",
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Chicken",
+        "profile": "chicken",
+        "grams": 500
+      },
+      {
+        "ingredient": "Chorizo",
+        "profile": "chorizo",
+        "grams": 100
+      },
+      {
+        "ingredient": "White beans",
+        "profile": "whiteBeans",
+        "grams": 240
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 5
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 150
+      },
+      {
+        "ingredient": "Red pepper",
+        "profile": "redPepper",
+        "grams": 200
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 9
+      },
+      {
+        "ingredient": "Tomato",
+        "profile": "cannedTomato",
+        "grams": 400
+      },
+      {
+        "ingredient": "Olives",
+        "profile": "olives",
+        "grams": 60
+      },
+      {
+        "ingredient": "Parsley",
+        "profile": "parsley",
+        "grams": 5
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Boneless chicken breast replaces bone-in thighs for faster cooking. Uses drained canned beans; generic white beans approximate butter beans and generic chorizo approximates the sausage."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "EusTpzrqYK4",
+    "videoNote": "Related Spanish chicken tutorial uses rice. This written version uses canned beans and has its own ingredient quantities and nutrition."
+  },
+  {
+    "id": "mealdb-52815",
+    "title": "French Lentils with Garlic & Thyme",
+    "description": "A low-effort pot of lentils and vegetables, with no soaking required.",
+    "image": "./assets/meals/52815.jpg",
+    "photoCredit": "TheMealDB community",
+    "photoSource": "https://www.themealdb.com/meal/52815",
+    "photoKind": "food-photograph",
+    "photoReviewed": true,
+    "mediaOriginalUrl": "https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg",
+    "prep": 10,
+    "cook": 35,
+    "wait": 0,
+    "waitLabel": "Rest",
+    "servings": 4,
+    "category": "Vegetarian",
+    "area": "France",
+    "easy": true,
+    "equipment": [
+      "Stovetop"
+    ],
+    "equipmentInferred": false,
+    "ingredients": [
+      [
+        "Lentils",
+        null,
+        "250 g dry green or puy lentils, rinsed",
+        "Lentils"
+      ],
+      [
+        "Olive oil",
+        null,
+        "1 tbsp (14 g)",
+        "Olive oil"
+      ],
+      [
+        "Onion",
+        null,
+        "150 g, chopped",
+        "Onion"
+      ],
+      [
+        "Carrot",
+        null,
+        "100 g, diced",
+        "Carrot"
+      ],
+      [
+        "Celery",
+        null,
+        "100 g, diced",
+        "Celery"
+      ],
+      [
+        "Garlic",
+        null,
+        "2 cloves (6 g), minced",
+        "Garlic"
+      ],
+      [
+        "Vegetable stock",
+        null,
+        "800 ml, prepared, plus extra water as needed",
+        "Vegetable stock"
+      ],
+      [
+        "Thyme",
+        null,
+        "1 tsp dried",
+        "Thyme"
+      ],
+      [
+        "Bay leaf",
+        null,
+        "1",
+        "Bay leaf"
+      ]
+    ],
+    "steps": [
+      [
+        "Soften vegetables",
+        "Heat oil in a saucepan. Cook onion, carrot and celery for 5 minutes. Stir in garlic and thyme for 30 seconds."
+      ],
+      [
+        "Simmer the lentils",
+        "Add rinsed lentils, stock and bay leaf. Bring to a boil, then simmer uncovered for 25–30 minutes, stirring occasionally. Add water if the pan becomes dry; older lentils may need longer."
+      ],
+      [
+        "Finish",
+        "When lentils are tender, remove the bay leaf. Season and divide into four light bowls or side portions."
+      ]
+    ],
+    "sourceQuantities": true,
+    "recipeEdited": true,
+    "sourceUrl": "https://www.themealdb.com/meal/52815",
+    "originalSource": null,
+    "nutritionKind": "calculated",
+    "nutritionSource": "https://fdc.nal.usda.gov/download-datasets/",
+    "nutritionComponents": [
+      {
+        "ingredient": "Lentils",
+        "profile": "lentils",
+        "grams": 250
+      },
+      {
+        "ingredient": "Olive oil",
+        "profile": "oil",
+        "grams": 14
+      },
+      {
+        "ingredient": "Onion",
+        "profile": "onion",
+        "grams": 150
+      },
+      {
+        "ingredient": "Carrot",
+        "profile": "carrot",
+        "grams": 100
+      },
+      {
+        "ingredient": "Celery",
+        "profile": "celery",
+        "grams": 100
+      },
+      {
+        "ingredient": "Garlic",
+        "profile": "garlic",
+        "grams": 6
+      },
+      {
+        "ingredient": "Vegetable stock",
+        "profile": "vegStock",
+        "grams": 800
+      }
+    ],
+    "nutritionNote": "Estimated from the listed edible weights and generic USDA foods, divided by the stated servings. Includes listed oil and toppings. Optional sides and tiny quantities of seasoning are excluded; brands and portions change the result.",
+    "timingNote": "Editorial estimate for the written method. Ready-cooked ingredients are identified in the list; making those from scratch adds time.",
+    "reviewNotes": [
+      "An easy home-kitchen adaptation with explicit quantities and portions. Uses dry green or puy lentils, not red lentils. Makes four light portions; bread or meat served alongside is extra. The related tutorial is a soup variation."
+    ],
+    "reviewDate": "2026-11-17",
+    "videoId": "CrlTS1mJQMA",
+    "videoNote": "Related cooking tutorial. Follow the written recipe for the reviewed quantities and method; ingredients and portions in the video may differ."
   },
   {
     "id": "mealdb-52956",

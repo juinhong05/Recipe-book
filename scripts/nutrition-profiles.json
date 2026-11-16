@@ -362,6 +362,222 @@
       "description": "Parsley, fresh",
       "kcal": 36.0,
       "protein": 2.97
+    },
+    "cucumber": {
+      "fdcId": 168409,
+      "description": "Cucumber, with peel, raw",
+      "kcal": 15.0,
+      "protein": 0.65
+    },
+    "mozzarella": {
+      "fdcId": 170845,
+      "description": "Cheese, mozzarella, whole milk",
+      "protein": 22.17,
+      "kcal": 299.0
+    },
+    "tuna": {
+      "fdcId": 173709,
+      "description": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",
+      "kcal": 86.0,
+      "protein": 19.44
+    },
+    "quinoa": {
+      "fdcId": 168874,
+      "description": "Quinoa, uncooked",
+      "protein": 14.12,
+      "kcal": 368.0
+    },
+    "butter": {
+      "fdcId": 173430,
+      "description": "Butter, without salt",
+      "kcal": 717.0,
+      "protein": 0.85
+    },
+    "olives": {
+      "fdcId": 169094,
+      "description": "Olives, ripe, canned (small-extra large)",
+      "protein": 0.84,
+      "kcal": 116.0
+    },
+    "chorizo": {
+      "fdcId": 173859,
+      "description": "Sausage, pork, chorizo, link or ground, raw",
+      "kcal": 296.0,
+      "protein": 13.63
+    },
+    "celery": {
+      "fdcId": 169988,
+      "description": "Celery, raw",
+      "kcal": 14.0,
+      "protein": 0.69
+    },
+    "cabbage": {
+      "fdcId": 169975,
+      "description": "Cabbage, raw",
+      "kcal": 25.0,
+      "protein": 1.28
+    },
+    "ham": {
+      "fdcId": 173864,
+      "description": "Ham, sliced, regular (approximately 11% fat)",
+      "kcal": 164.0,
+      "protein": 16.6
+    },
+    "ramen": {
+      "fdcId": 171177,
+      "description": "Soup, ramen noodle, any flavor, dry",
+      "kcal": 440.0,
+      "protein": 10.17
+    },
+    "silkenTofu": {
+      "fdcId": 172449,
+      "description": "Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",
+      "kcal": 61.0,
+      "protein": 7.17
+    },
+    "edamame": {
+      "fdcId": 168410,
+      "description": "Edamame, frozen, unprepared",
+      "protein": 11.22,
+      "kcal": 109.0
+    },
+    "pakChoi": {
+      "fdcId": 170390,
+      "description": "Cabbage, chinese (pak-choi), raw",
+      "protein": 1.5,
+      "kcal": 13.0
+    },
+    "broccoliFlorets": {
+      "fdcId": 170379,
+      "description": "Broccoli, raw",
+      "kcal": 34.0,
+      "protein": 2.82
+    },
+    "hoisin": {
+      "fdcId": 172886,
+      "description": "Sauce, hoisin, ready-to-serve",
+      "kcal": 220.0,
+      "protein": 3.31
+    },
+    "cashew": {
+      "fdcId": 170571,
+      "description": "Nuts, cashew nuts, dry roasted, without salt added",
+      "kcal": 574.0,
+      "protein": 15.31
+    },
+    "sesameSeeds": {
+      "fdcId": 170150,
+      "description": "Seeds, sesame seeds, whole, dried",
+      "protein": 17.73,
+      "kcal": 573.0
+    },
+    "salmon": {
+      "fdcId": 175167,
+      "description": "Fish, salmon, Atlantic, farmed, raw",
+      "kcal": 208.0,
+      "protein": 20.42
+    },
+    "honey": {
+      "fdcId": 169640,
+      "description": "Honey",
+      "protein": 0.3,
+      "kcal": 304.0
+    },
+    "redPepper": {
+      "fdcId": 170108,
+      "description": "Peppers, sweet, red, raw",
+      "kcal": 26.0,
+      "protein": 0.99
+    },
+    "whiteBeans": {
+      "fdcId": 175204,
+      "description": "Beans, white, mature seeds, canned",
+      "kcal": 114.0,
+      "protein": 7.26
+    },
+    "pork": {
+      "fdcId": 168249,
+      "description": "Pork, fresh, loin, tenderloin, separable lean only, raw",
+      "protein": 20.95,
+      "kcal": 109.0
+    },
+    "pumpkin": {
+      "fdcId": 168448,
+      "description": "Pumpkin, raw",
+      "kcal": 26.0,
+      "protein": 1.0
+    },
+    "coconutMilk": {
+      "fdcId": 170173,
+      "description": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)",
+      "kcal": 197.0,
+      "protein": 2.02
+    },
+    "shiitake": {
+      "fdcId": 169242,
+      "description": "Mushrooms, shiitake, raw",
+      "protein": 2.24,
+      "kcal": 34.0
+    },
+    "corn": {
+      "fdcId": 169998,
+      "description": "Corn, sweet, yellow, raw",
+      "protein": 3.27,
+      "kcal": 86.0
+    },
+    "radish": {
+      "fdcId": 169276,
+      "description": "Radishes, raw",
+      "kcal": 16.0,
+      "protein": 0.68
+    },
+    "cheddar": {
+      "fdcId": 173414,
+      "description": "Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",
+      "kcal": 403.0,
+      "protein": 22.87
+    },
+    "fishSauce": {
+      "fdcId": 174531,
+      "description": "Sauce, fish, ready-to-serve",
+      "kcal": 35.0,
+      "protein": 5.06
+    },
+    "limeJuice": {
+      "fdcId": 168156,
+      "description": "Lime juice, raw",
+      "protein": 0.42,
+      "kcal": 25.0
+    },
+    "cookedRice": {
+      "fdcId": 168878,
+      "description": "Rice, white, long-grain, regular, enriched, cooked",
+      "protein": 2.69,
+      "kcal": 130.0
+    },
+    "tahini": {
+      "fdcId": 170189,
+      "description": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+      "kcal": 595.0,
+      "protein": 17.0
+    },
+    "chickpeas": {
+      "fdcId": 173800,
+      "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+      "protein": 7.05,
+      "kcal": 139.0
+    },
+    "spinach": {
+      "fdcId": 168462,
+      "description": "Spinach, raw",
+      "protein": 2.86,
+      "kcal": 23.0
+    },
+    "prawns": {
+      "fdcId": 174210,
+      "description": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",
+      "kcal": 71.0,
+      "protein": 13.61
     }
   }
 }

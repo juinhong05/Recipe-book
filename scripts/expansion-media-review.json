@@ -1,0 +1,167 @@
+{
+  "reviewedOn": "2026-11-17",
+  "photoReview": "All 20 images visually inspected: food photographs without people, embedded text or video screenshots.",
+  "tutorialCheck": "YouTube oEmbed title and author checked; tutorials are related variations and require provider availability.",
+  "recipes": [
+    {
+      "id": "53367",
+      "videoId": "mUr-7wjhHuU",
+      "photoOk": true,
+      "title": "Chicken Fried Rice",
+      "author": "Cook! Stacey Cook",
+      "videoOk": true
+    },
+    {
+      "id": "53198",
+      "videoId": "9wZAYbPcF-I",
+      "photoOk": true,
+      "title": "Thai Fried Rice with Prawns • Khao Pad Goong | Thai Girl in the Kitchen",
+      "author": "Thai Girl in the Kitchen",
+      "videoOk": true
+    },
+    {
+      "id": "52915",
+      "videoId": "qXPhVYpQLPA",
+      "photoOk": true,
+      "title": "French Omelette - How to Make Soft, Buttery French-Style Omelets",
+      "author": "Food Wishes",
+      "videoOk": true
+    },
+    {
+      "id": "53378",
+      "videoId": "q37qn81lg5c",
+      "photoOk": true,
+      "title": "BEST Viral Cucumber Salad with Asian Sesame Dressing Recipe",
+      "author": "Gentle Tummy",
+      "videoOk": true
+    },
+    {
+      "id": "52777",
+      "videoId": "e52IL8zYmaE",
+      "photoOk": true,
+      "title": "Mediterranean Pasta Salad Recipe",
+      "author": "Gimme Some Oven",
+      "videoOk": true
+    },
+    {
+      "id": "53011",
+      "videoId": "akcrkXYr61M",
+      "photoOk": true,
+      "title": "CHICKEN QUINOA SALAD - Perfect for Hot Summer Days!!!",
+      "author": "Kendra Lee",
+      "videoOk": true
+    },
+    {
+      "id": "53166",
+      "videoId": "nI2Sm4B3gWU",
+      "photoOk": true,
+      "title": "Spanish Chickpea & Chorizo Stew | Potaje de Garbanzos y Chorizo Recipe",
+      "author": "Spain on a Fork",
+      "videoOk": true
+    },
+    {
+      "id": "53368",
+      "videoId": "DiFUyPAGoug",
+      "photoOk": true,
+      "title": "The 'Singapore' noodles I've never eaten in Singapore - Marion's Kitchen",
+      "author": "Marion Grasby",
+      "videoOk": true
+    },
+    {
+      "id": "53383",
+      "videoId": "AbJNVnkndS4",
+      "photoOk": true,
+      "title": "How to make an Easy Shoyu Ramen at home in 10 minutes (recipe)",
+      "author": "Way of Ramen",
+      "videoOk": true
+    },
+    {
+      "id": "53240",
+      "videoId": "l8wuWeNy3J4",
+      "photoOk": true,
+      "title": "Cashew Tofu Stir Fry | Healthy & Quick Meal | Tofu Stir Fry | Thai Cashew Tofu",
+      "author": "Healthy Indian Recipes",
+      "videoOk": true
+    },
+    {
+      "id": "53369",
+      "videoId": "bSLv5vFn5Z0",
+      "photoOk": true,
+      "title": "Quickest recipe: Silken Tofu with Soy Sauce 👨🏻‍🍳🔥",
+      "author": "Chef Chris Cho",
+      "videoOk": true
+    },
+    {
+      "id": "52815",
+      "videoId": "CrlTS1mJQMA",
+      "photoOk": true,
+      "title": "French Lentil Soup w/ Tarragon & Thyme | The Vegan Test Kitchen",
+      "author": "The Vegan Test Kitchen",
+      "videoOk": true
+    },
+    {
+      "id": "52773",
+      "videoId": "4MpYuaJsvRw",
+      "photoOk": true,
+      "title": "Teriyaki Salmon with Soba Noodle Salad | Gordon Ramsay",
+      "author": "Gordon Ramsay",
+      "videoOk": true
+    },
+    {
+      "id": "53143",
+      "videoId": "EusTpzrqYK4",
+      "photoOk": true,
+      "title": "Spanish Chicken & Dirty Rice | Easy One Pot Cooking Perfection!",
+      "author": "Kitchen Sanctuary",
+      "videoOk": true
+    },
+    {
+      "id": "52954",
+      "videoId": "KgV9Zq3aSTo",
+      "photoOk": true,
+      "title": "How to Make Hot Sour Soup",
+      "author": "Sue and Gambo",
+      "videoOk": true
+    },
+    {
+      "id": "53210",
+      "videoId": "X3BxTRAhgTc",
+      "photoOk": true,
+      "title": "Thai Coconut Pumpkin Soup",
+      "author": "RecipeTin Eats",
+      "videoOk": true
+    },
+    {
+      "id": "53234",
+      "videoId": "__Kh1sizUAM",
+      "photoOk": true,
+      "title": "🔴 LIVE | Quick Salmon Noodle Soup with Homemade Broth | Gluten Free ",
+      "author": "Next with Nicola",
+      "videoOk": true
+    },
+    {
+      "id": "53047",
+      "videoId": "7tDWOpnIhok",
+      "photoOk": true,
+      "title": "How to make 'Moroccan Carrot Soup' - An Easy, Healthy and Delicious Recipe by FOOD SPACE!",
+      "author": "Food space by Saumya",
+      "videoOk": true
+    },
+    {
+      "id": "53232",
+      "videoId": "behSkhzKpHI",
+      "photoOk": true,
+      "title": "Vietnamese Chicken Salad",
+      "author": "RecipeTin Eats",
+      "videoOk": true
+    },
+    {
+      "id": "53159",
+      "videoId": "K2Ba5BWYXUU",
+      "photoOk": true,
+      "title": "Chorizo Omelette | Traditional Spanish Omelette With Chorizo",
+      "author": "Delicious Adventures",
+      "videoOk": true
+    }
+  ]
+}
